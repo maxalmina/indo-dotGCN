@@ -1,0 +1,1036 @@
+det nsubj root obj cc conj case nmod cc nsubj conj obj advmod amod obj punct
+root obj obj case nmod:poss obl case nmod:poss obl mark advcl mark nsubj advmod advcl punct nsubj parataxis obj xcomp det amod obj amod obl:tmod punct
+nmod:poss nsubj aux root case det compound compound obl punct nsubj parataxis mark xcomp det compound flat amod obj advmod punct
+nsubj case compound nmod cop root punct advmod parataxis case det obl punct
+det root case det compound compound nmod
+amod nsubj cop case amod root det parataxis case nummod nmod punct amod compound conj advmod advmod parataxis punct case obl case det compound compound nmod
+nsubj advmod root det nummod compound obj case det amod compound nmod cc nmod:poss conj cc conj punct nsubj parataxis obj mark acl punct
+det nsubj root det obj case amod compound compound compound nmod case det obl case det nmod punct
+advmod root det amod compound obj case compound obl case obl
+punct mark nsubj advcl det amod obj case nmod punct root obj mark xcomp obj punct punct
+nsubj root nsubj aux ccomp case obl advmod punct aux nsubj parataxis iobj det obj case nmod:poss nmod punct parataxis flat punct list punct list punct
+root punct case det obl det nsubj aux appos mark xcomp cc conj obj punct
+discourse discourse root obj mark acl xcomp compound compound compound obj cc advmod mark conj case nmod nummod amod obj mark advmod cc conj punct
+nsubj case amod nmod root det amod obl:npmod mark nsubj advcl punct compound obj punct appos punct
+compound nsubj punct nsubj root compound xcomp cc conj obl:tmod case nmod:poss amod amod obl acl det obl:tmod case det obl cc det conj conj amod obj cc det conj case nmod acl case det obl punct
+cc nsubj root mark xcomp obj case det amod compound compound nmod punct mark nsubj advcl case obl punct parataxis punct parataxis amod obj case det amod compound compound obl punct
+nsubj flat root mark advcl amod compound compound compound punct obj
+root compound obj case obl advmod case det compound obl cc conj punct parataxis obj cc conj nmod:poss obj punct parataxis
+root obj cc conj case obl case det amod nummod compound obl punct compound appos nummod
+compound amod compound nsubj root punct advmod punct parataxis nsubj parataxis obj advmod punct
+root obj punct det nsubj aux parataxis advmod advmod nsubj parataxis compound obj mark advcl obj case nmod:poss obl punct punct parataxis obj case obl
+root nsubj nsubj acl:relcl mark nsubj case nmod cop det nsubj case nmod flat cop amod ccomp punct advmod punct parataxis compound:prt obj punct parataxis punct
+compound compound compound compound compound root case nmod punct compound compound punct parataxis case compound nmod punct punct punct appos punct discourse nsubj parataxis compound nummod obj
+compound nsubj root amod compound obj punct case amod obl punct nsubj flat parataxis advmod amod cc conj compound obj punct
+advmod root case amod compound compound obl case det amod obl case nmod:poss nmod punct discourse punct
+nsubj root amod amod obj case det obl mark nsubj flat advcl det amod compound compound obj case nmod punct nsubj parataxis punct punct
+advmod punct det nsubj case det nmod cop root mark nsubj aux ccomp amod compound obj case nmod:poss obl punct cc conj acl mark xcomp det obj xcomp punct advmod det obl det nsubj acl:relcl obj advmod advmod punct
+compound compound root punct advmod aux nsubj cop parataxis
+nsubj cc conj aux root advmod punct punct nmod:poss parataxis punct advcl advmod case nummod obl punct parataxis punct
+root amod compound obj punct punct nsubj parataxis mark cop xcomp punct advmod amod conj cc conj case nummod compound obl nummod punct
+det nsubj root advmod mark ccomp case compound obl case obl punct
+root advmod obj nummod case nmod flat parataxis det obj case obl case nmod punct appos nummod punct nummod punct parataxis advmod punct punct
+nsubj root det compound obj punct advmod advcl compound:prt case det obl advmod nsubj parataxis xcomp case obl advmod punct
+advmod root mark csubj obj flat ccomp det obj nsubj acl:relcl advmod amod obj case det obl case amod nmod punct appos flat punct
+det compound root cc det compound compound conj acl case obl flat amod obl case det compound compound compound nmod punct punct
+nsubj punct nsubj cop nmod:poss amod appos punct root nsubj flat punct
+case case det compound obl case nmod case compound nmod advmod punct nsubj case nmod aux root advmod case amod obl case det compound nmod punct
+discourse mark advcl root case obl case case nmod:poss compound punct obl case compound nmod
+amod root punct compound compound nummod compound list acl obj punct list punct appos nummod punct conj punct conj punct compound amod conj advmod parataxis punct
+nsubj root nsubj xcomp case det obl case nmod:poss nmod punct parataxis nummod obj det obj compound:prt cc conj obj case nmod:poss amod obl case det nmod punct discourse
+nsubj flat cop det root discourse punct discourse
+compound nsubj root obj case det nmod case nmod cc conj nsubj:pass aux aux:pass ccomp mark xcomp obj punct
+compound obl:tmod expl cop advmod root advmod amod nsubj csubj obj case det compound obl acl case obl case nmod case obl case nmod punct
+root mark nsubj:pass aux:pass advcl case det obl case nmod flat mark nsubj advcl obj xcomp cc conj punct advmod nsubj ccomp compound obj punct punct
+case discourse compound root punct punct punct punct punct punct punct parataxis
+nsubj nsubj root compound obl:tmod mark advcl compound obj case compound nmod punct conj flat cc amod amod conj punct punct
+det nsubj case nmod flat cc conj flat punct nsubj root obj punct nsubj parataxis obj punct
+nmod:poss root punct nsubj flat cop det:predet det appos punct nsubj aux appos det compound compound obj advmod mark advmod cop nsubj advcl
+det amod compound nsubj mark acl det obj case nmod punct cc advmod conj case nmod cc amod amod compound conj punct cc det conj mark acl obj case amod cc conj amod obl punct aux advmod root det compound obj xcomp amod obj case nmod:poss obl punct
+nsubj root mark case det nummod obl nsubj aux ccomp nsubj aux advmod ccomp mark xcomp obj punct cc case det obl nsubj aux conj compound:prt case det obl punct nsubj aux acl:relcl mark xcomp obj punct
+nummod compound nsubj root compound obj mark advcl compound compound obj punct
+nsubj flat punct nsubj root compound obj punct punct parataxis case obl punct nsubj parataxis punct amod obj punct discourse vocative flat punct discourse
+aux csubj nsubj root obj amod mark advcl case obl mark nsubj aux advcl mark advcl obj flat punct
+nmod:poss compound compound root acl advmod case det amod case compound obl punct
+nsubj advmod root compound obj punct nsubj advmod parataxis amod nsubj cop ccomp mark xcomp obj advmod advmod punct
+obj cop nsubj advmod root case advmod punct cc advmod aux nsubj conj case nmod:poss flat flat case obl punct advmod parataxis punct
+nsubj root xcomp mark xcomp det amod compound obj nummod punct cop parataxis mark advcl obj punct nsubj parataxis obj advmod obl:tmod cc nsubj advmod conj xcomp punct
+nmod:poss flat flat case nsubj aux aux cop det amod root punct mark nsubj advcl det obj punct discourse punct parataxis compound:prt det compound compound obj punct
+nsubj root det obj acl case det amod compound compound obl mark nmod:poss nsubj cop det acl:relcl case det nmod cc conj obj nsubj acl:relcl aux ccomp case obl cc nmod:poss amod conj punct det compound compound compound compound appos punct
+root punct amod nsubj cop compound parataxis
+punct root punct obj flat punct compound list punct parataxis
+det nsubj root mark nsubj case nmod cc conj punct acl case det obl case det nmod case obl punct aux ccomp mark xcomp mark det amod nsubj aux advcl case det amod compound compound obl punct
+root case det compound nmod punct nsubj flat cop amod compound appos case det amod compound nmod nsubj appos punct punct
+root det compound obj
+cop advmod root cc nsubj advmod conj det compound obj obj nsubj flat flat acl:relcl mark xcomp punct
+det nsubj cop root case amod obl punct amod appos case nmod case compound amod nmod punct parataxis case nmod
+nsubj punct appos punct appos nummod punct nsubj flat punct flat flat flat case nmod cc nmod:poss amod conj nsubj flat root obj advmod obl:tmod case det obl mark acl amod obj case nmod:poss amod nmod punct
+advmod aux nsubj root obj obj advmod advmod punct punct parataxis advmod advmod advmod ccomp cc det conj advmod advmod advmod nsubj aux acl:relcl case obl punct discourse punct discourse
+root obj obj flat punct advmod case obl flat cc nsubj aux conj compound obj case det nmod punct
+compound nsubj punct appos cc conj punct compound nsubj aux root mark xcomp det advmod amod obj case nmod flat punct obl:tmod punct compound appos punct
+nsubj flat root xcomp case amod obl case det nmod punct
+nsubj root det obj advmod det obl:npmod cc conj nmod:poss obj advmod case obl punct compound compound nsubj cop parataxis advmod punct
+advmod punct nsubj aux root mark nsubj cop advmod ccomp case obl mark nsubj acl obj case nmod acl case obl case det obl flat mark nsubj cop case compound advcl punct
+root acl case amod compound obl punct parataxis punct amod conj compound compound conj punct case compound nmod punct
+nsubj root det compound obj case compound nmod case nmod punct conj obj case det obl acl xcomp punct parataxis discourse punct
+root mark advmod xcomp case obl cc conj obl:tmod punct nsubj parataxis obj case compound obl
+nsubj root det nsubj:pass cc conj nsubj cop acl:relcl case amod obl case det nmod cc aux advmod conj obj case det obl cc conj nmod:poss obj aux:pass ccomp case amod compound obl punct
+compound nsubj aux root obj mark xcomp det compound obj acl mark advcl obj punct nsubj parataxis punct advcl mark xcomp advmod case det obl case compound nmod punct advcl punct mark nsubj aux advmod advcl mark xcomp obj nsubj aux acl:relcl compound obj punct punct
+root punct compound amod amod compound obj punct discourse
+det amod amod root case det nmod nsubj acl:relcl obj case det obl case compound compound nmod punct conj punct cc amod amod conj case compound nmod punct
+mark det compound nsubj advcl mark xcomp amod obj punct nmod:poss amod nsubj case nmod:poss amod nmod cc nmod:poss amod cc conj conj case amod nmod root mark det nsubj cop advmod amod ccomp punct
+csubj obj case nummod obl punct advmod parataxis punct aux cop root mark nsubj advcl obj cc nmod:poss conj case obl cc compound nsubj conj case obl discourse
+compound nsubj flat aux root obj punct nsubj advmod parataxis compound obj punct case case amod obl case nmod punct
+amod nsubj aux root advmod advmod case det obl cc conj punct advmod punct nsubj flat parataxis compound:prt advmod obl:npmod punct advmod
+det nsubj cc det conj case nmod case nmod case det amod nmod case det amod nmod root det obj case advmod nmod punct case det amod obl case nmod cc det advmod advmod amod conj case nmod case compound nmod punct appos flat punct nsubj advmod acl:relcl compound:prt det obj mark fixed mark advcl nmod:poss compound obj mark acl punct
+case det obl punct advmod nsubj:pass nsubj acl:relcl mark xcomp case obl aux:pass root punct punct advmod parataxis punct advmod parataxis case obl case compound obl case nmod:poss obl discourse
+det compound nsubj case compound nmod punct appos punct root case det obl mark compound compound nsubj nsubj acl:relcl compound compound compound compound obj cc conj nmod:poss amod obj case nmod:poss compound nmod case nmod amod obl:tmod cop acl case obl punct
+nsubj root amod amod compound flat nsubj punct case nmod case compound nmod flat punct aux advmod ccomp obj mark det compound nsubj aux advmod acl compound compound obj case det amod nmod case det obl case nmod punct
+compound root punct case compound amod compound nmod case compound nmod punct
+aux advmod root compound obj case obl punct punct
+nsubj root mark xcomp nsubj ccomp obj flat advmod advmod obj nsubj acl:relcl cc nsubj cop det conj punct discourse parataxis punct appos
+root mark csubj det amod compound xcomp punct parataxis punct
+discourse nsubj root nsubj ccomp obj punct nsubj advcl det compound obj punct
+nsubj root obj cc conj case compound obl punct det compound appos punct appos cc conj case nmod punct
+det nsubj cop det root flat case det nmod amod det nsubj cop advmod parataxis
+root nsubj parataxis punct discourse punct compound parataxis punct compound appos advmod acl:relcl nmod punct
+compound nsubj case nmod punct amod nsubj root det obj case nmod:poss flat flat case compound nmod punct
+nsubj punct root det obj compound:prt punct parataxis flat cc conj flat punct nsubj nsubj parataxis obj advmod case obl case case obl
+det amod amod nsubj:pass aux:pass root case det obl case det obl case det compound nmod case det compound nmod punct
+compound nmod:poss flat flat case nsubj punct appos punct cop det amod root case det nmod case det compound compound nmod nummod punct punct compound parataxis
+punct compound nsubj root xcomp case obl advmod fixed punct discourse cop parataxis mark nsubj mark advcl punct
+expl aux cop root mark csubj obj case obl cc conj case compound nmod cc conj conj mark nsubj advcl punct
+nmod:poss compound nsubj root case obl flat case nmod:poss amod obl discourse
+discourse nsubj cop root punct nsubj parataxis obj nummod punct nsubj advmod parataxis compound compound obj punct discourse
+nsubj flat root obj case compound compound obl punct nsubj parataxis iobj det amod compound obj punct cc cop conj mark advcl obj obj punct punct
+advmod root xcomp det obj punct appos flat punct punct det det amod parataxis punct nsubj aux parataxis punct nsubj parataxis punct
+nsubj root det compound compound obj case det obl case compound compound compound nmod punct
+aux det compound compound nsubj root advmod punct punct compound nsubj parataxis compound:prt det obj case compound obl case det obl punct punct
+compound compound compound root
+amod root punct appos amod cc conj flat punct
+root obj cc det conj punct
+nsubj root mark xcomp case obl punct discourse parataxis det obj case nmod:poss obl punct compound appos flat punct
+root obj cop det advcl punct nummod obl:npmod advmod nsubj flat parataxis amod obj case amod obl nsubj parataxis compound obj punct punct
+nsubj nsubj cc conj cop advmod root case obl punct nsubj parataxis obj discourse
+compound root punct parataxis obj cop punct xcomp nsubj aux parataxis xcomp det obj acl advcl case obl punct obj mark nsubj nsubj cop det amod acl punct punct
+discourse nsubj aux advmod root nmod:poss amod obj case compound obl nummod cc nsubj conj obj advmod conj case obl flat flat compound obl appos punct discourse
+advmod root det amod compound flat obj punct amod obl:tmod nsubj aux advmod acl:relcl obj punct parataxis advmod amod obl:tmod punct advmod mark nsubj advcl punct parataxis obj obj flat
+nsubj advmod root advmod case obl punct det parataxis nummod punct nummod punct nummod compound nsubj:pass aux aux:pass parataxis punct conj compound:prt obj punct list punct compound list punct
+discourse nsubj aux root obj cc nsubj conj punct nsubj cop case nmod:poss parataxis cc det advmod amod amod conj nsubj cop acl:relcl punct punct punct
+compound root punct discourse discourse punct nsubj parataxis obj cc advmod conj obj punct compound parataxis punct aux parataxis case compound obl punct compound appos punct
+advmod root obj case nmod:poss nmod det obj case nmod:poss amod obl discourse punct det parataxis punct parataxis
+discourse nsubj root nmod:poss compound compound obj punct nsubj aux parataxis nmod:poss obj
+nsubj root mark aux:pass advmod xcomp cc conj mark nmod:poss amod amod nsubj:pass aux aux:pass ccomp advmod mark det nsubj nsubj acl:relcl amod compound obj cop conj cc conj punct advmod case det obl mark acl obj punct
+discourse punct amod nsubj nummod case nmod:poss nmod cc compound conj punct nsubj nummod nsubj root compound compound obj case obl
+advmod punct nsubj flat punct root discourse punct
+aux root xcomp cc conj case nmod:poss obl cc conj case obl flat punct discourse advmod det nsubj parataxis punct
+nsubj root obj flat flat
+case det obl case det nmod punct nsubj parataxis punct nsubj root mark xcomp amod obj mark acl case det amod compound obl mark acl compound obj punct nsubj acl:relcl obj case det compound obl advmod advcl compound obj punct
+advmod nsubj root compound:prt det obj case obl advmod mark advcl nmod:poss amod obj punct
+det nsubj aux advmod cop root case det obl mark acl det compound compound obj punct conj case det obl case nsubj cop case fixed acl:relcl case nmod punct case nmod acl case obl punct
+root compound:prt compound obj advmod advcl xcomp case det obl case obl
+amod amod nsubj root case nmod:poss amod obl amod cc conj punct nmod:poss amod obj punct amod punct advcl punct discourse parataxis det obj punct compound obj appos punct
+punct nsubj cop det advmod amod root punct parataxis case obl punct
+compound root nummod case det nmod nummod punct parataxis compound obj punct case obl cc nsubj cop advmod advmod conj advmod punct appos punct
+root compound nsubj case compound nmod punct nummod compound appos case compound nmod parataxis det compound obj nmod punct punct
+compound root case nmod case nmod case nmod case nmod case nmod case det nmod punct acl case amod obl case obl case nmod punct appos
+compound root punct nsubj flat punct list punct compound list punct parataxis obj case amod nmod cc advmod conj punct
+det nsubj case nmod:poss compound nmod cop compound root acl det obj punct obj nsubj acl:relcl case obl punct nsubj aux parataxis obj advmod advmod obj
+punct mark nsubj advmod case root punct discourse case obl punct punct
+advmod nsubj advmod root compound:prt obj nummod cc nsubj conj obj punct nsubj cop advmod det parataxis nsubj cop advmod case det amod compound acl:relcl punct
+nsubj punct det nsubj parataxis punct cop root mark nsubj advcl det obj mark acl mark nsubj:pass aux:pass ccomp case nummod cc conj obl punct mark advcl case obl det nsubj cc det conj punct case nmod case det compound nmod punct aux acl:relcl punct
+nsubj root case compound obl case obl punct compound parataxis punct punct
+root advmod punct case obl parataxis xcomp case nmod:poss obl punct parataxis xcomp punct case det obl conj det obj punct parataxis flat flat
+advmod cop nsubj advmod det root case nmod flat punct det appos punct mark parataxis obj punct cop nsubj mark nsubj advcl punct cc advmod conj punct
+root compound nsubj cop parataxis punct parataxis flat punct nmod:poss appos punct nsubj parataxis amod obj discourse
+aux nsubj root obj punct
+compound nsubj root nsubj ccomp amod obj case nmod
+root punct compound nummod compound nsubj cop appos
+discourse nsubj root nmod:poss obj obj
+root punct nsubj punct nsubj parataxis det obj case compound nmod punct appos nsubj acl:relcl punct parataxis punct amod appos nsubj aux acl:relcl det obj punct obj punct discourse punct nsubj parataxis punct
+nsubj aux root amod obj mark acl det amod amod obj nsubj aux mark acl:relcl advmod cc conj nmod:poss obj punct
+aux compound compound nsubj root case obl flat aux amod compound nsubj parataxis case obl flat punct discourse aux parataxis case nsubj parataxis obj discourse
+discourse det root mark acl case nmod:poss obl punct
+discourse punct cop advmod root case obl case nmod nmod advmod case compound compound obl punct cc nsubj conj amod obj punct
+compound nummod punct compound root punct advmod nmod:poss amod appos discourse
+nsubj root det compound obj case nmod flat acl case amod obl punct amod parataxis
+nsubj flat root mark xcomp case amod compound compound obl advmod parataxis advmod det compound compound obj
+det nsubj case nmod root nmod:poss obj mark advmod nsubj advcl obj punct nsubj advmod parataxis cc advmod conj nummod obj obl:tmod punct punct
+nsubj:pass mark advcl obj case obl punct conj case compound obl punct det compound compound nsubj:pass aux:pass root mark xcomp nmod:poss compound obj punct punct
+aux root mark xcomp nmod:poss flat case amod compound obj det obl:tmod det obl:tmod punct nsubj advmod parataxis nmod:poss compound nsubj:pass aux:pass ccomp case obl flat punct discourse
+root det nmod:poss case compound obj case compound obl punct cc nsubj cop conj case nsubj advcl case det compound compound obl punct
+mark nsubj flat flat advcl obj obj case nmod cc advmod conj punct discourse root nmod:poss obj punct mark nsubj flat advcl punct nsubj parataxis punct
+det compound nsubj root nmod:poss obj mark xcomp case obl punct punct parataxis punct nsubj parataxis det obj acl det obj punct obj
+compound flat nsubj amod conj case nmod flat case nmod flat punct appos nmod:tmod det nsubj flat root punct punct
+expl cop det amod root mark det compound compound nsubj:pass aux aux:pass csubj mark xcomp case det obl case det nmod punct nsubj cop det acl:relcl case det compound nmod punct
+root mark nsubj cop advcl punct amod parataxis punct
+compound compound nummod obl:npmod amod nsubj punct amod nsubj aux root punct punct punct compound compound compound parataxis acl punct obj nummod case obl punct
+root det compound compound obj case obl case nmod punct compound obl punct compound nummod nsubj parataxis mark xcomp nmod:poss obj punct
+det amod nsubj root amod obj cop acl case compound obl punct cc det compound flat nsubj conj punct advmod punct
+root xcomp advmod cc nmod:poss nsubj conj advmod fixed nummod obj case obl punct nsubj cop det advmod amod parataxis advmod punct
+root punct nsubj aux appos det punct compound punct compound obj punct discourse punct cop nsubj parataxis punct punct punct discourse punct punct parataxis
+mark advcl case det obl punct advmod det compound nsubj aux advcl det amod amod obj case compound nmod punct punct nsubj root det amod obj punct det compound nsubj aux cop det ccomp case nmod punct cc nsubj cop nmod:poss conj det compound appos punct appos case nmod punct punct
+det nsubj:pass aux:pass root punct parataxis nummod obj punct punct
+compound nsubj flat root amod compound obj punct compound nsubj flat aux ccomp det obj case nmod:poss amod nmod punct
+aux nsubj root obj cc conj case compound nmod ccomp case obl flat case obl flat punct appos
+root obj punct det nsubj aux parataxis advmod advmod nsubj parataxis compound obj mark advcl obj case nmod:poss obl punct punct parataxis obj case obl
+compound nsubj aux root case nmod:poss obl punct parataxis flat punct amod appos punct appos nummod punct compound parataxis cc case amod amod list punct list punct punct
+compound compound compound compound root punct amod compound compound appos punct parataxis obj case nmod:poss amod amod amod compound obl punct punct
+compound nsubj root xcomp punct advmod obj case det nmod aux nsubj ccomp case det obl punct
+cop nsubj flat cc conj flat root acl mark aux:pass xcomp case det obl punct compound flat obl punct
+nsubj flat punct compound appos punct root xcomp compound punct
+cc nsubj advmod mark root det obj case amod nmod case det compound nmod cc conj amod punct
+amod nsubj aux advmod root obj cc det conj mark xcomp amod obj mark acl obj case amod nmod advmod obl:npmod punct
+compound nsubj root punct nmod:poss flat flat case obj acl case nummod obl punct
+nsubj advmod root mark nmod:poss compound nsubj ccomp mark xcomp compound compound obj obl:tmod nsubj ccomp amod obj case nmod flat punct
+advcl obj flat cc conj amod obj case obl punct nsubj root nsubj nsubj acl:relcl punct nsubj cop ccomp punct
+amod nsubj aux root compound:prt mark advcl det obj flat punct mark det compound nsubj advcl mark aux xcomp case obl case obl case nmod punct
+amod root case compound nmod punct compound list compound compound compound compound compound list punct punct punct parataxis
+nsubj advmod root obj cc conj nmod:poss amod obj punct parataxis nmod:poss obj punct punct punct
+discourse root case det nummod obl punct case compound obl case punct compound vocative
+nsubj flat aux advmod root nmod:poss flat flat obj punct advmod amod punct case nmod:poss obl punct appos flat flat advmod punct punct
+nsubj flat root obj flat cc amod conj punct parataxis punct nsubj flat advmod parataxis mark xcomp det obj case obl punct punct
+nsubj root obj punct conj flat punct cc compound compound conj punct
+root advmod compound compound compound obj advmod acl:relcl nmod punct
+nsubj punct nsubj case det nmod punct amod nmod punct appos flat punct conj punct conj punct conj parataxis punct compound conj cc conj flat punct compound conj punct compound conj root punct
+compound nsubj root obj case nmod punct advmod punct discourse vocative punct compound cc conj parataxis compound appos punct compound conj punct
+discourse punct cc nsubj aux advmod root mark xcomp case obl flat cc conj mark nsubj advcl nmod:poss obj punct
+compound root punct nsubj case compound nmod cop advmod advmod advmod cop parataxis flat
+compound compound nsubj root compound compound compound punct compound flat compound obj case obl punct
+nsubj cop root advmod punct cc nummod conj punct nsubj parataxis compound:prt case det obl discourse
+nsubj root punct xcomp amod compound obj xcomp punct compound compound parataxis case nmod punct compound parataxis
+root case obl case obl flat case obl punct compound parataxis
+nsubj cop root discourse nsubj aux parataxis mark compound nsubj advcl obj case amod amod compound obl cc amod conj discourse
+nsubj root obj flat mark advcl det obj punct appos flat mark nsubj advcl punct cc nmod:poss conj mark advcl det obj case obl punct
+discourse punct discourse root nmod:poss amod compound obj case nmod:poss obl punct nsubj advmod parataxis obj case nmod:poss nmod
+compound nsubj advmod root nmod:poss obj punct parataxis case nmod
+nummod obl:tmod root case compound obl punct nummod parataxis cc nummod conj conj nummod nsubj parataxis case compound obl punct nummod parataxis cc conj punct punct
+compound compound nsubj:pass aux:pass root case compound obl punct det conj cc det conj case det nmod punct
+nsubj root mark det compound nsubj aux cop det:predet det amod ccomp punct aux aux ccomp obj case nummod obl punct cc nmod:poss nsubj cop conj punct
+mark nsubj advcl case det obl mark acl obj cc conj case det obl punct nsubj root nsubj aux cop ccomp punct
+nsubj advmod root obj punct nmod:poss advmod parataxis cc nsubj conj det obj punct
+root case amod compound obl acl case obl case compound nmod punct punct compound parataxis det amod nsubj parataxis punct punct
+aux nsubj root obj flat case compound obl punct punct punct nsubj aux aux parataxis xcomp case obl punct amod parataxis punct punct
+advmod root mark xcomp det obj punct nsubj advmod parataxis mark xcomp case det obl cc conj case obl obl advmod discourse
+nsubj advmod root punct compound obj case nmod punct punct
+csubj nmod:poss obj mark xcomp obj case compound obl punct root obj cc conj advmod punct discourse
+nsubj root det amod obj case obl punct
+nsubj root det obj acl case det amod compound compound obl mark nmod:poss nsubj cop det acl:relcl case det nmod cc conj obj nsubj acl:relcl aux ccomp case obl cc nmod:poss amod conj punct det compound compound compound compound appos punct
+nsubj advmod root det obj case det nmod case det amod nmod case nmod cc conj case nmod cc conj mark det amod nsubj aux ccomp nmod:poss obj case det obl punct
+nummod nmod:poss compound obl:npmod nsubj aux root obj flat advcl obj flat flat punct cop advmod parataxis punct amod compound parataxis advmod
+case det amod root cop det nsubj mark det compound nsubj acl det amod obj cc cop det amod conj case fixed nmod:poss amod compound obl punct
+nsubj root compound obj punct nmod:poss det advmod amod compound nsubj aux advmod parataxis punct
+nsubj flat cc conj root amod punct compound punct obj punct
+amod nsubj flat punct root obj flat mark nsubj advcl mark xcomp obj ccomp nsubj advmod ccomp obl punct
+compound compound root vocative punct
+compound root flat punct punct det nsubj parataxis det amod obj case nmod case det nmod nsubj acl:relcl nmod:poss obj advmod punct
+case nmod:poss obl case compound nmod punct root det obj case nmod:poss obl punct obj nmod advmod punct nsubj parataxis obj
+nsubj punct compound conj punct compound compound conj root obj punct nsubj flat aux parataxis obj mark xcomp obj advmod punct
+nsubj flat root advmod punct cc aux advmod conj det obj punct advmod punct
+nsubj advmod root det obj case compound nmod cc amod conj case amod obl punct punct
+compound nsubj case nmod cop root case obl obl:tmod punct nsubj parataxis amod obj case obl punct compound compound nsubj parataxis punct punct
+amod punct amod root punct parataxis acl det obj case compound obl punct
+nmod:poss nsubj root obj flat advmod punct nsubj parataxis case obl punct
+cc nsubj nsubj aux acl:relcl case obl aux advmod cop root punct
+nsubj root det obj punct parataxis amod amod compound conj punct punct compound parataxis punct appos punct
+compound root compound compound compound nmod:tmod cc conj case det nmod punct
+nsubj cop root mark xcomp mark nsubj aux advmod ccomp advmod nummod obj punct cc nsubj aux conj amod compound compound obj punct discourse punct parataxis punct nsubj parataxis advmod punct
+discourse punct nsubj root compound compound obj case obl punct advmod det amod parataxis punct
+cop amod compound nsubj acl case det obl case nmod punct aux nsubj root advmod punct
+advmod advmod expl root det compound nsubj case nmod flat punct
+punct nsubj flat cop det amod root punct nmod:poss nsubj parataxis mark xcomp iobj obj punct cc conj obj punct punct punct nmod:poss nsubj advmod parataxis obj punct
+root advmod advmod punct nsubj case det compound nmod case nmod:poss compound nmod cop det amod parataxis case nmod punct punct discourse amod parataxis punct punct
+expl root punct expl cop ccomp mark amod amod nsubj:pass aux:pass advmod csubj mark xcomp det obj case nmod punct mark nsubj advcl det amod obj cc conj mark xcomp case compound obl punct
+nsubj flat root det amod obj case nmod case compound obl punct cc det amod conj case nmod flat cc conj punct compound appos punct
+discourse punct root case amod nmod punct nsubj parataxis compound obj punct appos punct nsubj parataxis compound punct punct compound obj punct
+punct case compound compound compound compound nsubj root obj cc compound conj
+det root discourse punct nsubj cop parataxis case nmod punct nsubj det parataxis compound nsubj cc compound conj cop advmod ccomp punct nsubj aux advmod parataxis xcomp punct
+nsubj root obj case nummod obl punct obl:tmod mark acl amod obj case obl case obl flat punct
+discourse nsubj aux root nsubj ccomp case det obl nsubj aux ccomp nmod:poss obj det obl:tmod
+amod nsubj nsubj root amod obj case nmod:poss obl punct punct
+root flat cc conj flat case amod nmod punct punct det amod nsubj parataxis xcomp punct punct
+nsubj advmod root obj case nmod mark xcomp case obl case obl punct nsubj cop det compound compound parataxis punct
+det compound compound nsubj cop root mark advcl nsubj parataxis compound:prt det nummod compound compound compound obj cc punct conj case compound compound nmod acl compound obj discourse
+vocative flat nummod nsubj cop det amod amod root case nmod
+aux nsubj flat advmod root case obl cc conj obj flat punct punct nsubj flat aux aux parataxis det amod obj punct punct
+advmod punct nsubj flat root obj case amod nmod case obl flat punct punct
+punct compound root punct compound compound appos punct cc nsubj flat conj xcomp punct
+nsubj root det amod compound obj case compound nmod punct
+discourse discourse amod vocative punct nsubj root obj punct parataxis cop nmod:poss nsubj case compound nmod case nmod case det amod compound nmod
+obj aux nsubj flat flat cc conj root case amod punct amod compound obl punct punct cc punct
+advmod punct nsubj root obj case obl punct mark advcl det obj case nmod punct punct obj advmod aux nsubj parataxis obj flat punct
+aux nsubj advmod root nmod:poss flat flat case obj case det compound compound obl punct conj advmod cc conj case det obl punct
+nummod punct nsubj aux advmod root case nmod:poss compound nmod:poss case obl det obl:npmod case nmod advmod punct nmod:poss advmod case det compound obl advmod punct
+root compound obj punct aux nsubj flat cc conj flat parataxis compound:prt case fixed obl punct punct aux parataxis flat cc conj punct punct
+csubj compound:prt compound obj punct root advmod xcomp punct
+amod root punct nsubj cop case nmod:poss parataxis punct parataxis case nmod case compound flat cc compound compound nmod
+nsubj case nmod nsubj flat root obj nsubj acl:relcl mark xcomp case det compound obl punct punct
+advcl compound:prt nmod:poss amod compound obj punct det obj aux nsubj root xcomp punct nsubj advmod parataxis case det obl case nmod flat punct det amod appos punct
+det compound compound compound compound compound nsubj root mark nsubj aux ccomp compound compound obj case nummod obl punct
+compound nsubj acl mark advcl compound compound obj punct det nsubj aux cop root flat punct det amod appos punct punct
+cop compound flat compound nsubj flat root mark advcl punct punct
+nsubj punct nummod punct compound compound punct compound appos punct compound compound appos flat flat root mark det compound nsubj mark acl obj mark acl compound obj cop ccomp punct advmod mark expl advcl det amod nsubj advmod mark acl det compound obj punct
+compound nsubj root obj case amod nmod punct compound compound amod conj punct compound conj punct cc case punct punct conj
+cop det advmod amod root acl obj xcomp nmod:poss obj cc advmod nsubj cop det conj case det nmod punct
+advmod nsubj root nsubj aux cop ccomp case nmod:poss amod obl punct amod obl:tmod mark nsubj cop acl punct parataxis nmod:poss obj case nmod:poss advmod amod obl
+compound root punct compound parataxis case amod nummod nmod case nmod flat case nummod obl:npmod nmod cc conj det compound obj ccomp punct punct
+root mark xcomp nmod:poss obj case case obl nsubj acl:relcl nmod:poss obj case nmod case nmod cc nmod:poss flat case conj case nmod punct punct
+amod root amod cop ccomp punct nsubj parataxis advmod aux nsubj ccomp obj cc conj case obl amod obl:tmod punct punct discourse discourse
+advmod punct det nsubj case amod nmod punct nsubj root amod amod obj case nmod nsubj acl:relcl det obj mark acl obj flat punct
+aux root compound obj discourse advmod aux nsubj parataxis obj punct
+punct obl:tmod nsubj root det obj acl compound:prt obj acl mark xcomp det obj
+root punct compound amod appos compound list case compound nmod case nummod compound nummod compound nmod punct nummod parataxis punct punct
+nmod:poss flat compound nsubj case det compound nmod cop det root
+discourse nsubj advmod aux root nsubj:pass flat compound flat flat aux:pass ccomp punct nsubj advmod parataxis nmod:poss amod obj
+discourse punct compound nsubj case det compound nmod cc conj case det amod amod nummod nmod punct root advmod case nmod:poss amod obl punct discourse
+root case det amod compound nmod punct det amod nsubj case nmod amod case det compound compound obl aux parataxis xcomp case obl punct
+nummod nsubj nsubj acl:relcl mark cop det compound advcl root mark nsubj ccomp det obj nsubj acl:relcl nmod:poss nsubj:pass aux:pass ccomp punct cop det compound nsubj cop det parataxis discourse
+nsubj root compound:prt xcomp obj nummod xcomp nmod:poss obj punct discourse punct cc nmod:poss compound nsubj:pass aux:pass conj cc conj advmod advmod punct
+cc det amod root mark advcl mark cop compound xcomp punct nsubj parataxis advmod xcomp punct advmod case obl advmod discourse
+root xcomp nummod amod obj punct aux parataxis case obj advmod advmod punct det advmod amod nsubj aux parataxis punct amod compound obj punct conj cc conj punct nsubj parataxis iobj obj punct
+nsubj root mark nsubj cop det amod ccomp case det nmod punct cc fixed conj case case det obl nmod:npmod advmod
+det compound root cc det compound compound conj acl case obl flat amod obl case det compound compound compound nmod punct punct
+advcl advmod case det compound obl det obl:tmod punct nsubj root advmod compound compound nsubj nsubj flat aux ccomp case obl flat punct
+nsubj root obj punct mark det nsubj aux advcl nmod:poss amod obj punct amod nsubj nsubj:pass aux:pass acl:relcl mark xcomp det compound obj aux conj xcomp compound:prt punct
+det:predet det amod compound root case nmod punct compound compound compound nsubj cc compound conj parataxis compound obj
+nsubj root compound obj case nmod punct nsubj parataxis amod obj case det nmod mark advcl obl punct punct
+root flat flat list list list punct list list list punct
+punct root obj punct cop case ccomp punct discourse amod appos flat punct discourse parataxis advmod case det obl nsubj cop punct discourse punct
+det amod compound nsubj root obj case compound nmod case nmod
+nsubj cc compound conj root iobj punct compound obj amod obl:tmod xcomp case obl case det obl nsubj aux acl:relcl iobj nummod amod obj case obl punct
+discourse nummod nsubj flat root nmod:poss compound compound nmod:poss case compound obj discourse
+compound nsubj amod compound compound nsubj aux root obj mark nsubj aux advcl mark xcomp xcomp obj case nmod:poss obl punct
+compound nsubj root obj case nsubj advcl compound compound punct obj punct appos nummod punct nummod punct compound nsubj parataxis det amod obj punct det punct
+punct det nsubj ccomp mark xcomp det amod compound obj cc conj case det nmod case nmod mark acl cc conj amod obj punct punct root det nsubj acl case compound compound obl case obl det nsubj:pass aux:pass acl:relcl case advmod obl cc conj punct
+nsubj flat root mark xcomp compound obj case obl case nmod punct compound compound appos amod mark advcl case obl punct punct
+nsubj cop advmod root case det obl acl case det amod compound compound obl punct nsubj parataxis mark det ccomp mark nsubj advcl amod obl:tmod punct discourse
+nsubj flat cop case root flat amod obl:tmod punct nmod:poss nsubj advmod parataxis xcomp case nmod:poss flat flat case obl case compound nmod punct
+root det obj punct cc discourse punct compound nsubj nmod:npmod aux advmod cop advmod conj case nmod:poss amod compound obl det nmod:tmod discourse punct discourse punct discourse
+amod nsubj ccomp obj case det compound obl case case obl case nmod:poss amod nmod punct nsubj root punct
+advcl case obl flat punct appos nsubj root nsubj flat aux ccomp compound:prt nmod:poss amod obj punct advmod det amod compound compound compound obj
+nsubj root det amod obj case obl punct
+root case compound compound compound obl punct amod compound obl punct
+amod compound compound compound flat compound root case nmod punct nsubj flat amod compound nsubj parataxis punct punct
+nsubj root amod obj cop advmod advmod parataxis
+csubj compound obj punct amod root punct
+root nummod obj compound:prt case obl nummod
+compound compound root case compound compound nmod
+nsubj root compound obj amod obj punct parataxis nmod:poss amod compound nummod obj punct
+discourse nsubj root det obj nsubj cop det ccomp discourse
+nsubj aux root xcomp punct det amod parataxis punct nsubj cop advmod parataxis case obl advcl cc conj advmod case det obl
+discourse root mark nsubj aux advcl obj punct cc compound nsubj conj mark cop det amod xcomp mark nsubj mark acl case obl case obl punct
+root flat flat punct advmod compound nsubj aux parataxis iobj obj nsubj acl:relcl punct det amod compound compound parataxis case nmod punct
+nsubj root det nsubj cop det ccomp punct cc det amod conj case amod compound nmod acl case obl punct nmod:poss conj cc nmod:poss conj punct appos punct
+nsubj root punct det obl:tmod det nsubj acl:relcl obl:tmod punct obl:tmod nummod punct nummod punct nsubj flat punct conj flat cc punct det compound conj punct ccomp case det compound obl case compound nmod punct appos punct
+compound compound root flat flat compound list appos punct appos punct appos flat appos punct appos det compound appos case nmod punct case punct nmod
+cop nsubj nummod advmod root case nmod:poss obl advcl punct
+nsubj root det compound obj case compound compound nmod appos flat punct advcl case compound compound obl
+punct nsubj cop ccomp mark advmod aux xcomp det obj case compound nmod case det nmod punct cc mark nsubj case nmod advcl case det obl case det amod nmod expl conj det nsubj case nmod punct punct root compound nsubj flat flat flat punct
+nsubj root nmod:poss det amod ccomp punct discourse punct case obl flat case nmod punct nsubj parataxis det obl:npmod xcomp nsubj aux advmod parataxis obj punct
+amod nsubj punct compound nsubj root obj mark xcomp compound compound obj case nmod case amod compound nmod appos flat punct nummod obl:tmod punct det amod appos case det nmod punct appos flat flat punct cc det nsubj case det compound nmod punct appos flat punct aux conj compound:prt det obj case amod nmod flat flat case obl nsubj acl:relcl obj mark xcomp det obj case nmod case det compound nmod case compound nmod punct
+case det obl punct nummod amod nsubj:pass case det compound nmod punct det nsubj:pass flat aux aux:pass advmod root case det amod obl mark acl det compound obj punct
+nsubj flat nsubj root advmod advmod mark xcomp punct parataxis advmod amod cc advmod conj punct nsubj parataxis compound:prt case obl punct parataxis obj cc conj obj punct discourse
+mark advcl advmod punct compound nsubj advmod root case obl flat punct conj punct cc conj punct nsubj conj nummod obj punct punct
+root compound:prt case nmod:poss obl case det amod compound obl punct
+nsubj root nmod:poss obj case nmod:poss obl cc nsubj aux conj mark advmod advmod advcl det obj mark acl advmod advmod mark nmod:poss nsubj mark advcl punct conj
+nummod punct nsubj flat cop nmod:poss compound root punct nsubj cop det parataxis advmod nsubj acl:relcl nmod:poss compound obj punct
+advmod case obl flat punct advmod fixed obl flat punct compound nsubj cop det root case det compound nmod case nmod punct compound compound parataxis
+nsubj aux advmod root mark case det obl punct nsubj aux advmod ccomp obj compound:prt mark nsubj:pass aux:pass advcl mark xcomp mark xcomp det compound obj punct
+compound compound root mark nsubj aux advcl det amod compound obj case nmod punct nsubj aux parataxis obj case obl punct conj obj case det obl punct punct
+nsubj flat punct conj flat flat cc conj flat root obj case obl mark advcl det obj case nmod amod appos punct punct case obl
+root punct nsubj flat cop det:predet det appos punct nsubj aux parataxis det compound compound obj advmod mark advmod cop advcl punct punct discourse discourse discourse discourse discourse discourse discourse
+nsubj root compound obj det:predet det obj discourse
+det nsubj root det obj advmod xcomp advmod cc advmod nsubj:pass aux:pass conj advmod obj fixed obl
+nsubj root obj flat punct conj flat punct conj flat cc conj conj nummod amod amod compound obj case nummod compound compound compound amod compound obl punct
+nsubj root case det compound obl punct nsubj advmod parataxis punct cc amod conj case nmod flat cc conj flat punct parataxis acl punct
+amod nsubj flat flat root nsubj flat flat aux advmod ccomp det compound compound obj punct
+nsubj nummod nsubj case nmod root cc compound nsubj conj case obl punct discourse punct nsubj parataxis mark nsubj aux advcl xcomp cc nsubj conj mark aux:pass xcomp advmod discourse
+nsubj flat punct nummod appos punct appos punct punct amod appos punct appos flat punct obl:tmod root nmod:poss obj case nmod case det amod compound nmod acl case compound obl flat punct advcl mark det nsubj obj nsubj acl:relcl case det obl ccomp mark nsubj flat aux ccomp det obj punct
+punct nsubj cop ccomp nsubj cop acl:relcl case det obl case amod nmod punct punct nummod amod nsubj root punct advcl case obl case compound obl cc amod amod conj case nmod punct
+amod root punct compound compound appos case nmod flat case punct punct compound compound nsubj flat parataxis det compound compound obj punct appos
+punct root punct parataxis compound flat obj punct appos punct list punct appos
+nsubj case nmod punct det amod nsubj root mark ccomp obj case obl punct punct nsubj flat
+nummod punct compound nsubj case det amod nmod advcl root compound obj mark nsubj advcl xcomp punct advcl xcomp punct
+compound compound compound root punct appos case nmod
+aux nmod:poss nsubj cop ccomp punct nsubj flat ccomp discourse punct nsubj flat root discourse
+nummod punct compound compound root compound:prt case det compound compound compound nmod
+discourse nsubj flat root case det obl discourse punct amod parataxis advmod punct
+det amod root punct appos case nmod amod nmod punct nsubj flat parataxis det amod obj nsubj:pass aux:pass mark acl:relcl case nmod:poss obl punct
+nmod:poss flat flat case nsubj case nmod:poss nummod compound nmod aux root det obj nummod xcomp case compound obl advmod nsubj aux advmod parataxis obj advmod advcl
+compound nummod nsubj root obj flat
+cc nsubj aux root punct case nummod obl punct det nsubj parataxis mark xcomp det obj case obl advmod amod punct
+det compound root case det compound compound goeswith nmod punct punct
+nsubj flat root compound compound compound obj
+compound compound nsubj flat flat punct det amod amod appos case det amod amod cc conj nmod case nmod flat punct conj flat punct cc det amod conj case nmod cc conj punct conj flat cc conj flat punct case obl root case obl mark xcomp xcomp advmod punct case det amod obl nsubj:pass aux advmod aux:pass acl:relcl cc advmod conj nmod:poss amod obj case det compound compound nmod compound nsubj case nmod nmod flat aux acl:relcl mark xcomp punct
+discourse cc nsubj aux advmod root obj punct compound nsubj parataxis det obj cc compound conj conj nmod:poss obj det obl:tmod nsubj acl:relcl compound:prt xcomp
+advmod root compound obj punct advmod punct nsubj parataxis nsubj advmod cc:preconj ccomp nmod:poss obj punct cc advmod nummod amod conj case nmod punct
+root punct det amod appos case nmod:poss flat case nmod case compound nmod case nmod
+root advmod nummod obj punct case discourse punct advmod aux compound nsubj acl det obj parataxis xcomp obj punct case discourse nmod:poss amod obl discourse
+nsubj root punct det obl:tmod det nsubj acl:relcl obl:tmod punct obl:tmod nummod punct nummod punct nsubj flat punct conj flat cc punct det compound conj punct ccomp case det compound obl case compound nmod punct appos punct
+compound flat cc conj root amod amod parataxis punct cc nsubj aux advmod cop conj mark xcomp obj punct punct punct amod compound compound parataxis punct punct
+root compound:prt obj punct parataxis cc conj obl:tmod punct parataxis xcomp case obl case obl punct
+compound punct compound root punct aux nsubj flat parataxis mark xcomp det compound compound obj advmod advmod case nmod:poss obl punct
+amod nsubj nummod root xcomp punct conj det amod obj case nmod:poss obl case nmod punct parataxis case det compound punct compound punct nmod punct parataxis discourse
+advmod det obj aux nsubj root obj case nmod flat cc conj flat conj mark xcomp nmod:poss obj punct discourse parataxis punct discourse punct parataxis mark xcomp case obl
+mark det nsubj advcl obl cc conj mark advmod nsubj advcl det compound obj punct det compound nsubj aux root det obj nsubj acl:relcl nmod:poss amod obj cc conj case det nmod obj nsubj acl:relcl case obl punct
+discourse nsubj root advmod advmod cc punct nsubj flat cop det conj case det nmod flat punct nsubj parataxis compound obj punct discourse punct
+nsubj flat root nsubj flat cop det compound ccomp punct nsubj parataxis case det obl nsubj aux acl:relcl punct compound obj cc conj case nmod:poss amod nmod punct parataxis
+mark nsubj advcl case obl punct nsubj flat cop det compound flat discourse amod compound root
+nsubj flat punct compound appos case det nmod cc compound conj case det compound nmod case nmod cc conj compound appos punct punct root punct advmod advmod punct nsubj aux cop advmod ccomp mark advcl case compound obl punct mark cop aux cop advcl nsubj:pass aux:pass acl:relcl mark xcomp advmod compound:prt case det obl punct
+compound compound compound compound root case compound nmod punct nmod punct
+nsubj aux advmod advmod root nmod:poss obj case obl punct nsubj flat cop det parataxis advmod punct parataxis det nummod amod obj punct nsubj parataxis obj ccomp advmod punct
+case obl punct nsubj flat aux root det compound obj punct nsubj acl:relcl det obj case amod compound nmod punct punct
+compound compound nmod:poss flat flat case nsubj root nsubj ccomp compound obj punct appos flat flat case punct
+discourse cop root mark advcl advmod case obl cc nsubj conj nsubj advmod ccomp nmod:poss obj cc nsubj conj mark xcomp case punct compound obl
+nsubj root compound obj amod compound obj
+root case det nmod punct compound nsubj parataxis xcomp obj punct conj flat punct case obl punct
+det amod compound root advmod acl case obl punct punct case obl cc conj nummod punct nmod:poss case nsubj parataxis mark xcomp punct obj case nmod punct punct
+advmod nsubj aux root xcomp compound compound compound obj case obl
+discourse root mark xcomp compound obj punct aux nsubj discourse parataxis iobj det obj punct
+discourse discourse case obl punct punct nsubj root compound nsubj cop det ccomp punct nsubj flat aux parataxis compound:prt case nmod:poss obl punct
+discourse root obj compound:prt vocative punct det amod nsubj punct nsubj aux parataxis mark xcomp advmod case compound obl aux det nsubj ccomp obl punct parataxis
+punct advmod nsubj aux cop det amod root case nmod punct appos flat punct punct case det compound nmod punct
+punct case root punct discourse compound appos punct appos nsubj acl:relcl mark xcomp obl cop compound compound amod parataxis nummod appos discourse
+root punct nsubj flat appos case obl case compound obl punct
+nmod:poss nsubj cop root advmod punct parataxis obj punct
+nsubj cop case case amod root obj det amod compound acl:relcl punct punct appos flat
+csubj nummod case nmod obj case compound compound nmod aux root nummod compound obj case obl punct obl:npmod nmod:poss nsubj parataxis obj xcomp nmod:poss amod obj advmod conj nmod:poss amod obj obl:tmod punct nummod punct
+mark nsubj flat advcl compound:prt obj flat punct compound conj punct cc conj flat punct nsubj root mark xcomp compound:prt obj advmod punct
+mark nsubj flat aux advcl case obl case det compound nmod punct advmod advmod parataxis flat punct mark nsubj advmod advcl punct nsubj root xcomp case det obl punct
+nsubj aux advmod root xcomp obj xcomp obl:tmod punct advmod mark nsubj advcl case obl case nmod:poss obl cc conj punct nmod:poss nsubj aux parataxis obj punct obj punct advmod parataxis punct
+det nsubj case det nummod nmod case nmod:poss compound compound nmod mark nsubj flat advcl advmod punct root punct discourse discourse punct
+mark det nsubj:pass case nmod case nmod nummod amod nmod punct acl det amod obj case nmod punct aux advmod aux:pass advcl case obl nsubj aux acl:relcl amod obj det obl:tmod punct nsubj flat root case det amod obl acl obj punct
+cc cop root punct case obl punct nsubj aux advmod parataxis mark aux:pass xcomp det obj case nmod nsubj acl:relcl xcomp punct punct compound compound parataxis nummod appos nummod punct
+discourse root obj advmod punct nsubj aux advmod parataxis mark case obl case obl case amod compound obl punct punct
+discourse advmod root mark mark nsubj advcl compound obj mark advcl obj cc cop amod conj
+amod nsubj case det amod nmod root compound obj case det amod amod obl punct case det obl mark nsubj case det amod cc conj nmod acl amod amod obj case det amod nmod case obl punct
+nsubj flat root mark xcomp case obl punct parataxis det amod obj case amod compound obl cc conj
+det compound root punct amod parataxis punct parataxis det obj cc conj mark xcomp case obl punct punct
+det compound nsubj root det nsubj cop ccomp punct mark nsubj ccomp case det obl punct mark expl aux advmod cop det compound parataxis punct mark compound nsubj parataxis det obj mark acl obj punct mark compound nsubj cop parataxis punct mark det nsubj parataxis det obj punct advmod det conj case nmod punct cc advmod nsubj aux conj obj advmod punct
+amod root punct det nsubj acl case det obl aux nsubj appos det compound compound obj case det amod compound compound compound obl
+nsubj flat aux root nmod:poss obj punct advcl obj advmod xcomp case obl case nmod:poss obl punct cc conj advmod punct case nmod flat punct
+nsubj aux root mark compound nsubj ccomp det amod obj nsubj acl:relcl det obj case nmod case det compound nmod mark acl case det obl case amod nmod punct
+compound compound nsubj punct root advmod fixed compound nummod obj punct compound compound appos compound appos punct appos punct appos punct
+compound amod nsubj root case obl nummod punct obl compound compound appos cc compound conj det nsubj parataxis compound:prt det obl:tmod nummod
+root punct appos flat flat punct parataxis flat punct amod nummod appos
+compound root discourse appos case mark nmod
+root punct cc det compound flat nsubj cop advmod fixed conj punct mark cop det nsubj case det compound amod nmod punct punct parataxis amod obl:tmod punct
+advmod root det obj case obl punct amod nsubj aux nsubj flat parataxis case obl flat punct
+det compound nsubj root compound:prt punct compound nsubj parataxis case obl punct
+compound nsubj nummod det root case det compound cc conj nmod punct
+advmod amod root case nmod case nmod case nmod flat punct appos
+obl:tmod nummod punct aux nsubj root nsubj xcomp case punct obl punct conj punct conj punct conj punct conj punct conj punct punct case nmod mark acl compound obj punct advmod det amod compound parataxis
+compound compound nsubj root nsubj ccomp mark xcomp obj punct nsubj flat ccomp nmod:poss obj case compound compound nmod punct punct
+compound root compound compound case nmod punct
+root flat punct punct nsubj advmod parataxis case det compound obl punct case obl flat punct compound amod nsubj appos aux parataxis mark nsubj ccomp punct punct
+compound root punct det appos case det nmod case amod compound nmod punct compound compound nsubj parataxis advmod xcomp punct
+nsubj root obj mark advmod advcl det obj case amod nmod case obl punct
+root obj case det obl case amod obl flat nummod punct nsubj aux parataxis nmod:poss obj case amod obl
+punct root flat mark acl punct nsubj cop ccomp case punct punct cc amod conj nmod discourse
+discourse mark cop advcl nsubj aux root det compound compound obj punct cc cop advmod conj nsubj cop ccomp
+discourse vocative mark nsubj aux advcl case obl punct punct nsubj root obj xcomp punct cc nsubj conj obj obj cc aux conj obj mark nsubj advcl punct cc discourse punct discourse
+nsubj vocative punct root nsubj flat aux ccomp compound:prt nmod:poss obj cc advmod advmod conj obj punct discourse punct parataxis advmod punct
+root det obj punct nsubj aux parataxis obj xcomp case obl case obl punct
+root det obj punct amod parataxis punct compound appos case nmod case nmod discourse
+advmod root mark nsubj flat punct det appos case nmod punct cop advcl punct discourse
+cc nsubj root nsubj aux ccomp obj mark compound nsubj ccomp det obj advmod punct cc nmod:poss advmod conj mark nsubj advmod aux advcl punct
+nsubj nummod nsubj advmod root punct punct punct discourse parataxis mark advcl det amod obj punct
+root compound obj mark advcl obj advmod punct
+advmod nmod:poss amod nsubj aux root compound:prt compound obj case nmod punct
+nsubj root mark advcl obj punct nsubj advmod cop punct compound parataxis
+root punct appos flat punct amod appos appos flat case nmod flat punct nsubj parataxis obj cc conj obl punct punct
+root nummod punct parataxis case obl flat punct cc nsubj conj advmod xcomp cc conj punct
+compound root appos compound appos case compound compound nmod compound appos case compound compound compound nmod case nmod flat punct
+advcl compound compound obj discourse nsubj root amod obj punct nummod nsubj cop case nmod:poss parataxis cc nsubj aux conj xcomp obj punct parataxis obj punct
+root obj flat punct obl aux nsubj acl:relcl case punct punct
+advmod nsubj aux root det obj case nmod punct case obl punct punct nsubj punct appos cop parataxis punct punct
+amod compound compound compound root punct det compound nsubj:pass aux aux:pass parataxis case amod obl case det compound nmod punct punct
+compound nsubj root case obl case obl punct nsubj parataxis advmod nummod amod obj case compound nmod case obl punct
+det root case nmod nmod cc conj punct punct appos flat punct compound compound appos case nmod
+discourse nsubj compound root mark acl amod amod obj punct
+punct root appos nsubj parataxis obj nsubj parataxis obj
+amod compound nsubj cop det amod root punct nsubj advmod parataxis xcomp case obl punct obl:npmod mark nsubj advcl det obj case nmod punct nmod:poss nsubj punct cop parataxis punct
+nsubj root mark nsubj cc conj case det nummod nmod aux ccomp punct cc nsubj conj nsubj aux ccomp nmod:poss amod xcomp case nmod cc conj punct compound cc amod conj conj punct acl det amod obj case nmod mark advcl amod obj punct
+advmod nsubj flat aux root obj advmod punct discourse obj cc punct mark nsubj advcl obj xcomp obj mark xcomp punct nsubj conj compound:prt punct
+aux nsubj cc conj flat conj root obj case nmod:poss amod obl punct appos punct advmod nmod:poss advmod parataxis punct advmod parataxis xcomp nummod compound obj nmod punct
+nsubj root ccomp punct nsubj advmod ccomp amod obj case nmod cc conj punct nsubj advmod advmod parataxis obj case obl
+nsubj root case det obl cc det conj mark acl mark advcl det amod amod obj punct cc conj xcomp mark advcl det obj case amod nmod punct
+root mark nsubj flat aux ccomp advmod advmod punct amod obj punct
+det root case nmod punct
+nsubj cc conj case compound nmod nmod:tmod punct nsubj aux root advmod advmod case obl nmod:poss compound obj
+compound nsubj flat root mark det nsubj case nmod ccomp det obj mark acl case compound punct compound obl
+det nsubj case nmod cc det conj mark acl obj aux root case obl punct appos
+nsubj root det nsubj nsubj cc conj ccomp case obl flat punct appos mark advcl cc conj nmod:poss obj
+advcl det compound obj punct advmod mark nsubj flat cop advmod advcl advmod xcomp punct nsubj root det obj discourse cc nsubj conj mark xcomp nmod:poss obj advmod
+punct discourse nsubj aux root det compound obj discourse aux nsubj parataxis xcomp obj compound:prt punct nsubj parataxis obj advmod discourse nsubj parataxis obj flat
+root punct nsubj cop parataxis punct nsubj parataxis obj flat cc conj flat conj nsubj xcomp obj punct obj nmod punct punct
+compound compound compound compound root case compound nmod punct nmod punct
+compound compound nsubj nsubj root obj punct
+nsubj root amod obj case compound nmod punct compound parataxis punct
+compound amod root punct advmod nsubj parataxis iobj obj case compound nmod acl xcomp case det obl case nmod punct
+punct nummod punct compound root punct appos punct nummod punct compound flat punct appos case det nmod punct nummod punct parataxis punct nsubj parataxis punct nummod punct compound punct compound list punct appos punct compound punct appos
+det obl:tmod nsubj acl:relcl nsubj aux advmod ccomp compound:prt nsubj root case ccomp nsubj aux cop case case obl flat cc nsubj advmod conj xcomp
+root det amod compound obj
+case amod compound obl nsubj root case obl cc conj case conj flat punct case nmod:poss compound obl
+nsubj advmod root case obl punct conj punct cc amod conj case det nmod punct punct
+punct nsubj ccomp det obj mark nmod:poss nsubj advmod acl amod obj punct mark mark nsubj aux advcl case cc:preconj obl cc det compound conj case amod obl punct mark mark det nsubj case nmod punct nummod punct nummod aux advmod advcl cc det amod nsubj aux advmod conj obj case det nmod case nmod punct punct det nsubj root case det obl punct
+nsubj root nsubj aux ccomp case nmod:poss compound obl case advmod obl mark advcl cc nsubj aux conj mark xcomp case obl nummod punct appos case det nmod punct
+compound compound compound nsubj root compound obj case nmod punct amod appos punct compound appos punct
+aux root det obj case obl cc nsubj nsubj acl:relcl cop det conj case det nmod flat cc conj flat advmod advmod discourse
+nsubj root advmod case obl flat case compound nsubj xcomp punct discourse
+nsubj flat cop advmod amod root
+root case obl case compound compound obl case nmod flat punct compound conj cc conj punct
+aux root compound compound obj case obl advcl nmod:poss amod amod obj punct amod parataxis nsubj acl:relcl punct
+det nsubj cop case root advcl mark xcomp obj case det compound obl cc conj amod obj punct nsubj parataxis mark nsubj flat advcl det obj punct
+nmod:poss nsubj case nmod flat compound nmod aux aux nsubj root det obj case obl punct parataxis nmod:poss obj case det obl
+det nsubj root case obl punct obl nsubj punct punct parataxis
+root obj mark advcl case det amod obl case nummod obl punct parataxis det obj case nmod punct
+vocative punct nsubj aux aux advmod root obj xcomp case det amod compound amod obl cc conj mark cop nummod amod compound advcl case nmod flat cc conj flat appos discourse
+discourse csubj mark advcl det obj cc amod punct conj punct mark nsubj advcl punct root xcomp case det obl punct
+nsubj flat cop root case det obl case compound nmod
+compound compound compound nsubj root obj cc conj nummod case obl nmod punct punct
+nsubj root nsubj aux ccomp case det nmod punct
+nsubj aux root det compound flat obj case obl case nummod obl punct nsubj amod parataxis punct
+compound nsubj root compound amod obj case det nmod punct
+obl:tmod nummod punct nsubj root obj flat punct
+discourse compound nsubj punct det nummod compound nsubj root case det compound compound compound obl compound appos nummod punct punct
+compound nsubj root compound compound obj case obl punct
+nsubj root amod obj case nmod flat punct flat punct
+cc nsubj advmod root det compound obj acl mark nsubj flat cop det amod ccomp case amod nmod punct nsubj aux parataxis case obl punct
+compound compound nsubj advmod root compound compound obj punct compound compound nmod:poss case amod compound compound nsubj aux cop parataxis cc compound conj punct punct
+amod nsubj cc conj root advmod obj case compound compound obj punct discourse punct
+nsubj aux root obj case det amod nmod case det obl case det compound nmod case nmod case det amod obl case nmod punct cc conj mark nsubj:pass aux:pass ccomp mark advcl det:predet det obj punct amod conj acl obl:tmod punct
+nummod punct nsubj aux root compound obj punct parataxis advmod punct
+root flat flat flat flat flat flat flat flat flat flat flat punct advmod amod parataxis mark acl punct appos
+nsubj aux root det compound flat obj case obl punct advmod case det obl case nmod punct cop parataxis discourse
+nsubj flat root obj mark det nsubj advcl xcomp mark nsubj ccomp obj case nmod:poss amod obl punct
+compound nsubj root case obl punct nsubj parataxis amod compound obj case obl
+compound compound root punct compound parataxis case nmod flat punct det amod appos case det nmod punct appos flat punct appos
+nsubj flat cop det amod nsubj advmod root mark advcl case obl cc advmod amod conj mark advcl case obl punct
+det det amod nsubj punct nsubj flat cop advmod root cc nsubj flat cop conj punct case nmod:poss obl punct appos case nmod discourse
+compound nsubj case det nmod cop advmod root cc conj xcomp punct discourse advmod amod nsubj mark acl cc conj obj case compound obl cop advmod conj xcomp compound:prt punct
+compound root punct appos punct compound list case nmod case compound compound list appos nummod punct compound compound compound list compound appos punct appos
+mark advcl case obl flat punct nsubj flat root nmod:poss obj case det amod obl advmod xcomp
+nsubj aux advmod root compound nummod amod compound obj
+root flat flat amod punct appos nsubj parataxis case obl punct case nmod:poss amod obl discourse punct
+root punct obj case det nmod punct cc compound flat amod conj mark acl obj nsubj aux advmod parataxis det obj nmod punct punct
+compound compound compound root punct compound list punct compound list punct appos mark nsubj cop amod advcl
+root compound:prt obj case obl punct compound compound compound nsubj cop parataxis punct parataxis nmod:poss compound obj advmod punct
+nsubj root nmod:poss obj case obl punct advmod det nsubj aux parataxis nmod:poss obj punct advcl obj xcomp punct
+compound root punct obl punct advmod aux nsubj appos case obl case nmod:poss obl case compound nmod punct
+compound root advmod punct compound parataxis punct nsubj parataxis compound:prt case obl flat mark cop advcl punct discourse parataxis discourse
+root det obj punct nsubj parataxis det compound obj nsubj cop acl:relcl cc aux conj mark det nsubj aux advcl compound obj xcomp punct parataxis punct
+nsubj cc conj root obj mark acl obj obj case compound nmod flat conj nsubj cc det conj aux ccomp mark xcomp punct
+mark csubj amod compound obj xcomp amod obj punct parataxis obj cc conj amod obj aux cop root punct det amod nsubj aux advmod cop advmod det conj case compound nmod:poss case amod compound nmod punct
+nsubj root nmod:poss flat flat case nsubj advmod ccomp case nmod:poss obl punct appos punct advmod parataxis punct
+nsubj root compound obj case obl punct
+discourse vocative punct root discourse punct det nsubj cop parataxis advmod
+discourse root flat case compound nmod cc conj punct list
+nsubj flat cop root punct nsubj cc nmod:poss compound conj parataxis case det obl case det compound nmod case det obl advmod punct punct
+nummod punct nsubj punct obl punct appos flat punct nsubj det root obj punct cc conj obj punct advmod parataxis case det obl case compound nmod punct
+root mark xcomp xcomp advmod mark advmod advcl punct mark advcl cc conj case det obl punct cc nsubj conj xcomp det obj
+nsubj advmod root det compound obj case obl punct
+discourse nsubj root amod compound obj case nmod case obl punct nsubj parataxis xcomp advmod punct cc nsubj conj nsubj ccomp nmod:poss obj case det obl
+root punct compound appos cc compound conj compound list list nummod punct appos
+csubj det amod obl:tmod punct advmod root obj advmod xcomp case obl flat
+advmod aux:pass root case obl case amod compound obl case compound nmod nsubj det parataxis punct discourse amod parataxis
+discourse root obj advmod punct nsubj aux advmod parataxis mark case obl case obl case amod compound obl punct punct
+compound root punct nsubj flat parataxis nsubj aux punct ccomp obj punct punct punct advmod punct
+case det obl punct nsubj root punct det compound nsubj cop ccomp case compound obl case det compound nmod punct
+nsubj advmod cop det:predet det root punct acl mark nsubj advcl obj case nmod punct advmod cop nsubj parataxis punct
+nsubj advmod root xcomp obj punct cc nmod:poss nsubj cop det amod compound compound compound conj case nmod acl det obj punct
+root case nmod flat punct det:predet det amod appos mark acl xcomp discourse
+compound cc conj compound nsubj root case compound obl punct compound conj punct compound conj
+compound nmod:poss flat case amod root punct det appos case nmod punct punct amod conj punct cc amod conj punct conj case compound nmod
+root compound:prt obj advcl det obj xcomp nsubj ccomp punct discourse punct goeswith punct case obl punct
+nsubj:pass aux:pass advmod root case det obl case nmod punct aux nsubj advmod parataxis det obj case det nmod punct obl flat
+case fixed det amod obl case compound nmod punct nsubj cop case det root case nmod case det amod amod obl punct
+nsubj punct appos case det nmod nummod punct compound appos punct root xcomp punct nsubj parataxis det:predet det compound obj punct cc case nummod obl discourse parataxis det amod nsubj nsubj cop punct
+compound nsubj cop nsubj case nmod case compound flat nmod root mark nsubj ccomp obj punct nsubj aux parataxis advmod obj nummod case nmod nsubj cop amod parataxis cc compound conj punct
+advmod root nmod:poss obj case det amod obl punct nsubj aux parataxis ccomp mark nsubj aux aux advcl det obj cc det amod conj cc amod conj det nmod:npmod advmod punct parataxis
+nsubj flat punct root det amod obj advmod advmod cc conj obj punct discourse punct advmod punct parataxis nmod:poss obj advmod advmod cc conj obj obj punct parataxis cc conj discourse
+compound compound nsubj amod obl:npmod amod nmod punct conj punct compound conj root obj case nmod
+amod compound compound root punct appos cc conj punct nsubj cop case compound flat punct amod amod appos nsubj aux acl:relcl xcomp nmod:poss obj advmod obj obj nsubj acl:relcl punct
+nsubj root det obj xcomp punct nsubj parataxis flat amod nsubj ccomp case obl case nmod:poss amod obl punct punct advmod nmod:poss det parataxis
+root obj punct compound obj punct mark advcl nmod:poss amod obj nummod punct
+advmod root compound obj case compound nmod nummod acl case amod obl case nmod punct parataxis advmod punct punct
+root flat case det compound nmod punct
+advmod nsubj root obj punct nsubj parataxis det obj advmod obj mark nsubj advcl punct discourse punct
+nsubj advmod root obj flat punct case det obl case compound nmod case nmod punct punct
+nsubj flat punct nsubj root obj flat nsubj ccomp obj nsubj xcomp compound obj punct compound amod punct nsubj acl:relcl punct punct
+compound nsubj root obj case compound obl nummod punct
+discourse discourse compound root punct punct parataxis punct amod appos punct nsubj:pass flat flat aux:pass parataxis case discourse punct
+compound obj aux nsubj root punct nsubj aux advmod parataxis amod obj punct nsubj parataxis obj punct mark nsubj advcl det obj punct parataxis
+nsubj root det obj punct parataxis cc conj case nmod:poss amod obl case compound compound nmod case compound compound nmod punct punct
+cc nsubj root nsubj ccomp nmod:poss compound obj
+nsubj cop root punct compound nsubj cop list punct cc nsubj cop case case det conj punct parataxis nmod:poss amod obj mark nsubj advcl mark xcomp obj
+compound compound nsubj punct cop case root punct appos punct discourse case obl punct
+compound nsubj case nmod root obj case nmod case amod nmod aux advmod aux:pass ccomp case obl case amod obl case compound compound nmod case nmod punct
+csubj det obj case amod nmod punct case obl punct nsubj aux root obj case det amod obl punct nsubj aux acl:relcl det obj punct discourse
+det amod nsubj case det compound nmod case compound nmod case compound nmod aux root obj
+discourse nsubj cop root cc nmod:poss nsubj advmod case nmod flat conj ccomp nmod:poss nsubj cop advmod ccomp punct punct
+compound root case det nmod case nmod
+nsubj root mark expl aux advcl det nsubj case compound nmod case det nmod cc det amod conj punct punct obj aux nsubj parataxis punct punct
+nsubj root obj flat advmod advmod punct nsubj cop nmod:poss parataxis punct
+nsubj root det compound obj punct nsubj parataxis obj flat punct nsubj advmod parataxis obj flat cc aux advmod conj obj punct advmod punct nsubj parataxis obj punct
+nsubj root compound:prt advmod mark nsubj advcl mark xcomp obj cc nsubj conj compound:prt case obl advmod punct discourse
+discourse vocative punct nsubj advmod root det amod compound obj punct parataxis obj case obl
+root case compound compound compound obl punct advmod amod parataxis punct
+amod nsubj root det obj case det compound obl punct nsubj parataxis punct det obj case det nmod punct punct
+root det:predet det compound nsubj ccomp compound:prt advcl det obj xcomp advmod punct case obl compound obj punct
+case nmod:poss compound compound obl nsubj aux root case obl punct nsubj parataxis mark xcomp compound:prt det obj punct advcl obl nsubj advmod parataxis obj mark nsubj advcl case nmod:poss obl discourse
+nmod:poss compound nsubj cop root case obl flat cc nmod:poss conj punct cc conj flat punct discourse
+nsubj advmod root det compound compound compound obj case obl punct punct
+det compound nsubj root nsubj ccomp punct case obl punct ccomp amod case obl acl:relcl case det obl punct parataxis det obj mark acl obj advmod cc advmod conj obj aux:pass xcomp compound:prt punct case case det obl nsubj acl:relcl obj mark advcl punct nsubj acl:relcl det obj mark cop advcl punct cc det conj mark cop acl punct punct
+compound nsubj cop advmod root mark nsubj advcl det obj cc discourse nummod conj mark acl obl discourse punct
+root det obj case det obl punct nsubj parataxis obj mark advcl obj flat punct case obl
+root case det nmod punct parataxis flat flat punct mark nsubj parataxis nummod obj case det obl punct cc nsubj conj amod punct discourse compound obj
+nsubj flat root case det amod obl case nmod flat punct det compound nsubj advmod parataxis case obl punct
+cop advmod det advmod det compound root punct nsubj parataxis det amod obj advmod punct cop det compound nsubj cop det amod parataxis
+cc case obl case nmod punct nsubj root obj cop det compound advcl punct advmod nsubj parataxis nsubj ccomp iobj det obj advmod punct
+punct nsubj advmod root nsubj det compound ccomp punct advmod case det amod amod ccomp punct punct nummod parataxis
+advmod mark advcl nmod:poss compound obj mark nsubj aux advcl obj punct root det obj punct
+nsubj root det obj cc conj cc conj compound flat obj punct nsubj parataxis det:predet det amod nsubj ccomp punct parataxis obj case det nmod advmod punct
+advcl obj cc compound conj cc cop conj mark xcomp case compound obl punct det obj punct advmod punct nsubj aux root case obl punct
+root case nmod punct acl det compound obj xcomp case amod obl punct punct
+root flat amod amod list cc compound punct list case nmod punct
+nsubj flat root compound compound obj punct amod amod amod compound nsubj flat aux parataxis obj nmod punct
+nsubj aux advmod cop det amod root mark acl case det obl case obl punct amod advmod advmod advmod xcomp det nsubj aux ccomp punct
+advmod nsubj root nummod obj case nummod obl:npmod obl case obl punct
+nsubj flat punct nsubj flat aux root det obj punct punct advmod nsubj aux cop det amod parataxis punct
+nsubj root obj flat cc conj nsubj aux advmod ccomp advmod punct
+det amod compound root case nmod
+compound nsubj root det compound obj case obl punct parataxis obj punct
+nmod:poss root punct nsubj flat cop det:predet det appos nsubj aux acl:relcl det compound compound obj advmod mark advmod cop advcl punct
+compound compound root punct compound parataxis punct appos case nmod punct amod compound list punct
+advmod compound root punct compound nummod appos advmod appos punct punct
+discourse advmod root det amod obj case amod amod nmod punct compound conj punct cc det compound conj punct cc det conj nsubj acl:relcl advmod case obl flat punct
+det amod compound compound compound nsubj cc det conj cop advmod root advmod advmod conj advmod advmod
+nsubj root obj compound nsubj cop ccomp punct punct punct discourse parataxis det obj discourse punct parataxis
+advmod det obl:tmod det nummod amod compound nsubj:pass aux:pass root mark aux cop case xcomp cc conj mark xcomp amod amod obj case obl case det compound nmod case det compound nmod punct
+amod compound compound root mark acl obj case compound obl punct obj case punct case obl flat cc conj flat conj det obj punct
+advmod aux advcl obj obj flat punct cc conj case compound obl punct cop advmod root punct cc det amod nsubj cop nsubj flat cop conj punct
+nsubj flat root advmod xcomp mark nsubj aux advcl mark xcomp case det obl advmod advmod nsubj aux parataxis iobj det obl:npmod amod obj cc mark nsubj aux conj nmod:poss obj
+discourse punct compound nsubj root xcomp punct cc nsubj conj mark nsubj advcl obj case nmod:poss amod compound obl punct nsubj parataxis obj punct cc nsubj conj obj advmod obj
+nsubj root punct discourse advmod nsubj ccomp obj punct parataxis advmod punct nsubj amod cop parataxis punct
+compound nsubj root obj discourse punct nsubj parataxis compound obj punct
+nsubj:pass punct advmod punct nsubj:pass case nmod mark acl nummod obj punct det appos case nummod amod nmod acl case obl aux aux:pass root case obl punct punct
+nsubj root nsubj flat ccomp case det obl nsubj acl:relcl obj advmod discourse discourse
+root obj compound:prt punct nsubj parataxis case obl obj punct parataxis case obl compound compound obl punct appos case obl compound obl punct punct punct
+nsubj root obj punct nsubj parataxis punct nsubj parataxis obj flat flat nsubj cop nmod:poss compound parataxis nummod case det nmod punct nsubj parataxis obj punct parataxis punct punct
+nsubj root mark nsubj flat advcl mark det nsubj advmod ccomp obj det nsubj nsubj aux acl:relcl obl punct punct
+nsubj aux root det obj case nmod flat punct conj xcomp case obl cc nmod:poss nsubj cop advmod advmod conj punct parataxis case obl parataxis case obl
+aux cop root mark case compound nsubj advcl xcomp det compound obj discourse parataxis obj case det obl case det nmod punct discourse parataxis obj case compound obl
+compound compound nsubj root det obj acl case det compound obl punct parataxis compound amod cc case det conj acl nummod compound obj case obl punct
+root compound obj amod obl:tmod punct amod parataxis advmod punct parataxis case nmod
+nmod:poss nsubj root obj flat advmod punct obl:tmod nsubj parataxis compound:prt ccomp case obl flat cc conj case det obl aux advmod advmod case ccomp punct
+root flat punct conj flat punct amod appos punct cc compound conj punct parataxis case compound compound obl punct
+discourse root obj xcomp advmod punct parataxis det obj punct obj flat punct punct
+nsubj:pass mark advcl obj case obl punct conj case compound obl punct det compound compound nsubj:pass aux:pass root mark xcomp nmod:poss compound obj punct punct
+nsubj flat root case nmod:poss compound obl
+det compound amod compound nsubj aux aux root mark advcl det obj cc conj det obj punct
+compound compound cc compound compound compound root acl case obl nmod punct punct punct appos punct appos nummod punct nummod case punct nmod
+discourse discourse discourse discourse nsubj aux root nsubj aux ccomp case nmod:poss compound compound obl obl:tmod nsubj aux cop det compound parataxis discourse
+det root flat nmod:npmod cc conj det obj punct advcl det compound obj case det obl case nmod punct
+amod nsubj root amod obj case nmod punct advmod punct amod nsubj parataxis mark nsubj flat flat aux aux ccomp det obj punct
+root advmod fixed nummod obl:tmod punct parataxis obj punct compound obj punct
+det root amod obj punct aux nsubj:pass flat aux aux:pass parataxis det compound compound obj punct
+amod root punct compound appos compound amod compound appos punct appos
+det compound compound compound compound nsubj punct cc det compound compound compound compound conj punct compound nsubj root mark xcomp det obj cc conj det obj mark det amod nsubj aux acl obj case obl punct
+nsubj root mark nsubj advcl xcomp cc conj det compound obj discourse
+discourse cc conj root compound obj punct
+compound root punct parataxis xcomp compound obj case nmod:poss obl case nmod acl punct xcomp case det obl case compound nmod punct appos
+root compound:prt obj det nsubj cop parataxis compound parataxis case nmod acl amod obj case nmod:poss nmod punct conj cc conj punct cc compound conj punct punct
+nmod:poss nummod obl:tmod case det nmod punct nsubj aux root compound:prt cc nsubj conj det obj punct advcl mark xcomp det obj advmod punct obj punct
+root mark nsubj det advcl nsubj acl:relcl det obj nsubj acl:relcl case nmod:poss obl punct discourse advmod parataxis
+nsubj nummod advmod root case obl punct appos punct advmod punct punct nsubj nummod cop det amod parataxis acl det obj punct punct
+csubj case obl flat compound obl root cc mark nsubj case det nmod case nmod flat cop conj det compound nsubj cop conj
+punct nsubj cop advmod root punct discourse
+discourse compound nsubj case det nmod punct discourse punct cop root nsubj ccomp obj nsubj cop acl:relcl nsubj acl:relcl mark xcomp compound:prt punct
+mark nmod:poss nsubj advcl discourse advcl compound:prt case obl punct nsubj:pass aux:pass advmod root mark xcomp case det obl punct discourse discourse
+compound nsubj:pass appos aux:pass root case obl mark advcl mark nmod:poss nsubj:pass cc conj conj aux aux:pass ccomp
+punct punct nsubj flat punct aux ccomp mark cop det amod xcomp obj nsubj aux acl:relcl punct punct root det compound nsubj punct advcl mark nsubj ccomp case det obl punct nummod obl case det advmod amod punct amod obl case nmod punct punct cc det nsubj conj obj flat punct amod cc advmod conj punct punct
+case root punct obj advmod nsubj acl:relcl ccomp case compound obl punct discourse punct
+nsubj flat acl case obl case obl aux cop root punct nsubj advmod parataxis obj xcomp mark advcl cc nsubj conj cop ccomp punct cc nsubj conj obj
+nsubj root case obl case obl case obl punct compound nsubj parataxis case punct amod compound obl case compound compound compound compound nmod
+compound compound nsubj aux aux root obj punct
+compound compound punct compound root punct nsubj cop det compound compound compound appos punct
+nsubj cop case root advmod punct nsubj parataxis obj punct conj flat punct conj flat punct amod conj punct cc amod conj punct
+discourse nsubj root obj nmod:poss nsubj cop det amod compound acl:relcl case appos advmod parataxis cc mark nsubj advmod conj obj case nmod punct advmod nummod cc conj nsubj parataxis
+nummod punct compound root punct nmod:poss flat cc conj conj amod appos punct det conj cc det conj punct case compound nmod compound nmod:tmod
+nsubj root mark nsubj advcl det amod obj punct nsubj ccomp flat flat punct punct nsubj ccomp case obl punct case nmod:poss amod obl punct punct discourse
+discourse punct nsubj root nsubj aux ccomp nmod:poss amod compound obj punct advmod advmod punct nmod:poss nsubj cop parataxis det obl:npmod punct nsubj parataxis case compound obl cop advcl punct
+det nsubj case nmod flat aux root det amod obj case det amod nmod punct advmod advmod amod nsubj:pass case det nmod aux:pass acl:relcl mark xcomp case compound obl punct
+nsubj root mark xcomp det amod obj mark acl case obl punct advmod nsubj advmod parataxis advmod cc conj conj case obl case nmod:poss compound obl punct
+compound compound root compound list list nummod list punct compound compound list compound compound compound list punct list case nmod
+root punct nsubj appos punct nsubj:pass aux:pass parataxis mark advcl det obj case nmod punct compound obj punct appos punct punct
+advmod punct root punct amod appos punct punct compound list punct compound parataxis acl amod obj case obl punct
+nsubj root advmod xcomp case obl
+root cc conj flat punct nsubj parataxis nmod:poss obj punct discourse punct compound parataxis case nmod punct
+advmod mark nmod:poss obl:tmod nsubj ccomp nmod:poss ccomp mark ccomp case compound obl case obl flat punct nsubj root iobj det obj
+advmod nummod nsubj mark acl case obl flat flat cop root case obl punct mark nsubj advcl obj nsubj acl:relcl det compound obj cc punct punct
+nsubj flat cop det advmod root punct punct advmod discourse punct nsubj parataxis obj advmod advmod punct cc nmod:poss obl:npmod punct nsubj aux conj obj punct
+nsubj root punct det amod nsubj cop advmod ccomp punct advcl obj punct compound nummod compound conj punct nummod punct punct compound amod appos punct
+amod compound root punct nsubj parataxis compound compound obj
+vocative punct nsubj aux cop det compound root case amod nmod punct aux nsubj parataxis det nsubj aux ccomp cop ccomp mark xcomp det amod compound obj punct
+nsubj advmod root det obj case nmod cc conj punct parataxis nsubj aux aux ccomp obl:tmod punct
+nsubj aux advmod root obj mark acl case obl cc conj nsubj aux advmod acl:relcl nmod:poss obj cc nsubj advmod acl:relcl obj case obl punct
+case det obl nsubj acl:relcl det nummod obj case nmod cc cc conj punct nsubj:pass aux:pass root mark cop xcomp case det compound nmod punct
+advmod aux nsubj flat root case obl case nmod flat cc conj appos flat punct det det amod parataxis punct
+compound nsubj root case det obl case nmod case det nmod punct conj mark aux xcomp obj advmod discourse discourse
+root compound:prt nmod:poss compound compound obj compound nummod amod compound compound obj case obl flat nsubj nsubj aux parataxis nmod:poss obj punct punct
+nsubj flat aux root mark xcomp obj obl:tmod case obl discourse discourse
+discourse compound flat nsubj cop root punct aux nsubj parataxis obj flat cc compound conj punct
+det nsubj cop advmod root punct compound appos case det nmod punct parataxis iobj det nsubj ccomp det amod obj case nmod punct
+nsubj aux root xcomp obj flat obj case nmod:poss obl punct nsubj advmod parataxis obj det obj punct parataxis advmod punct aux amod punct parataxis punct discourse
+nsubj punct nmod:npmod punct nsubj acl:relcl det obj nummod obj case nmod:poss obl case nmod punct root det obj case nmod punct punct
+nsubj root nmod:poss obj case obl case obl punct parataxis nummod case nmod punct compound appos punct compound punct appos punct
+nsubj cop det:predet det amod compound root
+nummod punct amod nsubj nsubj advmod acl:relcl obj case obl punct root amod obj mark advcl compound obj punct nsubj parataxis det obj case nmod cc conj punct conj punct
+nsubj aux root obj case compound nmod nsubj acl:relcl case obl mark advcl obj compound:prt punct
+nsubj punct appos punct appos nummod punct nsubj flat punct flat flat flat case nmod cc nmod:poss amod conj nsubj flat root obj advmod obl:tmod case det obl mark acl amod obj case nmod:poss amod nmod punct
+nsubj advmod root case obl advmod mark det nsubj advcl obj cc conj obj case det nmod punct
+amod compound root punct appos flat case nmod advmod punct
+advmod root nsubj cop ccomp case compound obl cc conj conj punct cc conj obj punct nsubj ccomp xcomp compound:prt cc conj obj case obl cc mark nsubj cop advcl
+nsubj goeswith goeswith goeswith det root punct parataxis iobj compound obj compound obj punct
+aux cc:preconj root compound obj punct cc amod conj punct conj nummod amod nummod obj case det nmod nummod case obl nummod punct nummod punct
+mark nsubj advcl amod obj punct det nsubj root obj mark nsubj flat cc conj cop advmod ccomp cc aux aux:pass conj advmod punct
+nsubj root amod compound obj case obl punct conj amod obj case nmod case nmod
+compound nsubj root punct det amod nummod obj nsubj acl:relcl mark xcomp case nmod:poss flat flat case amod compound obl punct appos punct parataxis obj punct
+mark advcl det obj case amod nmod punct nsubj aux root nmod:poss compound compound obj case obl punct
+det amod compound compound compound compound nsubj root obj case nmod mark det nsubj acl aux aux:pass acl punct conj cc conj punct punct advcl mark nsubj:pass aux aux:pass ccomp case amod obl case amod nmod punct
+nsubj nsubj flat root case obl flat
+root case nmod flat punct det nsubj:pass aux:pass parataxis case det amod compound obl punct case nmod:poss amod compound obl punct
+discourse advmod fixed nsubj aux cop root nsubj det advmod amod ccomp punct appos advmod punct amod appos punct compound nsubj parataxis case obl flat punct
+nsubj punct nsubj acl:relcl det obj case det amod obl mark aux:pass xcomp case det obl case obl mark advcl punct root case det obl case nmod case nmod nsubj aux acl:relcl case obl case det obl punct
+case det:predet det amod obl case det nmod punct advmod case amod nmod punct nsubj advmod mark root obj xcomp amod obj mark nsubj advmod advcl punct
+discourse advmod aux nsubj root advmod case det compound compound obl punct nmod:poss nsubj cop parataxis punct cc nsubj conj obj nsubj cop advmod acl:relcl punct
+discourse root flat punct nsubj parataxis punct cc conj xcomp ccomp nmod:poss obj
+advcl case obl advcl case obl flat punct nsubj root det obj discourse
+nsubj root nmod:poss obj punct nmod:poss nsubj case nmod cop advmod advmod parataxis punct
+nsubj root amod obj compound obj punct det nsubj aux parataxis det amod obj mark advcl punct
+det nsubj root amod obj case nmod punct obj nsubj acl:relcl case det obl case obl punct conj obj amod punct
+case obl punct nsubj cc amod conj cop root mark xcomp xcomp obj case compound nmod mark advcl obj case det obl case compound nmod advmod mark advcl case det obl mark acl det compound compound punct obj case det nmod punct
+compound amod root nummod punct nmod:poss appos nummod punct appos punct compound compound appos case nmod
+nsubj cop root det compound compound nsubj cop det amod ccomp case nmod mark acl det obj mark xcomp det obj case det amod nmod cc conj punct
+root cc conj punct amod cc conj appos punct punct nsubj flat parataxis mark xcomp compound compound nmod:poss case punct obj case compound punct nmod punct punct punct
+aux det nsubj compound nsubj root compound obj case nmod:poss obl case det amod compound nmod punct punct
+amod amod compound nmod:poss case root punct parataxis case amod obl punct appos obl:tmod punct
+compound nsubj root xcomp case det compound compound compound obl punct
+cc root nsubj cop punct parataxis advmod case det obl punct conj case obl advcl case det amod compound compound punct obl flat punct appos punct punct
+compound root punct nsubj case nmod nmod flat advmod parataxis det obl:npmod xcomp punct discourse
+nsubj root mark nsubj ccomp obj case det amod amod nmod punct cc conj case obl case obl case amod nmod punct
+nsubj root compound compound obj punct nsubj flat ccomp det compound obj case nmod:poss obl punct
+compound compound root case compound nmod punct appos punct det amod compound appos nsubj advmod acl:relcl punct appos
+det root punct amod punct amod appos nsubj acl:relcl det obj punct
+root case nmod punct amod nsubj parataxis mark xcomp amod compound obj punct punct
+obl:npmod amod nsubj nmod:tmod punct nmod:poss amod nsubj cc conj aux aux root obj det obl:tmod punct
+amod amod amod compound root case nmod case compound nmod punct
+advmod discourse advcl punct root obj punct cc punct conj flat case det compound compound nmod punct
+discourse punct nsubj cop root case obl
+nsubj flat advmod cop root mark advmod nmod:poss nsubj punct compound compound obl:npmod punct amod compound appos case nmod:poss amod nmod punct advmod aux ccomp nummod obj punct
+amod nsubj case nmod punct amod appos appos nummod punct compound compound nummod list punct appos nummod punct compound appos punct appos nummod punct root obj punct punct
+nsubj nsubj cop case det compound root punct advmod mark det nsubj cop case advcl punct cop nsubj parataxis punct punct
+compound nsubj root case obl mark advcl obj case det compound obl punct
+compound nsubj root case obl punct nsubj parataxis amod compound obj case obl
+nsubj root nummod obj case nmod case det obl case compound obl punct punct punct
+discourse nsubj flat advmod root det obj mark nsubj advcl obj nsubj aux parataxis det obj case obl punct
+nsubj root punct nsubj advmod ccomp nmod:poss flat flat case obj punct discourse parataxis det ccomp case nmod:poss compound obl acl case det obl punct
+nsubj flat flat root obj mark xcomp obj case nmod:poss obl discourse
+nmod:poss compound nsubj cop root nummod punct case fixed nmod punct appos case nmod punct punct
+mark nsubj advcl punct nsubj root obj mark advcl obj cc conj nmod:poss obj punct nsubj cop parataxis det nsubj aux acl:relcl mark xcomp obj flat punct
+compound compound nsubj punct nsubj flat root nmod:poss obj mark nsubj advcl case obl punct advmod punct nmod:poss nsubj parataxis advmod xcomp cc nsubj conj advmod advmod obj punct advcl discourse
+nsubj advmod case compound root punct nsubj parataxis nummod obj punct parataxis obj amod cc nsubj aux conj iobj obj punct
+det amod nsubj root det amod amod compound nsubj cc conj case nmod aux ccomp mark xcomp det amod amod obj cc aux conj amod obj punct
+compound punct compound root punct parataxis det obj punct discourse
+nsubj root det compound compound obj cc nsubj flat cop advmod cc conj
+det compound compound nsubj punct nummod appos cop det amod root cc conj obl punct
+cc advmod mark nsubj advcl nsubj aux ccomp det compound compound obj cc conj obj xcomp det nsubj case nmod root obj xcomp punct punct
+nsubj root det amod obj case obl punct
+root punct amod amod compound compound appos case nmod flat case compound compound nmod punct
+nsubj cop det amod root punct parataxis vocative punct discourse punct
+nsubj flat advmod root discourse obj nmod:npmod punct discourse discourse punct nsubj parataxis det compound compound obj punct nsubj parataxis obj cc nmod:poss compound nsubj conj compound:prt
+amod compound nsubj root amod compound obj punct compound appos case nmod punct obj punct punct
+aux root compound obj case compound nmod cc cop conj case obl punct aux nsubj nsubj parataxis obj punct
+root det obj case nmod:poss nmod punct det amod appos case nmod flat punct conj amod obj case det nmod case det compound compound nmod punct
+expl root nsubj mark acl obj case nmod flat acl det obj case nmod case advmod obl punct cc discourse punct advmod cop nsubj advmod conj punct
+nmod:poss root case compound amod nmod mark acl det compound compound obj punct punct
+amod compound root punct compound appos case nmod punct compound appos punct nsubj parataxis det obj punct discourse punct obj punct nsubj cop parataxis punct punct
+compound nsubj cop root cc advmod punct conj case obl nsubj advmod acl:relcl punct
+nsubj advmod root obj flat mark xcomp xcomp case compound obl obl case det obl
+root flat punct amod appos punct advmod list punct parataxis case obl punct
+compound root punct compound det amod appos punct aux:pass nsubj parataxis case det obl punct discourse parataxis obj punct punct nsubj parataxis det compound compound obj punct parataxis ccomp punct discourse punct
+nsubj advmod root det obj punct punct advmod advmod aux nsubj appos obj flat punct punct punct nsubj aux parataxis obj punct discourse
+case det compound obl acl det amod obl:tmod punct nsubj flat punct det appos case nmod acl compound obj punct root mark nsubj cc amod conj case det compound compound nmod ccomp det obj case det compound nmod xcomp punct
+nsubj advmod root det amod obj case amod amod nmod cc conj mark acl obj case nmod:poss amod nmod case det amod nmod punct
+amod root case nmod case det nmod punct cc conj amod punct appos acl det advmod amod obj case nmod case obl punct punct parataxis punct punct
+nsubj flat acl iobj amod obj cc det conj case obl case compound obl punct nsubj flat aux root obj flat case obl punct punct
+nsubj aux root case obl nummod amod obj punct
+root punct compound punct compound compound nsubj punct nsubj parataxis xcomp punct compound obj case nmod appos nummod cc amod nsubj conj obj punct punct
+root mark nmod:poss amod nsubj cop case ccomp punct
+root cc compound nsubj flat conj obj flat punct compound compound compound nsubj flat flat parataxis obj case obl xcomp obl punct punct
+cc nsubj advcl compound obj punct nsubj cop det advmod amod root mark acl punct
+case nmod punct root punct amod appos case nmod nsubj flat cc conj aux advmod acl compound obj punct punct
+nsubj root amod obj case obl punct discourse parataxis obj det nsubj cop ccomp case obl obl punct aux nsubj parataxis obj punct
+compound root punct compound parataxis advmod advmod compound list punct amod appos advmod acl:relcl nmod punct
+root obj amod ccomp case obl mark nsubj advcl compound nsubj cop det ccomp mark acl det obj
+root mark xcomp det amod amod obj mark acl punct parataxis punct compound obj punct case obl flat nmod:tmod punct cop advmod parataxis punct det parataxis punct
+det compound nsubj cop root punct compound compound parataxis punct
+advmod advmod punct nsubj root obj punct nsubj parataxis compound obj punct compound appos appos nummod advmod punct nsubj parataxis obj punct nsubj cop parataxis
+nsubj root punct amod punct compound obj
+mark nsubj advcl amod obl:tmod punct nsubj aux aux root compound:prt nummod compound compound obj case nmod:poss compound cc conj obl punct mark nsubj advcl det obj punct punct
+nsubj root det compound obj case nmod:poss obl punct amod obl nsubj aux parataxis advmod ccomp mark nsubj cop punct
+case compound obl punct root advmod case obl obl:tmod case amod obl case nmod mark acl punct conj punct cc conj punct punct
+det compound nsubj:pass aux:pass advmod root case det obl punct nsubj parataxis det:predet det obj cc conj conj mark xcomp det obj punct nmod:poss det compound compound nsubj parataxis det obj punct
+root cop det compound nsubj amod case obl punct compound compound compound obl cc conj punct compound compound conj case nmod flat advmod
+amod compound nsubj root compound obj punct
+nsubj advmod punct advmod root cc conj mark nsubj ccomp compound:prt cc conj advmod case nmod:poss obl punct amod compound parataxis punct discourse compound parataxis punct
+csubj case obl advcl det compound obj case nmod root cc punct conj obj cc conj obj xcomp nsubj aux cop parataxis
+discourse punct nsubj flat cop det root punct nsubj nsubj aux parataxis amod obj case det obl nmod:poss obj punct appos case det compound obl punct appos
+nmod:poss flat case compound nsubj punct nmod:poss flat case compound nsubj aux root advmod mark xcomp amod obj case nmod:poss nmod punct
+nsubj advmod root obj punct nsubj aux parataxis obj punct punct case obl
+compound nsubj flat root case compound compound obl punct punct
+nsubj root det compound obj case nmod compound nmod case nmod punct parataxis flat punct flat flat
+nsubj flat root case obl mark advcl det obj case det nmod
+root xcomp case nmod:poss obl appos flat case obl cc conj obj case nmod punct
+compound root punct compound appos amod compound list case nmod punct amod appos
+case obl advmod punct det nsubj root case compound obl punct
+nsubj root mark det nsubj punct advmod aux ccomp obj case nmod cc conj punct det det amod amod parataxis punct
+nsubj punct appos punct nmod:npmod punct acl case det amod obl case det amod nmod case nmod case nmod punct appos case compound nmod flat punct nsubj root det compound obj case obl case nmod nmod:tmod cc conj det obj case amod compound obl punct
+nsubj root compound nsubj ccomp amod amod obj punct punct parataxis det obj punct appos flat punct nsubj amod nsubj acl:relcl det obj punct punct
+compound compound compound nsubj root amod obj punct compound compound punct appos punct compound nsubj parataxis obj punct
+nsubj flat cc conj flat cop root case obl obl:tmod cc nsubj flat conj obj case det amod obl punct
+discourse punct advmod punct case obl punct nsubj flat nummod cop advmod root punct cc nsubj advmod conj obj punct parataxis iobj obj punct discourse
+nsubj root det obj case case obl punct compound compound vocative punct nsubj parataxis obj case amod obl punct
+compound root punct
+det amod compound root case amod nmod punct case nmod case nmod punct
+cop advmod root mark nmod:poss flat nsubj aux advcl mark xcomp obj case obl punct discourse discourse punct punct nsubj aux parataxis obj case nmod:poss obl discourse discourse punct
+discourse discourse punct nmod:poss nsubj punct nsubj root obj xcomp advmod nsubj parataxis det obj punct xcomp mark advcl obj
+amod compound root case nmod flat flat case nmod
+compound root flat case nmod:poss nmod cop acl
+punct case root punct nummod appos case nmod punct det amod appos nsubj acl:relcl case obj nsubj acl:relcl punct det amod appos nsubj acl:relcl mark obj nsubj advcl punct obj flat punct punct punct punct
+nsubj root xcomp compound obj punct nsubj parataxis advmod xcomp case case obl punct
+nsubj root case amod obl case advmod nummod obl punct parataxis advmod mark advcl cc conj det amod obj punct parataxis punct
+amod nsubj root amod obj case obl punct punct
+compound root punct amod punct amod compound list punct acl case det compound compound obl punct
+discourse vocative punct discourse vocative punct punct compound compound conj compound compound obj punct root iobj det obj punct parataxis parataxis det obj cc conj xcomp obj
+advmod root amod obj case compound compound nmod case obl case punct punct compound compound obl punct
+amod nummod amod compound root punct appos appos case nmod punct compound appos case nmod punct appos flat case nmod punct
+compound compound compound root mark advmod advmod acl obj punct
+root obj vocative mark advcl det amod obj case det nmod punct discourse parataxis mark xcomp advmod case nmod:poss obl case obl punct punct
+compound compound root punct parataxis det amod compound obj case det obl mark acl det compound obj punct
+nsubj root det compound obj punct compound appos punct
+vocative punct nsubj root mark mark nsubj advcl case det amod obl case compound nmod nsubj punct advmod nsubj nsubj ccomp amod xcomp
+obj advmod amod compound nsubj root advmod punct
+nsubj root compound obj case obl punct parataxis punct amod nsubj parataxis iobj nmod:poss flat flat flat case obj nmod punct
+nsubj root det obj case case compound compound obl punct obj nsubj parataxis mark xcomp punct punct
+nsubj flat aux advmod root obj case det obl punct cop advmod advmod parataxis case nmod:poss flat flat case obl case nmod punct advcl obj punct punct
+compound root flat punct nsubj aux advmod parataxis advmod mark nsubj flat aux advcl case obl punct
+discourse nsubj root mark nsubj cop amod ccomp case nmod
+punct discourse punct discourse punct nsubj advmod root mark cop case xcomp case det compound flat nmod case nmod punct mark nsubj cop det amod advcl punct
+root flat punct flat flat punct appos punct appos acl:relcl mark nsubj advcl xcomp punct compound nsubj:pass flat aux:pass parataxis det obj mark acl punct punct
+nsubj flat aux root nsubj aux ccomp mark xcomp case nmod:poss obl case obl punct cc conj nsubj advmod ccomp obj punct
+root advmod det nsubj ccomp case obl flat cc amod compound conj case fixed obl punct discourse amod parataxis punct
+mark nsubj advcl discourse discourse advmod nsubj aux root obj advmod advmod case compound obl discourse nsubj parataxis det obj
+nsubj cop advmod det root punct nsubj advmod cop advmod det parataxis punct mark nsubj advcl punct
+nsubj root obj obj expl cop ccomp mark csubj case obl case det compound obl punct mark advcl det advmod amod obj punct parataxis
+punct nsubj aux root det amod obj cc aux conj punct punct advmod advmod advmod aux nsubj flat aux parataxis obj case obl punct
+nsubj root advmod xcomp mark nsubj punct nsubj advmod parataxis obj punct
+advmod nsubj advcl punct cc nsubj nsubj acl:relcl punct cop case root punct vocative punct
+nsubj root advmod mark nummod compound compound nsubj:pass aux aux:pass ccomp case punct case case obl nsubj acl:relcl punct nsubj cop det amod punct amod conj punct nsubj advmod conj case det amod compound obl case compound amod nmod punct cc mark punct mark nummod amod compound nsubj advcl punct punct det nsubj aux parataxis mark xcomp case compound obl case det compound obl case det nmod punct punct
+discourse nsubj parataxis punct punct root amod obj case nmod punct punct advmod discourse parataxis nsubj acl:relcl punct parataxis compound:prt det obj punct compound compound obj
+mark det compound nsubj advcl mark xcomp amod obj punct nmod:poss amod nsubj case nmod:poss amod nmod cc nmod:poss amod cc conj conj case amod nmod root mark det nsubj cop advmod amod ccomp punct
+punct root punct advmod case fixed obl flat punct det nsubj advcl obj case nmod cop appos mark cop case advcl nsubj acl:relcl case obl advmod punct xcomp cc conj punct punct parataxis
+compound compound compound nsubj cop amod root punct nsubj aux aux parataxis obj case nmod:poss amod obl case obl punct
+nsubj root obj mark compound nsubj aux advmod advcl mark nsubj ccomp punct nsubj parataxis advmod advmod advmod advmod punct advmod punct
+nsubj cop nmod:poss amod root mark nsubj advcl case obl cc conj
+advmod root mark nsubj flat ccomp det obj obl:tmod mark nsubj aux ccomp case obl punct discourse parataxis case obl punct discourse parataxis case obl punct
+nsubj root nmod:poss obj case obl punct advmod det nsubj aux parataxis nmod:poss obj punct advcl obj xcomp punct
+root punct flat punct flat punct nsubj parataxis obj punct parataxis obj punct
+obl:tmod root obj punct conj punct conj punct conj punct conj cc advmod det compound conj mark advcl obj case det compound obl punct cc advmod conj punct
+root punct nsubj cop parataxis punct nsubj parataxis obj flat cc conj flat conj nsubj xcomp obj punct obj nmod punct punct
+discourse root flat punct flat appos punct nummod amod compound appos punct
+root punct parataxis obj cc conj case compound nmod case obl
+compound nummod punct nsubj root obj flat cc conj flat discourse
+compound root punct compound compound compound compound amod compound appos advmod parataxis case compound compound obl case obl punct
+nsubj punct appos nummod punct nsubj punct compound compound compound nsubj flat root obj flat punct appos case nmod case obl nummod mark advcl obj mark det nsubj mark acl amod obj case obl cop acl punct
+nsubj cop det advmod case det amod root punct punct nsubj acl:relcl case det obl det amod cc conj nsubj aux acl:relcl case obl punct
+root det obj punct cc amod conj case compound flat nmod punct discourse
+root flat punct appos case det amod amod compound compound compound nmod punct compound compound appos punct
+nummod obl:tmod root case compound obl punct nummod parataxis cc nummod conj conj nummod nsubj parataxis case compound obl punct nummod parataxis cc conj punct punct
+advmod nsubj root obj punct obj nsubj acl:relcl obl case obl punct conj mark nsubj aux ccomp obj punct cc nsubj aux cop conj punct punct appos nummod punct appos
+csubj compound:prt obj punct root obj advmod cc conj obj case obl cc conj
+compound nsubj root punct det amod parataxis case det compound compound nmod cc advmod advmod nsubj conj case obl punct obj punct
+root det obj advmod advmod aux nsubj parataxis compound compound obj punct punct obj cc conj punct advmod advmod punct ccomp case nmod punct punct
+aux advmod root obj flat case det compound obl punct punct punct case amod obl punct
+advcl compound compound obj nummod compound obj mark advcl advmod case nmod:poss obl punct advcl case det amod obl punct nsubj root ccomp nmod:poss nsubj aux acl:relcl
+punct discourse punct det nsubj punct case fixed obl case nmod cop det root acl det obj punct case case det amod compound nmod punct
+root case det obl compound compound obl parataxis punct compound compound obj discourse
+vocative flat punct det amod root case det nmod punct
+compound cc conj compound nsubj root case compound obl punct compound conj punct compound conj
+root flat punct compound appos punct punct nsubj flat punct conj flat cc conj flat parataxis obj mark xcomp mark det nsubj cop case ccomp punct punct
+advcl case nummod obl punct nummod parataxis punct root obj advmod punct compound obj acl case obl conj case obl punct parataxis
+discourse punct mark compound amod nsubj punct nsubj root case obl flat punct punct
+nsubj flat cop advmod root punct advmod case det obl amod nsubj aux parataxis case nmod:poss obl punct cc case det obl nsubj cop amod punct parataxis
+nsubj flat punct appos case det compound nmod case det nmod case compound compound compound compound nmod punct root nsubj case nmod cc conj amod obl:tmod ccomp nummod obj case det obl case punct cc nsubj case nmod punct conj cc conj conj advmod conj amod obj punct
+case det compound obl punct nsubj root case det obl case punct det nmod case amod nmod case det nmod case det amod nmod punct
+nsubj flat flat compound compound compound conj flat aux advmod aux:pass root case det obl cc conj case det compound punct nmod case compound nmod obj nsubj acl:relcl case nmod:poss compound case det nmod obl det amod obl:npmod advmod mark advcl obj punct conj cc compound conj punct
+advmod cop nsubj root case obl punct compound appos case compound nmod punct punct
+amod amod nsubj root obj case obl punct compound list compound list punct discourse parataxis amod conj discourse punct
+compound amod compound root punct amod punct punct compound compound list punct
+nsubj root nsubj ccomp nmod:poss amod obj mark advcl nmod:poss amod obj case obl punct discourse punct discourse punct det nsubj parataxis case nmod:poss obl case det compound nmod
+nsubj nummod cop advmod root advmod advmod punct
+compound root punct compound compound compound compound appos
+det compound punct compound nsubj root nummod punct compound nummod obj case nmod punct nsubj parataxis mark det nsubj aux advcl obj punct punct parataxis nsubj ccomp det obj punct
+mark det nsubj case nmod root mark xcomp case det compound obl mark advcl det obj punct compound obj
+nsubj root det amod obj punct nsubj:pass aux:pass advmod acl:relcl punct mark advcl case amod obl punct case amod compound nmod punct
+discourse root cc conj aux conj compound obj punct discourse nsubj parataxis obj advmod
+nsubj cop root det compound obj case nmod punct advmod compound nsubj parataxis punct det nsubj punct parataxis iobj nmod:poss compound obj
+root advmod nsubj appos det compound obj punct parataxis advmod nsubj advcl det compound obj
+discourse nsubj flat cop det:predet det compound root
+root flat mark acl obj flat case obl punct compound compound parataxis punct obj aux nsubj parataxis punct punct
+nsubj root det obj nsubj aux acl obj advmod advcl case obl punct case det obl cc conj case det compound obl punct advmod parataxis case obl advmod punct det parataxis punct
+aux nsubj root obj flat case compound obl punct punct punct nsubj aux aux parataxis xcomp case obl punct amod parataxis punct punct
+nsubj root obj case nmod nummod punct amod compound compound appos case det compound nmod mark nsubj advcl obj compound:prt parataxis parataxis ccomp punct discourse
+amod compound nsubj case nmod aux advmod ccomp amod obj case amod amod nmod cc expl conj amod nsubj case amod nmod punct case amod nmod case amod nmod case cc:preconj det nmod cc amod conj punct punct det nsubj root punct
+compound compound compound nummod punct compound appos aux root compound compound:prt obj punct
+amod nsubj punct nsubj root obj mark advcl compound obj punct compound nsubj parataxis obj det amod nummod obj case nummod nmod punct
+root det obj mark acl det obj case nmod:poss compound punct obl punct obj aux nsubj parataxis mark xcomp punct advmod parataxis mark nsubj advcl obj case det obl:npmod advmod
+nsubj root nsubj aux ccomp advmod advmod punct mark amod nsubj advcl det compound obj punct cc mark nsubj aux conj amod obj case nmod:poss amod obl punct
+nsubj root det compound obj cc det conj cc det conj punct advmod parataxis
+det nsubj root case compound obl punct acl det obj case compound nmod cc conj det obj case amod compound nmod punct cop det amod parataxis cc conj compound obj case det amod obl punct cc det conj acl punct
+compound root compound amod compound compound compound compound compound compound parataxis
+root punct obj punct compound compound nsubj cc conj parataxis case obl flat punct advcl case punct compound obl punct compound punct compound compound nsubj parataxis det obj punct
+punct det amod nsubj:pass punct aux:pass root case nmod:poss obl punct amod parataxis nummod conj
+advmod advmod punct det amod nsubj case det amod amod nmod aux root obj advmod xcomp mark xcomp case obl case det obl case det nmod punct advmod mark nsubj:pass aux aux:pass advcl case det obl case det nmod punct
+nsubj punct nsubj acl:relcl det obj case det amod obl mark aux:pass xcomp case det obl case obl mark advcl punct root case det obl case nmod case nmod nsubj aux acl:relcl case obl case det obl punct
+nsubj advmod advmod root compound nsubj cop det ccomp punct nsubj parataxis nsubj ccomp compound nsubj cop det amod ccomp punct advmod case punct punct
+punct nummod nsubj case compound nmod aux root case case nmod:poss obl punct punct parataxis obj case obl punct
+nsubj flat punct det amod appos parataxis obj punct nsubj:pass aux:pass acl:relcl nummod obl:npmod advmod punct aux root nmod:poss amod obj case amod nmod case case det obl advmod acl case obl cc nmod:poss conj punct
+csubj advmod mark advcl det obj mark acl punct root case compound obl obl:tmod punct
+compound nsubj case det nmod mark advmod cop case acl case nmod case det nmod punct compound compound nsubj case det nmod root obj punct
+mark det amod nsubj root xcomp obj nummod punct nsubj acl:relcl mark xcomp obj case obl punct
+discourse discourse vocative punct nsubj cop root punct nsubj cop parataxis mark xcomp obj case obl punct
+root flat appos nummod punct nummod case nmod punct punct nsubj aux parataxis case obl mark nsubj ccomp det obj mark acl det obj punct punct
+root compound:prt nmod:poss obj case obl punct discourse
+root case nmod:poss nmod nsubj appos mark advcl nmod:poss amod compound compound obj case obl punct punct
+discourse advmod punct nsubj nsubj root case det amod obl punct nsubj flat parataxis case obl punct case obl flat punct nsubj parataxis obj nummod case nmod advcl punct parataxis
+amod root punct compound appos punct compound conj punct det conj punct conj punct conj cc amod list punct compound list
+nsubj cop advmod advmod case root flat punct nsubj parataxis nsubj aux ccomp nmod:poss obj advmod advmod punct
+advmod nsubj flat root det obj mark acl obj case case obl case obl punct nsubj cop parataxis mark xcomp det obj obl:tmod advmod mark nsubj advcl obj nummod obl:tmod
+nsubj punct det nsubj case nmod cc conj aux aux root advmod case det obl case amod nmod cc conj case cc conj det compound conj punct
+nsubj flat nsubj root case obl case obl punct appos
+nmod:poss amod nsubj root nsubj ccomp nmod:poss case amod compound nummod compound compound obj appos case compound nmod punct cop parataxis mark xcomp mark punct ccomp punct conj obj advmod obj punct
+advcl mark nsubj aux advmod ccomp compound:prt obj punct det compound nsubj root mark advmod det nsubj nsubj aux acl:relcl aux ccomp compound:prt nmod:poss amod obj punct
+root obj punct punct parataxis punct nsubj aux parataxis xcomp obj punct punct punct parataxis punct punct conj punct conj cc conj conj case nmod punct advmod parataxis punct appos
+root flat flat cc conj flat appos
+compound nsubj cop advmod det amod root nsubj det acl:relcl punct parataxis cop compound amod amod nsubj punct
+root mark xcomp det compound nummod compound obj punct compound appos case nmod:poss amod compound nmod punct case nmod punct cc conj det advmod amod obj punct case det obl case nmod mark acl punct
+nsubj root punct amod nsubj nsubj cop advmod ccomp punct advmod conj nummod obl:npmod advmod advcl compound nummod compound punct compound amod obj punct
+punct root advmod advcl compound obj case nmod punct advmod aux nsubj parataxis obj cc conj advmod advmod advmod punct vocative
+compound compound nsubj punct root obj case fixed obl cc conj punct punct parataxis obj case fixed advmod punct obl mark advcl obj cc punct
+nsubj nsubj aux acl:relcl nsubj flat cop case nmod:poss ccomp punct root det amod compound compound compound obj punct
+csubj advmod root obj xcomp xcomp case obl punct nsubj aux parataxis obj advmod cc conj cc nsubj aux advmod conj nmod:poss obj punct
+discourse advmod nmod:poss root case nmod punct amod case det compound compound obl punct nsubj advmod parataxis nsubj ccomp case cc conj obl punct advmod punct discourse
+punct nsubj root det compound obj case det amod obl mark mark nsubj advcl case obl nsubj flat aux cop case det conj punct
+nsubj:pass flat aux:pass root advcl case det obl discourse parataxis mark advcl mark advmod ccomp advmod advmod goeswith nsubj cop punct discourse det parataxis
+cc advmod mark nsubj acl case det amod obl case amod obl case nmod punct case nmod case nmod case nmod:poss amod nmod punct nsubj aux root compound:prt mark advcl compound obj flat flat mark advcl mark xcomp obj punct
+advmod aux nsubj root advmod punct nsubj parataxis det compound obj punct nsubj parataxis case det obl case nmod:poss obl cc conj det obl:tmod punct discourse
+nmod:poss nsubj:pass aux:pass advmod root compound:prt xcomp punct nsubj aux parataxis obl case det obl cc det nsubj:pass aux:pass advmod conj case obl punct
+compound nsubj root compound obj punct compound nsubj parataxis det amod obj case amod nmod nmod flat flat punct
+discourse punct mark nsubj advcl obj flat nsubj acl:relcl case obl cc advmod conj obj flat cop advmod det root punct discourse punct nsubj parataxis obj punct
+compound nsubj aux root advmod obj cc compound amod compound advmod amod conj case nmod
+punct root punct obj discourse parataxis obj compound:prt punct discourse punct amod compound parataxis case compound punct compound nmod punct appos acl obj punct appos
+nsubj flat flat root punct advmod det nsubj ccomp case obl punct punct parataxis obj punct nsubj parataxis mark nsubj advcl obj punct obj
+amod amod compound root punct parataxis punct list acl case nummod obl punct parataxis advmod punct
+nsubj nsubj root punct conj det obj case punct nsubj nsubj parataxis mark nmod:poss amod nsubj punct det advmod ccomp xcomp det obl:npmod punct cop ccomp punct punct
+compound compound nsubj case compound nmod root obj case compound amod compound compound compound nmod punct
+compound nsubj root punct det obl:tmod nsubj acl:relcl det obj case det obl punct mark advcl punct case amod compound obl punct
+nsubj cop det root nsubj acl:relcl case obl punct nsubj:pass aux aux:pass parataxis case obl cc case conj flat
+compound compound nsubj aux root iobj det obj case det obl punct det parataxis case det nmod cc det conj mark acl obj obj punct nsubj parataxis advmod punct advcl mark nsubj aux ccomp obj mark xcomp obj cop parataxis nsubj acl:relcl cc conj obj punct advmod punct compound compound conj punct
+csubj obj punct appos punct compound compound appos punct case det nmod punct root det obj case det nmod punct discourse punct
+compound compound compound root acl case compound obl nmod:poss flat case amod obl punct case nmod punct appos nummod punct compound appos punct appos
+amod root case compound compound compound nmod amod nmod punct nsubj parataxis compound:prt discourse compound obj punct
+advmod nsubj root ccomp det obj acl amod obj case det amod compound obl punct cc conj acl compound obj punct obj mark nsubj cop advcl nsubj aux acl:relcl punct
+advmod fixed nummod nmod:npmod case nmod:poss nmod punct compound nummod advmod root case advmod fixed nummod nmod case nmod case det nmod punct
+nsubj root obj flat punct advmod parataxis discourse discourse parataxis obj case obl flat discourse parataxis punct
+discourse punct expl aux root nummod punct nummod nsubj punct nummod appos punct mark nsubj advcl compound compound obj cc conj obj nummod case nummod obl
+nsubj root det compound obj punct appos punct amod appos case punct nmod punct case det obl punct punct
+advmod root obj obj punct punct nsubj parataxis case det amod compound obl punct det nsubj parataxis det obj punct
+nsubj root nsubj aux ccomp det obj case det obl punct mark nsubj advcl obj advmod fixed
+nsubj root det amod compound obj punct nsubj parataxis obj flat
+advmod punct advmod aux nsubj cc det compound conj root obj nmod punct cc conj case det obl case punct det amod nmod punct
+punct mark case advcl punct nsubj aux root mark xcomp obj flat case det amod amod obl cc conj cc conj case det compound nmod punct
+root flat list nummod punct cc conj compound list nummod list list flat punct list list appos nummod punct parataxis advmod punct obj discourse punct
+root punct compound appos punct parataxis cc conj punct punct
+nsubj flat flat punct appos case det compound compound nmod punct root nsubj aux advmod advmod ccomp advmod case nmod:poss amod obl acl det compound obj punct
+cc det amod compound flat obl punct nsubj root obj punct mark nsubj aux advcl advmod xcomp nsubj aux aux parataxis nummod amod amod obj punct obj punct
+nmod:poss nsubj aux root advmod xcomp case fixed det compound obl nsubj acl:relcl obl:tmod punct advmod parataxis punct list mark advcl xcomp
+det det ccomp punct det appos case det compound compound compound nmod punct appos flat punct advmod cc conj punct nsubj root nsubj det nsubj cop ccomp cc conj punct
+nsubj aux cop root punct nsubj aux parataxis ccomp xcomp advmod punct parataxis punct nsubj advmod aux parataxis compound compound nmod:poss case obj punct nmod:poss appos case det nmod punct advmod punct punct
+compound compound nsubj cop nummod amod root punct nsubj cop det nummod nsubj parataxis det obj nsubj aux acl:relcl case obl mark cop acl:relcl case obl punct punct
+compound flat root case nmod nmod punct appos
+advmod root det obj nummod obj punct advmod parataxis punct case det compound obl case compound nmod punct nmod punct
+nsubj root det compound compound obj xcomp
+nsubj root nummod obj case nmod flat
+det amod root case det:predet det compound nmod cc advmod nsubj:pass aux:pass conj punct
+cc nsubj flat cop case root flat cc conj punct aux parataxis amod obj case det compound obl punct conj obj flat punct nsubj cop parataxis punct discourse
+nsubj cop root nsubj acl:relcl obl case amod punct obl punct compound obl
+nummod nummod obl:tmod punct nsubj root nummod obj case nmod punct compound obl:npmod mark advcl compound obj amod compound compound obj punct
+root obj case det obl case det amod nmod punct nsubj parataxis compound obj punct
+mark nsubj advmod ccomp obj case nmod:poss obl punct nsubj aux ccomp obj punct punct nsubj root punct case det obl punct
+nsubj flat root det amod compound obj case obl case compound nmod nmod punct
+nsubj root case det obl mark advcl det obj case obl nsubj aux acl:relcl case det obl case det nmod punct
+nsubj root nsubj case nmod ccomp advmod advmod case obl punct nsubj parataxis obj nsubj ccomp obj punct nsubj parataxis nmod:poss obj case det obl case nmod discourse punct compound parataxis
+amod compound compound root compound list punct compound list punct compound appos compound compound compound appos compound goeswith goeswith appos punct punct
+root nmod:poss nsubj aux ccomp case obl punct nsubj parataxis mark xcomp compound obj mark advcl obj case det nmod
+nsubj flat cop det root nsubj acl:relcl det amod amod obj punct advmod aux nsubj parataxis case obl punct nsubj flat cop advmod advmod parataxis case det obl punct
+root obj nummod case nmod:poss obl punct parataxis xcomp advmod advmod punct advmod parataxis case det compound obl case det amod obl punct
+nsubj root det nsubj case compound nmod ccomp mark det compound nsubj aux ccomp mark xcomp det obj case amod nmod punct conj cc compound conj case amod obl punct
+det root appos vocative punct mark mark advmod advcl nmod:poss obj case det amod obl punct discourse parataxis obj case obl punct parataxis det obj cc conj punct
+compound root punct compound list punct compound list punct compound list punct compound list punct appos mark nsubj cop amod advcl
+discourse root obj xcomp obj ccomp punct parataxis obj flat nsubj parataxis obj punct
+root mark nsubj flat cop advcl case det:predet det obl compound nsubj aux aux acl:relcl punct
+discourse punct nsubj advmod root compound:prt case obl punct parataxis compound:prt nmod:poss compound obj advmod punct discourse
+vocative flat discourse discourse aux expl root obj xcomp mark nsubj flat cop det obl amod ccomp case det nmod ccomp cc det conj punct
+det nsubj case nmod case nmod nummod case compound nmod nummod cop advmod fixed root case nmod:poss nummod nummod compound compound obl punct
+punct det nsubj cop ccomp mark xcomp obj punct punct nsubj root punct
+det amod compound nsubj root amod compound obj cc cop advmod advmod conj advmod compound obl:npmod nummod case nmod punct
+det nsubj case nmod root obj xcomp case compound obl punct
+root case nmod punct amod amod appos acl cc conj mark xcomp compound compound obj punct
+nmod:poss compound nsubj root nsubj advmod ccomp compound obj xcomp discourse parataxis parataxis punct
+nsubj root amod iobj nmod:poss appos case obl punct nsubj flat flat ccomp amod nsubj cop nmod:poss ccomp punct punct compound parataxis
+nsubj root amod amod obj case det obl mark nsubj flat advcl det amod compound compound obj case nmod punct nsubj parataxis punct punct
+compound root punct nsubj parataxis case det compound flat obl punct punct parataxis obj compound flat nsubj cop det ccomp punct parataxis nmod:poss obj punct nsubj advmod xcomp punct
+nsubj flat root obj flat cc conj flat cc compound conj punct nsubj flat conj obj cc conj cc compound conj punct nsubj flat cop conj punct
+amod compound flat nsubj root mark advcl compound:prt case compound compound obl case amod nmod flat punct
+det compound nsubj:pass aux:pass advmod root case det amod amod obl punct nsubj cop acl:relcl case obl case nmod case case det amod obl nsubj acl:relcl case obl cc conj case nmod punct
+root nsubj cc conj case compound nmod aux ccomp mark xcomp det amod compound nsubj ccomp punct
+amod amod root punct det parataxis punct
+det nsubj case nmod case nmod root mark nsubj flat flat punct flat ccomp mark xcomp obj punct conj punct cc compound conj aux advmod ccomp det amod punct amod xcomp punct
+root det compound flat compound obj case nummod obl case nmod
+punct nsubj ccomp mark xcomp advmod punct parataxis punct discourse punct nsubj advmod parataxis mark xcomp det obj case nmod aux advmod ccomp det obj case nmod:poss nmod punct punct punct nsubj flat root
+compound nummod compound root case det compound compound nmod punct
+nsubj punct appos punct nmod:npmod punct acl case det amod obl case det amod nmod case nmod case nmod punct appos case compound nmod flat punct nsubj root det compound obj case obl case nmod nmod:tmod cc conj det obj case amod compound obl punct
+compound compound nsubj cop advmod det root case det obl punct
+compound compound root punct discourse nsubj advmod parataxis mark xcomp obj punct aux nsubj parataxis advmod aux nsubj ccomp det obj case det compound nmod case nmod punct
+nsubj cop case root mark nsubj cop case advcl punct nsubj parataxis advmod mark nsubj flat flat aux ccomp det obj punct nmod:poss case obj
+nsubj flat amod root obj punct
+nsubj punct nsubj acl amod obj aux root obj punct nmod:poss flat flat flat case amod amod obj case nmod punct
+punct discourse vocative discourse punct root det obj punct
+det amod compound root case det compound compound nmod punct acl compound:prt mark xcomp cc conj obj advmod advmod punct
+root compound amod compound obj punct compound appos punct amod case compound compound amod amod obl punct appos punct punct
+advmod root det amod obj mark acl nmod:poss obj case obl punct obl nummod punct compound nummod appos aux nsubj parataxis obj punct
+nsubj obj nsubj acl:relcl mark xcomp punct root case det obl punct compound punct compound compound compound parataxis punct
+compound cc conj root punct appos flat punct compound compound list punct list punct amod list nummod list punct compound list cc conj punct appos
+amod root case nmod nsubj cop punct compound parataxis punct compound conj punct cc conj advmod amod amod conj advmod conj det:predet nmod:poss obj punct
+mark nmod:poss nsubj advcl case obl flat punct nmod:poss amod nsubj cop det obl:npmod root punct
+obl:npmod det nsubj cop det amod nsubj mark acl det compound obj case obl punct mark nmod:poss det amod nsubj aux advcl obl punct nsubj aux root det amod obj punct
+cc det nsubj:pass aux advmod aux:pass root case det obl cc conj case compound nmod case fixed det compound nmod punct cc nsubj aux conj nsubj aux ccomp cc conj obj punct
+nsubj root obj flat cc det amod conj
+nsubj cc conj cop compound root amod obl:tmod punct det amod parataxis punct det appos acl case obl flat cc conj flat conj det obj punct
+compound root case nmod punct punct parataxis case obl punct nsubj:pass aux:pass parataxis punct punct case obl flat parataxis det amod obj punct punct
+advmod punct root acl case obl flat punct conj obj compound obj flat punct obj advmod case nmod mark det nsubj aux advmod cop case advcl punct
+amod compound nsubj root case compound flat compound obl case det nmod appos punct appos case amod nmod mark acl punct
+punct root nummod punct nsubj parataxis nmod:poss advmod obj mark advcl advmod mark ccomp det obj punct
+advmod punct compound compound nsubj cop det compound compound compound root cc nummod conj punct amod case amod compound nmod:poss case obl punct

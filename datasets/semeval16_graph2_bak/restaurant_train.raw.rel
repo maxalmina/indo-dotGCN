@@ -1,0 +1,1748 @@
+ROOT prep amod pobj nsubj relcl aux xcomp det amod attr punct cc neg advmod conj punct
+npadvmod punct expl ROOT attr prep pobj punct conj prep pobj punct det nsubj conj acomp punct cc det nsubj conj mark nsubj aux advcl prep pobj cc nsubj ROOT advmod acomp punct
+det nsubj ROOT acomp punct advmod conj cc advmod conj cc det nsubj conj punct
+det nsubj ROOT acomp punct advmod conj cc advmod conj cc det nsubj conj punct
+ROOT det dobj punct
+nsubj aux ccomp prep pobj punct amod npadvmod punct det nsubj ROOT advmod advmod punct advmod acomp punct
+ nsubj ROOT det amod attr prep compound pobj cc conj pobj
+det compound nsubj ROOT advmod acomp cc det amod compound nsubj prep pobj conj prep prep det pobj punct
+det compound nsubj ROOT advmod acomp cc det amod compound nsubj prep pobj conj prep prep det pobj punct
+det compound nsubj ROOT acomp cc conj amod amod dobj punct
+nsubj ROOT advmod acomp prep det pobj punct
+nsubj intj ROOT det compound dobj prep det compound pobj advcl dobj cc nsubj conj advmod dobj cc advmod conj advmod punct
+ nsubj ROOT acomp punct npadvmod amod
+ csubj dobj ccomp acomp punct compound compound nsubj ROOT acomp mark advmod advcl cc conj aux xcomp det dobj prep amod cc conj pobj
+amod nsubj ccomp acomp punct compound compound nsubj ROOT acomp mark advmod advcl cc conj aux xcomp det dobj prep amod cc conj pobj punct
+intj punct nsubj aux neg ROOT advmod prep det pobj advmod punct
+ROOT prep det nummod compound compound pobj punct prep nsubj pcomp prt det dobj punct cc nsubj conj advmod acomp nsubj ccomp det attr nsubj det nsubj relcl punct mark nsubj advcl advmod acomp punct
+ nsubj ROOT acomp punct npadvmod advmod det relcl mark nsubj advcl punct cc det nsubjpass aux neg auxpass conj punct punct
+nsubj ROOT acomp punct npadvmod advmod det relcl mark nsubj advcl punct cc det nsubjpass aux neg auxpass conj punct punct punct
+det npadvmod prep amod pobj nsubj ROOT nsubj det ccomp aux advcl compound dobj prep compound pobj punct
+nsubj ccomp advmod acomp prep pobj punct det nsubj ccomp acomp punct det nsubj ROOT cc conj punct
+nsubj ccomp advmod acomp prep pobj punct det nsubj ccomp acomp punct det nsubj ROOT cc conj punct
+nsubj ROOT det compound nsubj ccomp prep poss amod pobj cc nsubj conj acomp punct
+det nsubj ccomp advmod acomp punct det amod compound nsubj ccomp det npadvmod advmod acomp punct det nsubj nsubj relcl ROOT advmod acomp advmod punct
+det nsubj ccomp advmod acomp punct det amod compound nsubj ccomp det npadvmod advmod acomp punct det nsubj nsubj relcl ROOT advmod acomp advmod punct
+det amod nsubj nsubj advmod relcl ROOT poss amod compound attr prep pobj advcl punct
+nsubj aux neg ROOT nsubj dobj advmod cc nsubj conj nsubj ccomp acomp cc conj punct aux punct aux parataxis det npadvmod amod dobj punct
+det nsubj ROOT compound attr punct cc nsubj advmod conj aux xcomp det dobj prep det pobj punct poss advmod subtok subtok dobj punct cc conj poss dobj aux acl det nsubj ccomp acomp cc conj punct
+det nsubj ROOT compound attr punct cc nsubj advmod conj aux xcomp det dobj prep det pobj punct poss advmod subtok subtok dobj punct cc conj poss dobj aux acl det nsubj ccomp acomp cc conj punct
+det nsubj ROOT compound attr punct cc nsubj advmod conj aux xcomp det dobj prep det pobj punct poss advmod subtok subtok dobj punct cc conj poss dobj aux acl det nsubj ccomp acomp cc conj punct
+poss compound nsubj ROOT acomp punct cc nsubj aux conj prep amod pobj punct nsubjpass auxpass neg relcl cc conj dative pobj prep pobj punct
+det amod compound nsubj ROOT advmod acomp cc det compound compound nsubj conj acomp punct amod attr aux relcl punct
+det amod compound nsubj ROOT advmod acomp cc det compound compound nsubj conj acomp punct amod attr aux relcl punct
+nsubj ROOT advmod pobj prep det pobj cc nsubj aux conj advmod det npadvmod prep pcomp advmod det nsubj advcl acomp punct
+nsubj ROOT dobj amod dobj punct
+det amod ROOT punct
+ ROOT punct
+ npadvmod punct ROOT cc conj
+ npadvmod punct ROOT cc conj
+aux neg ccomp det dobj compound appos punct nsubj ROOT aux xcomp dobj aux xcomp dobj punct det ccomp advmod prep pobj prep det amod pobj punct
+det nsubj ROOT acomp punct
+advmod punct nsubj ROOT det attr nsubj relcl det amod dobj prep poss pobj punct
+nsubj ccomp aux xcomp det dobj nsubj relcl prt prep det amod pobj prep compound punct pobj punct nsubj relcl neg xcomp det nsubj ccomp dobj punct advmod ROOT nsubj ccomp acomp advcl prep pobj prep pobj punct cc det conj punct
+det nsubj aux ROOT aux xcomp det amod amod attr prep det amod compound pobj punct
+ nsubj ROOT acomp
+ nsubj ROOT amod attr
+nsubj ROOT aux xcomp det amod dobj prep poss compound pobj punct nsubj relcl advmod prep amod pobj punct
+det nsubj ROOT advmod oprd cc auxpass advmod conj punct
+det nsubj prep compound pobj ccomp advmod acomp punct nsubj aux neg ROOT aux xcomp det dobj punct
+nsubj ROOT dobj prep det amod compound compound pobj prep pobj mark nsubj advcl advmod acomp npadvmod punct
+prep det pobj punct det nsubj ccomp det advmod dobj punct prep pobj punct compound ROOT punct
+det nsubj ROOT advmod acomp cc det nsubj conj punct
+det nsubj ROOT advmod acomp cc det nsubj conj punct
+det compound compound nsubj ROOT acomp det npadvmod cc nsubj conj dobj prep pobj punct preconj prep pobj cc conj punct punct
+nmod ROOT cc expl ROOT advmod amod attr punct appos prep pobj amod cc advmod conj punct
+nsubj ROOT neg det attr cc punct advmod predet det nsubj conj acomp punct
+det nsubj advmod ROOT advmod acomp punct cc advmod mark nsubj conj aux xcomp prep pobj punct
+nsubj ROOT det amod punct pobj punct cc det conj punct cc det nsubj cc conj conj advmod acomp punct
+nsubj ROOT det amod punct pobj punct cc det conj punct cc det nsubj cc conj conj advmod acomp punct
+nsubj ROOT det amod punct pobj punct cc det conj punct cc det nsubj cc conj conj advmod acomp punct
+nsubj ROOT det amod punct pobj punct cc det conj punct cc det nsubj cc conj conj advmod acomp punct
+nsubj ROOT det amod punct pobj punct cc det conj punct cc det nsubj cc conj conj advmod acomp punct
+det nsubj ROOT prep pobj prep pobj advmod nsubj ROOT advmod acomp punct cc advmod conj punct
+det nsubj advmod punct ROOT advmod advmod acomp punct
+advmod punct ROOT mark nsubj advcl poss dobj ROOT poss advmod ROOT mark nsubj advcl neg punct
+det nsubj ccomp acomp cc conj prep pobj punct advmod det amod nsubj advmod aux advmod ROOT acomp punct
+mark nsubj punct aux advmod advcl prep det pobj prep pobj nsubj ROOT det dobj prep det pobj prep pobj det compound nsubj relcl aux xcomp
+ROOT prep det amod pobj cc amod conj prep det amod pobj cc nsubj ROOT dative det dobj prep det amod pobj punct
+ROOT prep det amod pobj cc amod conj prep det amod pobj cc nsubj ROOT dative det dobj prep det amod pobj punct
+det compound compound nsubj ROOT acomp cc nsubj conj dobj punct
+mark nsubj advcl prep pobj punct nsubj ROOT advmod prep det amod punct nmod punct det punct amod nmod amod pobj punct
+det amod nsubj ROOT advmod acomp mark nsubj advcl punct prep det amod amod pobj punct
+det nsubj ccomp acomp aux advmod punct xcomp punct det amod compound nsubj ROOT advmod neg advmod conj punct cc det nsubj neg conj prep det pobj punct
+det nsubj ccomp acomp aux advmod punct xcomp punct det amod compound nsubj ROOT advmod neg advmod conj punct cc det nsubj neg conj prep det pobj punct
+det nsubj ccomp acomp aux advmod punct xcomp punct det amod compound nsubj ROOT advmod neg advmod conj punct cc det nsubj neg conj prep det pobj punct
+advmod punct ROOT prep det pobj punct cc conj det dobj advmod det ccomp prep det pobj prep det pobj punct
+advmod punct ROOT prep det pobj punct cc conj det dobj advmod det ccomp prep det pobj prep det pobj punct
+det nsubjpass auxpass ROOT oprd cc det nsubjpass auxpass neg advmod advmod conj punct
+det nsubjpass auxpass ROOT oprd cc det nsubjpass auxpass neg advmod advmod conj punct
+det nsubjpass auxpass ROOT cc conj punct
+intj punct nsubj ROOT amod dobj punct cc advmod amod nmod nsubj aux neg conj prep amod pobj mark nsubj advcl advmod aux xcomp det nsubj ccomp punct
+intj punct nsubj ROOT amod dobj punct cc advmod amod nsubj aux neg conj prep amod pobj mark nsubj advcl advmod aux xcomp det nsubj ccomp punct
+intj punct nsubj ROOT amod dobj punct cc advmod amod nsubj aux neg conj prep amod pobj mark nsubj advcl advmod aux xcomp det nsubj ccomp punct
+nsubj ROOT nsubj punct intj ccomp predet det amod dobj prep poss pobj prep pobj
+det nsubj ccomp acomp punct expl ROOT det amod compound attr punct cc det advmod punct amod nsubj advmod conj det amod dobj punct
+det nsubj ccomp acomp punct expl ROOT det amod compound attr punct cc det advmod punct amod nsubj advmod conj det amod dobj punct
+det nsubj ccomp acomp punct expl ROOT det amod compound attr punct cc det advmod punct amod nsubj advmod conj det amod dobj punct
+det nsubj prep subtok subtok amod pobj prep det pobj ROOT acomp cc advmod conj punct
+amod ROOT nsubj advmod relcl cc amod conj prep pcomp acomp punct
+amod ROOT nsubj advmod relcl cc amod conj prep pcomp acomp punct
+poss nsubj ROOT det amod dobj nsubj relcl acomp cc conj dobj punct
+prep det amod pobj punct nsubj punct intj ROOT prep det amod pobj prep quantmod nummod pobj punct cc nsubj conj advmod advmod acomp prep det pobj
+det nsubj ROOT det advmod attr nsubj aux advmod relcl punct
+det nsubj punct det nsubj relcl punct conj punct cc advmod predet det conj ROOT dep advmod acomp punct
+det nsubj punct det nsubj relcl punct conj punct cc advmod predet det conj ROOT dep advmod acomp punct
+det nsubj punct det nsubj relcl punct conj punct cc advmod predet det conj ROOT dep advmod acomp punct
+det nsubj punct det nsubj relcl punct conj punct cc advmod predet det conj ROOT dep advmod acomp punct
+det nsubj ROOT acomp det nummod punct compound npadvmod punct
+ nsubj ROOT det compound compound attr punct amod cc conj punct prep advmod amod amod amod nsubj pobj punct amod conj punct det amod cc conj conj
+nsubj ROOT det compound compound attr punct amod cc conj punct prep advmod amod amod amod nsubj pobj punct amod conj punct det amod cc conj conj punct
+nsubj ROOT det compound compound attr punct amod cc conj punct prep advmod amod amod amod nsubj pobj punct amod conj punct det amod cc conj conj punct
+nsubj ROOT det compound compound attr punct amod cc conj punct prep advmod amod amod amod nsubj pobj punct amod conj punct det amod cc conj conj punct
+poss nsubj cc conj advmod ROOT det dobj punct neg advmod advmod amod cc advmod conj punct dobj punct nsubj prep pobj relcl det dobj punct
+amod ROOT prep amod pobj punct
+advmod nsubj ROOT aux xcomp det dobj prep det pobj punct nsubj ROOT acomp mark nsubj aux neg advmod ccomp prep compound pobj punct
+nsubj ROOT advmod advmod poss amod attr prep det pobj punct
+det nsubj ccomp acomp punct det nsubj ROOT acomp punct cc det nsubj conj acomp cc conj prep amod pobj punct
+det nsubj ccomp acomp punct det nsubj ROOT acomp punct cc det nsubj conj acomp cc conj prep amod pobj punct
+det nsubj ccomp acomp punct det nsubj ROOT acomp punct cc det nsubj conj acomp cc conj prep amod pobj punct
+det nsubj ccomp acomp punct det nsubj ROOT acomp punct cc det nsubj conj acomp cc conj prep amod pobj punct
+poss case amod ROOT prep det pobj
+det nsubj ROOT advmod acomp punct
+det nsubj ROOT acomp prep det pobj prep pcomp acomp punct
+det nsubj ROOT advmod acomp punct
+nsubj aux ROOT prep det pobj amod npadvmod punct cc advmod conj amod dobj punct conj punct cc conj punct
+nsubj aux ROOT prep det pobj amod npadvmod punct cc advmod conj amod dobj punct conj punct cc conj punct
+nsubj aux ROOT prep det pobj amod npadvmod punct cc advmod conj amod dobj punct conj punct cc conj punct
+nsubj ROOT acomp nsubj aux ccomp dobj acl advmod punct cc advmod conj aux xcomp det amod dobj punct
+mark advmod nsubj ROOT det amod dobj prep pobj mark nsubj advcl punct
+advmod nsubj advcl punct nsubj ROOT amod cc conj dobj punct
+det ROOT nsubj relcl expl relcl advmod advmod acomp nsubj relcl nsubj ccomp prep amod pobj advmod punct
+ROOT acomp nsubj ccomp det dobj advmod advmod mark nsubj advcl punct
+nsubj ROOT det compound attr aux relcl prep punct
+det nsubj ROOT acomp cc nsubj conj det pobj punct
+det nsubj ROOT acomp cc nsubj conj det pobj punct
+cc det nsubj ROOT attr aux relcl punct
+det nsubj ROOT nmod attr punct cc nsubj conj advmod quantmod attr npadvmod punct
+nsubj ROOT advmod prep pobj cc nsubj ROOT neg advmod acomp mark nsubj advcl prep det pobj nsubj relcl punct
+ nsubj ROOT acomp cc det nsubj aux neg conj amod dobj
+nsubj ROOT acomp cc det nsubj aux neg conj amod dobj punct
+det nsubj ROOT acomp punct
+det nsubj ROOT advmod acomp prep pobj cc det nsubj conj acomp punct
+det nsubj ROOT advmod acomp prep pobj cc det nsubj conj acomp punct
+ nsubj ROOT acomp punct conj cc conj
+amod ROOT cc amod conj punct
+amod ROOT cc amod conj punct
+expl ROOT det amod attr punct cc conj mark nsubj advcl punct
+ROOT prep det pobj prep det amod pobj punct
+nsubj ROOT det amod attr prep amod compound compound punct pobj advmod punct
+det nsubj ROOT acomp cc conj cc det nsubj conj acomp punct
+det nsubj ROOT acomp cc conj cc det nsubj conj acomp punct
+ROOT det dobj prep pobj punct
+compound nsubj aux advmod ccomp det attr prep pobj punct nsubj ccomp advmod advmod prep det pobj punct nsubj relcl acomp punct det amod nsubj ROOT acomp advmod punct
+compound nsubj aux advmod ccomp det attr prep pobj punct nsubj ccomp advmod advmod prep det pobj punct nsubj relcl acomp punct det amod nsubj ROOT acomp advmod punct
+ compound nsubj aux advmod ccomp det attr prep pobj punct nsubj ccomp advmod advmod prep det pobj punct nsubj relcl acomp punct det amod nsubj ROOT acomp advmod
+prep det amod pobj prep det pobj punct nsubj ROOT advmod advmod cc neg conj acomp punct
+det nsubj ROOT neg det attr punct cc nsubj conj nsubj ccomp advmod nsubj ccomp det dobj prt punct
+nsubj ROOT advmod prep det pobj punct punct
+advmod nsubj ROOT dative det amod dobj aux relcl det dobj punct
+cc advmod nsubj advcl prep det pobj punct expl ccomp neg det attr prep pobj punct nsubj prep pobj ROOT attr prep det compound pobj punct
+det nsubj ROOT acomp punct cc neg conj cc conj conj neg acomp punct
+det nsubj ROOT acomp punct cc neg conj cc conj conj neg acomp punct
+advcl det amod dobj punct nsubj ROOT aux xcomp prep punct
+advmod ROOT advmod aux advcl poss compound dobj punct
+det nsubj ROOT acomp punct cc det nsubj conj acomp cc conj punct cc neg compound punct conj cc conj punct
+det nsubj ROOT acomp punct cc det nsubj conj acomp cc conj punct cc neg compound punct conj cc conj punct
+det compound nsubj ccomp det amod attr punct nsubj ROOT dobj dative pobj prep det pobj punct
+advmod det nsubj prep det pobj ROOT advmod acomp punct cc det amod nsubj conj attr prep det pobj punct
+advmod det nsubj prep det pobj ROOT advmod acomp punct cc det amod nsubj conj attr prep det pobj punct
+amod compound dep punct nsubj ROOT acomp det npadvmod punct cc det compound nsubj conj det amod attr punct
+amod compound dep punct nsubj ROOT acomp det npadvmod punct cc det compound nsubj conj det amod attr punct
+amod compound dep punct nsubj ROOT acomp det npadvmod punct cc det compound nsubj conj det amod attr punct
+nsubj aux ROOT det npadvmod acomp prep pobj punct cc det nsubj conj acomp cc nsubj conj det amod amod attr nsubj aux relcl prep det pobj punct
+nsubj aux ROOT det npadvmod acomp prep pobj punct cc det nsubj conj acomp cc nsubj conj det amod amod attr nsubj aux relcl prep det pobj punct
+aux ROOT det dobj prep pobj punct advmod dep amod dobj punct
+advcl punct det amod appos prep pobj nsubj aux neg relcl amod dobj punct det nsubj ROOT prep det amod punct advmod amod pobj punct
+advcl punct det amod appos prep pobj nsubj aux neg relcl amod dobj punct det nsubj ROOT prep det amod punct advmod amod pobj punct
+nsubj ROOT predet poss amod dobj prep pobj case punct
+neg ROOT advmod det amod nsubj punct conj punct ccomp punct cc nsubj conj prep det amod pobj cc conj amod dobj punct
+neg ROOT advmod det amod nsubj punct conj punct ccomp punct cc nsubj conj prep det amod pobj cc conj amod dobj punct
+nsubj aux advmod ccomp dobj prep det amod pobj punct nsubj ROOT cc amod conj cc amod conj punct
+nsubj aux advmod ccomp dobj prep det amod pobj punct nsubj ROOT cc amod conj cc amod conj punct
+poss case ROOT neg amod advmod det amod nsubj ccomp cc nsubj ROOT mark mark nsubj advcl nummod amod dobj mark poss nsubj cc conj appos advcl dobj advmod advmod punct cc nsubj ROOT acomp dobj
+ROOT acomp nsubj ccomp det amod nsubj ccomp punct punct
+ nsubj ccomp acomp punct amod nsubj ROOT advmod acomp
+nsubj ccomp acomp punct amod nsubj ROOT advmod acomp punct
+ROOT poss dobj prep poss case pobj punct cc det compound nsubj punct conj advmod acomp punct
+amod nsubj ROOT nmod attr punct advmod advmod acomp prep attr nsubj pcomp punct
+det nsubj ROOT advmod acomp pobj cc compound nsubjpass auxpass advmod advcl punct
+det nsubj ROOT advmod acomp pobj cc compound nsubjpass auxpass advmod advcl punct
+advcl poss poss case dobj punct nsubj ROOT aux xcomp prep punct
+ nsubj ROOT neg advmod nummod attr punct cc nsubj conj neg advmod det amod attr
+ amod nsubj ROOT advmod det amod
+ nsubj case ROOT det amod punct amod attr
+det amod nsubjpass auxpass advmod ROOT cc conj det attr prep amod pobj punct
+det nsubj ROOT advmod acomp cc conj punct
+det nsubjpass auxpass advmod advmod ROOT prep amod pobj cc advmod amod conj punct
+det nsubjpass auxpass advmod advmod ROOT prep amod pobj cc advmod amod conj punct
+det nsubjpass auxpass advmod advmod ROOT prep amod pobj cc advmod amod conj punct
+advmod nsubj advcl prep pobj punct nsubj ROOT mark nsubj aux ccomp predet det dobj cc punct nsubj ROOT advmod acomp punct
+det nsubj ROOT poss dobj advmod prep det pobj cc advmod nsubj advcl aux xcomp poss compound dobj mark nsubj aux neg advcl aux xcomp xcomp prep det pobj punct nsubjpass auxpass conj intj punct
+amod ROOT punct compound appos punct expl ROOT attr prep pobj prep pobj punct conj advmod prep det pobj
+amod ROOT punct compound appos punct expl ROOT attr prep pobj prep pobj punct conj advmod prep det pobj
+nsubj ROOT det compound dobj prep pobj cc conj punct
+nsubj ROOT dobj prep pobj punct advmod det dobj cc conj punct
+nsubj ROOT dobj prep pobj punct advmod det dobj cc conj punct
+poss nsubj ROOT advmod acomp cc conj punct
+det nsubj ROOT acomp advmod punct
+det nmod cc conj nsubj ROOT acomp punct
+det nmod cc conj nsubj ROOT acomp punct
+det amod nsubj prep pcomp prep det pobj advcl det nsubj ccomp prep nummod npadvmod advmod prep amod pobj prep det amod pobj ROOT acomp punct
+ nsubj ROOT acomp cc conj
+amod ROOT punct amod appos punct
+amod ROOT punct amod appos punct
+det nsubj ccomp acomp punct nsubj ROOT amod dobj advmod prep det amod punct amod punct amod dobj amod prep amod nummod pobj case punct
+det nsubj ccomp acomp punct nsubj ROOT amod dobj advmod prep det amod punct amod punct amod dobj amod prep amod pobj case punct
+nummod nmod poss compound compound dep punct nsubj aux ROOT acomp aux xcomp det nsubj ccomp prep det pobj punct
+ ROOT nsubj ccomp advmod acomp prep poss pobj cc poss det amod conj prep det pobj
+amod nsubj ROOT advmod acomp prep poss pobj cc poss det amod conj prep det pobj punct
+prep pcomp det amod ROOT nsubj aux relcl prep det amod compound pobj punct
+amod amod compound ROOT punct
+prep det amod compound pobj punct det nsubj cc conj advmod ROOT det amod dobj prep poss pobj aux advcl det compound nsubj nsubj ccomp dobj punct
+det compound compound nsubj ROOT attr punct det appos amod cc conj punct cc det nmod amod advmod conj punct
+det compound compound nsubj ROOT attr punct det appos amod cc conj punct cc det nmod amod advmod conj punct
+det compound compound nsubj ROOT attr punct det appos amod cc conj punct cc det nmod amod advmod conj punct
+det nsubj ROOT det attr punct
+det compound compound ROOT punct
+advmod nsubj advcl oprd prep det pobj nsubj aux ROOT xcomp det dobj cc nsubj aux advmod conj acomp prep det pobj punct
+ROOT xcomp det amod compound dobj mark nsubj advcl det amod attr punct
+nsubj ROOT dative det amod compound dobj punct dobj nsubj neg relcl advmod punct cc conj nsubj ccomp dobj punct nsubj ccomp attr punct
+det compound nsubjpass aux neg auxpass ROOT punct
+ROOT det amod dobj cc det amod amod conj punct
+ROOT det amod dobj cc det amod amod conj punct
+ nsubj ROOT advmod amod punct acomp punct conj cc subtok subtok conj
+ nsubj ROOT advmod acomp advmod advmod punct advcl mark nsubj ccomp det compound dobj punct mark nsubj advcl det compound dobj dobj nsubj relcl auxpass ccomp det npadvmod advmod punct mark mark nsubj advcl attr prep det nmod punct prep punct poss punct pobj pobj punct
+nsubj ROOT advmod acomp advmod advmod punct advcl mark nsubj ccomp det compound dobj punct mark nsubj advcl det compound dobj dobj nsubj relcl auxpass ccomp det npadvmod advmod punct mark mark nsubj advcl attr prep det nmod punct prep punct poss punct pobj pobj punct punct
+ compound compound nsubj ROOT acomp cc conj punct prep punct det punct pobj auxpass advmod conj prep det pobj
+compound compound nsubj ROOT acomp cc conj punct prep punct det punct pobj auxpass advmod conj prep det pobj punct
+ amod amod nsubj ROOT acomp mark det nsubj advcl advmod acomp punct det nsubj conj acomp cc nsubj conj aux xcomp poss dobj aux advcl acomp aux xcomp det dobj
+amod amod nsubj ROOT acomp mark det nsubj advcl advmod acomp punct det nsubj conj acomp cc nsubj conj aux xcomp poss dobj aux advcl acomp aux xcomp det dobj punct
+nsubj punct aux ccomp prep prep amod pobj advmod nummod punct prep attr punct nsubj ROOT advmod advmod det amod amod attr prep compound pobj
+aux advcl dobj prt punct nsubj ccomp prep pobj prep pobj punct prep prep pobj dobj nsubj relcl punct advmod nsubj ROOT advmod acomp advmod punct
+ nsubj ROOT advmod acomp punct mark det nsubj aux advcl prt prep det pobj
+ nsubj ROOT advmod advmod acomp punct mark advmod nsubj advcl prep pobj prep amod pobj prep compound pobj
+nsubj ROOT advmod advmod acomp punct mark advmod nsubj advcl prep pobj prep amod pobj prep compound pobj punct
+det nsubj ROOT acomp cc npadvmod punct conj prep amod subtok subtok amod pobj prep det amod pobj prep det compound pobj punct nsubj relcl acomp prep det pobj punct
+det nsubj ROOT acomp cc npadvmod punct conj prep amod subtok subtok amod pobj prep det amod pobj prep det compound pobj punct nsubj relcl acomp prep det pobj punct
+nsubjpass aux neg auxpass ROOT prep det amod pobj punct
+det amod npadvmod nsubj relcl punct cc auxpass advmod conj agent det amod compound pobj cc conj punct nsubj ROOT det compound compound dobj punct
+det amod npadvmod nsubj relcl punct cc auxpass advmod conj agent det amod compound pobj cc conj punct nsubj ROOT det compound compound dobj punct
+nsubj ROOT advmod det amod attr prep pobj punct
+nsubj aux neg ROOT advmod prep det amod compound pobj punct
+mark nsubj advcl aux xcomp prep det amod compound pobj punct nsubj aux advmod ROOT det dobj punct
+det nsubj ROOT acomp cc neg conj punct
+det nsubj ccomp det attr prep amod punct det nmod nsubj ROOT acomp cc conj prep det amod pobj prep pobj cc conj punct
+det nsubj ccomp det attr prep amod punct det nsubj ROOT acomp cc conj prep det amod pobj prep pobj cc conj punct
+nsubj ROOT det amod dobj prep det nmod cc conj pobj amod npadvmod punct
+ROOT advmod pcomp dobj prep det pobj nsubj relcl prt prep det pobj cc conj dobj punct
+det nsubj ROOT advmod acomp cc conj dative poss dobj cc conj prep det pobj punct
+det poss case ROOT cc amod conj acl prep det amod pobj punct
+det poss case ROOT cc amod conj acl prep det amod pobj punct
+nsubj advmod ROOT xcomp det dobj cc conj dobj cc conj punct
+mark nsubj advcl det attr prep pobj nsubj relcl xcomp acomp cc conj punct nsubj ROOT det amod attr aux relcl cc conj punct
+poss nsubj cc conj appos nsubj aux ROOT acomp aux xcomp prep det pobj cc amod conj prep poss pobj punct cc prep poss pobj nsubj conj acomp punct
+det ROOT quantmod nummod amod dobj aux xcomp compound dobj mark nsubj advcl poss nsubj advmod ccomp cc det nsubj conj acomp punct mark nsubj aux advcl det dobj nsubj aux relcl det compound attr punct
+det ROOT quantmod nummod amod dobj aux xcomp compound dobj mark nsubj advcl poss nsubj advmod ccomp cc det nsubj conj acomp punct mark nsubj aux advcl det dobj nsubj aux relcl det compound attr punct
+det ROOT quantmod nummod amod dobj aux xcomp compound dobj mark nsubj advcl poss nsubj advmod ccomp cc det nsubj conj acomp punct mark nsubj aux advcl det dobj nsubj aux relcl det compound attr punct
+intj ROOT poss dobj punct conj cc conj det dobj punct
+det nsubj ROOT acomp punct
+det nsubj advmod advmod advmod ROOT det dobj prep compound pobj punct parataxis det amod acomp punct punct
+nsubj ROOT poss amod attr prep nsubj pobj punct ROOT case cc nsubj aux ROOT advmod acomp det nsubj cc det conj ccomp
+nsubj ROOT poss amod attr prep nsubj pobj punct ROOT case cc nsubj aux ROOT advmod acomp det nsubj cc det conj ccomp
+nsubj ccomp aux advmod xcomp det compound dobj punct neg aux amod dobj punct nsubj aux ROOT nsubj ccomp det amod attr punct
+nsubj ccomp aux advmod xcomp det compound dobj punct neg aux amod dobj punct nsubj aux ROOT nsubj ccomp det amod nmod ROOT
+amod nsubj ROOT dobj punct compound nsubj conj dobj cc conj cc conj punct
+amod nsubj ROOT dobj punct compound nsubj conj dobj cc conj cc conj punct
+amod nsubj ROOT dobj punct compound nsubj conj dobj cc conj cc conj punct
+nsubj advmod ROOT amod dobj punct ROOT case prep poss pobj punct det conj cc amod conj
+nsubj advmod ROOT amod dobj punct ROOT case prep poss pobj punct det conj cc amod conj
+nsubj advmod ROOT amod dobj punct ROOT case prep poss pobj punct det conj cc amod conj
+predet det nsubj ROOT advmod acomp punct punct
+det nsubj ROOT npadvmod acomp punct
+poss amod nsubj cc amod conj ROOT advmod acomp cc conj punct
+det compound nsubj cc amod conj ROOT attr prep prep det pobj punct
+det compound nsubj cc amod conj ROOT attr prep prep det pobj punct
+det nsubj ROOT det amod attr amod prep det pobj punct
+det nsubj ROOT det amod attr amod prep det pobj punct
+nsubj ROOT acomp prep det pobj punct cc poss nsubj conj advmod prep amod punct det nsubj ROOT acomp cc det amod nsubj conj det dobj punct
+nsubj ROOT acomp prep det pobj punct cc poss nsubj conj advmod prep amod punct det nsubj ROOT acomp cc det amod nsubj conj det dobj punct
+nsubj ROOT acomp prep det pobj punct cc poss nsubj conj advmod prep amod punct det nsubj ROOT acomp cc det amod nsubj conj det dobj punct
+poss compound nsubj ROOT acomp cc nsubj advmod conj acomp punct
+det nsubj ROOT acomp mark det nsubj advcl acomp punct
+ amod nsubj ROOT acomp punct nsubj ROOT acomp cc prep pobj conj
+amod nsubj ROOT acomp punct nsubj ROOT acomp cc prep pobj conj punct
+ROOT prt prep det pobj punct
+det nsubj ROOT acomp punct preconj appos cc advmod conj punct
+nsubj ROOT poss case amod amod dobj cc nsubj conj acomp punct
+amod ROOT punct appos prep pobj punct
+nsubj aux neg ccomp punct nsubj ROOT det dobj advmod advmod punct
+ nsubj ROOT advmod acomp cc conj punct amod prep pobj mark nsubj advcl advmod prep pobj
+ nsubj ROOT acomp
+mark nsubj aux ROOT prep amod pobj cc nsubj conj det dobj nsubj relcl ROOT acomp punct
+ nsubj ROOT acomp nsubj advcl det amod attr prep pobj
+nsubj ROOT det advmod amod punct amod attr punct
+det amod compound nsubj ROOT acomp cc advmod det conj dobj nsubj punct intj ccomp prep det compound pobj
+det nsubj ROOT advmod acomp advmod advmod punct
+nsubj ROOT dobj prep det pobj nsubj aux relcl dobj punct advmod punct det nsubj parataxis advmod acomp cc nsubj aux advmod conj amod dobj mark nsubj aux advcl prep amod quantmod quantmod pobj prep advmod pcomp prep det pobj punct
+prep det pobj punct nsubj ROOT det attr nsubj aux relcl acomp aux xcomp prt advmod advmod poss case advcl prep det pobj prep pobj
+ amod nsubj ROOT amod dobj prep det amod pobj
+nsubj ROOT dobj appos punct amod appos punct conj punct cc conj punct
+nsubj ROOT dobj appos punct amod appos punct conj punct cc conj punct
+det nsubj ROOT acomp cc det nsubj aux advmod conj advmod pcomp dobj advmod advmod mark nsubj advcl punct
+det nsubj ROOT acomp cc det nsubj aux advmod conj advmod pcomp dobj advmod advmod mark nsubj advcl punct
+cc nsubj appos ROOT prep det advmod amod pobj punct nsubj punct conj punct cc compound conj parataxis neg amod quantmod quantmod attr punct prep appos punct punct
+cc nsubj appos ROOT prep det advmod amod pobj punct nsubj punct conj punct cc compound conj parataxis neg amod quantmod quantmod attr punct prep appos punct punct
+cc nsubj appos ROOT prep det advmod amod pobj punct nsubj punct conj punct cc compound conj parataxis neg amod quantmod quantmod attr punct prep appos punct punct
+det nsubj ROOT acomp advmod mark nsubj advcl amod compound dobj advmod advmod punct
+det nsubj ROOT advmod advmod acomp cc conj punct
+ROOT det advmod amod compound dobj mark poss nsubj advcl nmod cc conj dobj punct dep advmod conj punct
+ROOT det advmod amod compound dobj mark poss nsubj advcl nmod cc conj dobj punct dep advmod conj punct
+nsubj appos ROOT prep det compound pobj cc nsubjpass auxpass conj advmod cc conj punct
+nsubj ccomp prep compound compound pobj punct nsubj ROOT acomp punct
+nsubj ccomp prep compound compound pobj punct nsubj ROOT acomp punct
+nsubj advmod ROOT prep det pobj prep det subtok subtok pobj prep pobj cc conj det amod dobj punct
+det nsubj aux ccomp punct det nsubj ROOT advmod acomp cc det nsubj conj acomp punct
+det nsubj aux ccomp punct det nsubj ROOT advmod acomp cc det nsubj conj acomp punct
+det nsubj aux ccomp punct det nsubj ROOT advmod acomp cc det nsubj conj acomp punct
+nsubj advmod ROOT det dobj prep det pobj nsubj relcl aux xcomp acomp nsubj aux ccomp dobj punct
+advmod nsubj ROOT amod dobj cc amod conj punct
+advmod nsubj ROOT amod dobj cc amod conj punct
+advmod nsubj ccomp amod dobj cc amod conj punct advmod nsubj ROOT amod amod cc conj dobj punct
+advmod nsubj ccomp amod dobj cc amod conj punct advmod nsubj ROOT amod acomp cc conj ROOT ROOT
+advmod nsubj ccomp amod dobj cc amod conj punct advmod nsubj ROOT amod nmod dobj cc amod conj punct
+det nsubj ROOT det attr nsubj relcl punct amod nsubj cc conj ccomp advmod prep det amod pobj punct
+det nsubj ROOT det attr nsubj relcl punct amod nsubj cc conj ccomp advmod prep det amod pobj punct
+det nsubj ROOT det attr nsubj relcl punct amod nsubj cc conj ccomp advmod prep det amod pobj punct
+cc advmod aux nsubj ROOT advmod punct intj conj punct
+cc csubj prep det compound pobj ROOT advmod acomp punct
+advmod prep det pobj prep pobj nsubj ROOT det amod amod attr prep amod pobj punct
+advmod prep det pobj prep pobj nsubj ROOT det amod amod attr prep amod pobj punct
+nsubj ROOT det npadvmod acomp cc advmod conj prep compound pobj cc conj punct nsubj parataxis advmod advmod acomp advmod punct punct
+poss nsubj ROOT det compound dobj nsubj relcl advmod punct
+det nsubj ROOT advmod acomp cc conj prep det amod compound pobj punct
+advmod ROOT det amod pobj cc nsubj ROOT mark nsubj advcl neg advmod acomp aux ccomp acomp aux xcomp det dobj cc conj punct
+nsubj ROOT prt prep det compound pobj nsubj relcl acomp advmod prep pobj punct
+ nsubj ROOT acomp punct cc det nsubj conj acomp
+nsubj ROOT acomp punct cc det nsubj conj acomp punct
+nsubj ROOT det amod attr aux relcl cc conj dobj punct
+det nsubj ROOT amod amod punct acomp punct
+ nsubj ROOT acomp punct mark advcl amod nsubj
+nsubj ROOT acomp punct mark advcl amod nsubj punct
+ nsubj ROOT amod punct nsubj acomp
+nsubj ROOT amod punct nsubj acomp punct
+poss case nsubj advmod ROOT mark nsubj ccomp aux xcomp prep amod pobj
+det compound nsubj ROOT prep pobj cc det conj advcl acomp neg aux xcomp nsubj ccomp mark nsubjpass aux advmod auxpass advcl punct
+det compound nsubj ROOT prep pobj cc det conj advcl acomp neg aux xcomp nsubj ccomp mark nsubjpass aux advmod auxpass advcl punct
+ nsubj ROOT advmod acomp cc det nsubj conj neg advmod acomp
+nsubj ROOT advmod acomp cc det nsubj conj neg advmod acomp punct
+nsubj ROOT cc conj prt prep amod amod pobj cc nsubj conj nummod attr nsubj aux relcl cc conj punct
+nsubj ROOT poss amod attr acl det dobj prep det pobj mark det nsubj cc conj advcl acomp punct
+nsubj ROOT poss amod attr acl det dobj prep det pobj mark det nsubj cc conj advcl acomp punct
+det compound compound nsubj ROOT acomp punct
+nsubj ROOT det amod amod attr punct
+nsubj advmod ROOT det dobj punct punct punct
+nsubj ROOT det dobj punct nsubj conj advmod acomp cc conj punct
+det nsubj ROOT acomp punct punct punct
+advmod amod cc conj ROOT punct
+nsubj ROOT det dobj cc compound compound conj prep det amod pobj prep det pobj cc nsubj nsubj relcl conj acomp punct
+nsubj aux neg ROOT prep det pobj advmod prep det amod pobj punct
+advmod punct nsubj ROOT det nsubj ccomp det amod attr prt dobj punct
+poss nsubj cc conj ROOT prep det amod pobj det amod npadvmod cc conj det amod dobj punct
+det nsubj cc conj ROOT acomp punct det attr advmod punct cc nsubj advmod csubj det nsubj conj det compound compound attr punct
+det nsubj cc conj ROOT acomp punct det attr advmod punct cc nsubj advmod csubj det nsubj conj det compound compound attr punct
+det nsubj cc conj ROOT acomp punct det attr advmod punct cc nsubj advmod csubj det nsubj conj det compound compound attr punct
+det nsubj cc conj ROOT acomp punct det attr advmod punct cc nsubj advmod csubj det nsubj conj det compound compound attr punct
+ROOT det dobj prt punct
+advmod prep pobj punct det nsubj ROOT punct neg punct attr punct mark advcl agent poss case amod pobj punct
+det nsubjpass auxpass ccomp advmod advmod oprd punct det nsubj ROOT acomp prep det amod pobj punct cc det compound nsubjpass auxpass advmod conj punct
+det nsubjpass auxpass ccomp advmod advmod oprd punct det nsubj ROOT acomp prep det amod pobj punct cc det compound nsubjpass auxpass advmod conj punct
+det nsubjpass auxpass ccomp advmod advmod oprd punct det nsubj ROOT acomp prep det amod pobj punct cc det compound nsubjpass auxpass advmod conj punct
+advmod prep amod pobj ROOT prep nmod pobj cc prep advmod nummod pobj acl prep nmod pobj cc punct
+ nsubj ROOT neg dobj nsubj aux ccomp prep det pobj prep det compound pobj
+advmod csubj det amod dobj prep amod amod pobj aux neg ROOT amod dobj punct
+aux advcl advmod acomp punct det amod amod nsubj ROOT det attr punct nsubj relcl prep pobj punct cc aux neg conj prt prep predet det amod pobj prep pobj punct
+aux advcl advmod acomp punct det amod amod nsubj ROOT det attr punct nsubj relcl prep pobj punct cc aux neg conj prt prep predet det amod pobj prep pobj punct
+neg nsubj prep poss pobj ROOT amod punct acomp cc conj prep amod pobj cc amod conj punct
+neg nsubj prep poss pobj ROOT amod punct acomp cc conj prep amod pobj cc amod conj punct
+ nsubj ROOT acomp
+amod nsubj punct amod compound appos cc aux neg ROOT advmod advmod punct
+amod nsubj punct amod compound appos cc aux neg ROOT advmod advmod punct
+nsubj advmod ccomp det dobj punct nsubj advmod ROOT dobj punct
+nsubj prep pobj advmod ccomp det dobj punct nsubj ROOT attr punct
+advcl det dobj punct nsubj ROOT det amod attr punct
+ nsubj ROOT attr prep poss amod pobj prep det pobj punct det conj det amod nsubj relcl dobj mark nsubj advcl advmod advmod
+nsubj punct intj neg ROOT amod dobj cc det nsubj conj acomp cc conj
+nsubj punct intj neg ROOT amod dobj cc det nsubj conj acomp cc conj
+poss compound compound nsubj ROOT aux xcomp prep punct
+nsubj ROOT prep det pobj prep amod pobj punct cc poss case conj advmod amod aux xcomp mark det nsubj prep poss case pobj poss nsubj ccomp advmod
+det nsubj ROOT advmod acomp cc det nsubj conj acomp cc conj punct
+det nsubj ROOT advmod acomp cc det nsubj conj acomp cc conj punct
+nsubj advmod ROOT prep pobj aux advcl det dative det dobj punct
+det ROOT nsubj aux neg relcl aux xcomp dobj prep pcomp amod dobj prep amod pobj prep det amod pobj punct
+det ROOT nsubj aux neg relcl aux xcomp dobj prep pcomp amod dobj prep amod pobj prep det amod pobj punct
+det ROOT nsubj aux neg relcl aux xcomp dobj prep pcomp amod dobj prep amod pobj prep det amod pobj punct
+det ROOT advmod punct det nsubj relcl prep pobj prep poss pobj cc conj punct
+det compound nsubj ROOT advmod acomp prep det pobj aux relcl prt punct advmod dep punct
+det nsubj ccomp acomp cc conj punct det nsubj ROOT attr nsubj ccomp advmod aux advcl punct aux advcl poss dobj punct conj poss dobj punct cc conj prep poss pobj punct
+det nsubj ccomp acomp cc conj punct det nsubj ROOT attr nsubj ccomp advmod aux advcl punct aux advcl poss dobj punct conj poss dobj punct cc conj prep poss pobj punct
+advcl advmod punct nsubj ROOT det nsubj amod prep amod pobj ccomp det amod dobj prep det amod pobj punct neg det appos prep det amod pcomp aux auxpass xcomp punct
+advcl advmod punct nsubj ROOT det nsubj amod prep amod pobj ccomp det amod dobj prep det amod pobj punct neg det appos prep det amod pcomp aux auxpass xcomp punct
+det nsubj aux ROOT det nsubj ccomp amod attr punct det nsubj ROOT acomp punct
+det nsubj aux ROOT det nsubj ccomp amod attr punct det nsubj ROOT acomp punct
+det nsubj aux ROOT det nsubj ccomp amod attr punct det nsubj ROOT acomp punct
+det nsubj ROOT amod dobj punct
+nsubj aux ROOT advmod nsubj ROOT dobj prep punct prep compound pobj prep pobj punct
+poss nsubj ROOT det amod compound dobj nsubj relcl acomp cc nsubj ROOT det nsubj aux ccomp prep det pobj advmod punct
+poss nsubj ROOT det amod compound dobj nsubj relcl acomp cc nsubj ROOT det nsubj aux ccomp prep det pobj advmod punct
+poss nsubj ROOT amod dobj nsubj ROOT acomp punct
+nsubj aux neg ROOT det dobj prep pobj prep det pobj advmod nsubj appos ROOT amod dobj prep pobj nsubj ROOT advmod acomp punct
+poss nsubj cc conj ROOT advmod advmod det npadvmod cc aux neg conj xcomp cc conj prep det pobj punct
+mark nsubj advcl amod dobj ROOT det compound dobj punct
+ROOT prep pobj prep amod compound pobj cc amod conj punct
+ROOT prep pobj prep amod compound pobj cc amod conj punct
+det nsubj ROOT acomp cc det nsubj advmod conj dobj prep det amod pobj punct
+det nsubj ROOT acomp cc det nsubj advmod conj dobj prep det amod pobj punct
+det compound nsubj ROOT acomp punct
+det nsubj ROOT acomp punct advmod mark nsubj advcl det poss case amod dobj cc poss amod conj punct cc appos punct punct prep pobj prep det amod pobj prep pobj punct
+det nsubj ROOT acomp punct advmod mark nsubj advcl det poss case amod dobj cc poss amod conj punct cc appos punct punct prep pobj prep det amod pobj prep pobj punct
+det nsubj ROOT acomp punct advmod mark nsubj advcl det poss case amod dobj cc poss amod conj punct cc appos punct punct prep pobj prep det amod pobj prep pobj punct
+det nsubj ROOT acomp cc conj cc nsubj aux conj det npadvmod acomp punct cc det nsubj conj acomp cc nsubj conj acomp prep pobj advmod punct det amod conj punct cc det amod conj punct
+det nsubj ROOT acomp cc conj cc nsubj aux conj det npadvmod acomp punct cc det nsubj conj acomp cc nsubj conj acomp prep pobj advmod punct det amod conj punct cc det amod conj punct
+det nsubj aux ROOT acomp cc det nsubj conj csubj dobj ccomp det amod nmod attr prep det amod pobj cc nsubj conj det nmod dobj prep det nummod compound pobj cc det conj nsubj aux neg ccomp punct
+det nsubj aux ROOT acomp cc det nsubj conj csubj dobj ccomp det amod attr prep det amod pobj cc nsubj ROOT det dobj prep det compound pobj cc conj nsubj aux neg ROOT punct
+prep det pobj prep poss compound pobj nsubj relcl advmod amod dobj prep pobj mark poss nsubj ccomp xcomp punct det nsubj advmod ROOT amod punct neg acomp punct
+prep det pobj prep poss compound pobj nsubj relcl advmod amod dobj prep pobj mark poss nsubj ccomp xcomp punct det nsubj advmod ROOT amod punct neg acomp punct
+det nsubj ccomp advmod acomp punct nsubj ROOT nsubj ccomp nummod cc conj dobj punct
+nsubj ccomp det amod punct amod dobj punct nsubj parataxis advmod acomp prep pobj punct nsubj ROOT acomp aux xcomp punct
+det nsubj prep det pobj ROOT advmod compound punct acomp cc det conj prep pobj nsubj relcl prep det compound pobj punct neg amod punct advmod conj punct conj cc conj punct
+nsubj ROOT nsubj prep pobj ccomp advmod acomp punct
+det nsubj ROOT advmod amod attr punct
+poss nsubj neg ROOT amod amod dobj prep det pobj punct
+poss nsubj ROOT acomp advmod punct
+cc advmod amod ROOT punct
+det nsubj ROOT det attr nsubj aux relcl prep amod pobj punct
+mark nsubj ROOT nsubj advmod ccomp mark advcl dobj cc conj punct
+det nsubj ROOT advmod acomp cc nsubj ROOT acomp cc conj prep amod pobj punct
+det nsubj ROOT advmod acomp cc nsubj ROOT acomp cc conj prep amod pobj punct
+det nsubj ROOT det attr prep pobj punct
+det nsubj advmod ROOT prep det amod pobj punct
+det nsubj advmod punct ROOT dobj nsubj aux ccomp punct
+advmod punct nsubj ROOT advmod cc compound nsubj conj attr prep det pobj nsubj relcl acomp aux xcomp advmod punct
+ nsubj ROOT acomp conj aux xcomp aux xcomp cc conj dobj mark neg advcl
+ ROOT advmod advmod advcl
+ nsubj ROOT acomp neg acomp neg acomp det npadvmod cc det
+amod ROOT prep compound pobj punct
+ nsubj ROOT acomp
+det nsubj ROOT acomp punct
+ROOT det amod dobj punct
+advmod nsubj advcl det amod dobj punct nsubj aux ROOT advmod prep compound pobj cc amod conj punct
+advmod nsubj advcl det amod dobj punct nsubj aux ROOT advmod prep compound pobj cc amod conj punct
+ nsubj ROOT acomp advmod
+amod amod ROOT punct amod conj punct amod conj punct amod conj punct
+amod amod ROOT punct amod conj punct amod conj punct amod conj punct
+amod amod ROOT punct amod conj punct amod conj punct amod conj punct
+amod amod ROOT punct amod conj punct amod conj punct amod conj punct
+nsubj punct det punct appos punct preconj prep compound punct pobj cc conj punct ROOT prep pcomp det amod pobj prep pobj punct
+det nsubj advmod ROOT punct advcl prep det pobj punct conj prep det pobj cc conj prep pobj punct
+nsubj ROOT det amod dobj prep amod compound pobj cc nsubj prep poss pobj conj acomp punct
+nsubj ROOT det amod dobj prep amod compound pobj cc nsubj prep poss pobj conj acomp punct
+det nsubj ROOT advmod acomp advmod punct
+neg ROOT prep det pobj punct
+ROOT advmod amod prep det amod cc conj pobj punct
+nummod ROOT prep pobj punct
+nsubj ROOT det nsubjpass auxpass advmod ccomp punct
+det nsubj ROOT acomp punct cc nsubj conj neg advmod acomp punct
+det nsubj ROOT acomp punct cc nsubj conj neg advmod acomp punct
+nsubj ROOT det amod amod punct compound attr prep det compound punct compound pobj punct
+nsubj aux ROOT prep pobj prep nummod pobj cc det conj prep det pobj cc det conj prep det pobj conj prep pcomp advmod prep pobj punct
+nsubj aux ROOT prep pobj prep nummod pobj cc det conj prep det pobj cc det conj prep det pobj conj prep pcomp advmod prep pobj punct
+nsubj ROOT det attr prep pobj nsubj relcl advmod punct dobj punct
+det nsubj ROOT attr amod punct cc nsubj conj prep det amod pobj prep pobj punct
+det nsubj cc conj ROOT dep acomp advmod advmod cc nsubj conj prep det amod pobj punct
+det nsubj cc conj ROOT dep acomp advmod advmod cc nsubj conj prep det amod pobj punct
+det nsubj cc conj ROOT dep acomp advmod advmod cc nsubj conj prep det amod pobj punct
+prep det advmod amod pobj punct nsubjpass amod auxpass ROOT prep pobj punct dep amod cc det conj prep compound pobj punct
+ npadvmod ROOT
+det nsubj ROOT acomp prep prep det pobj prep pobj cc conj punct
+det nsubj ROOT acomp prep prep det pobj prep pobj cc conj punct
+det nsubj cc conj ROOT acomp cc det nsubj conj nsubj ccomp prt prep pobj punct
+det nsubj cc conj ROOT acomp cc det nsubj conj nsubj ccomp prt prep pobj punct
+det nsubj cc conj ROOT acomp cc det nsubj conj nsubj ccomp prt prep pobj punct
+ROOT amod dobj prep pobj punct
+det nsubj ccomp acomp punct nsubj prep det pobj aux neg ROOT pobj nsubj ccomp prep punct
+nsubj ROOT det amod dobj advmod punct
+det nsubj det nsubj ROOT advmod acomp advmod punct
+det nsubj det nsubj ROOT advmod acomp advmod punct
+det nsubj cc amod nsubj ROOT prep det pobj prep poss amod compound pobj punct
+det nsubj ccomp acomp punct prep det pobj prep det amod compound punct pobj punct det nsubj ROOT neg det attr punct
+det nsubj ccomp acomp punct prep det pobj prep det amod compound punct pobj punct det nsubj ROOT neg det attr punct
+det nsubj ccomp acomp punct prep det pobj prep det amod compound punct pobj punct det nsubj ROOT neg det attr punct
+det nsubj ccomp acomp punct prep det pobj prep det amod compound punct pobj punct det nsubj ROOT neg det attr punct
+mark nsubj advcl det amod compound attr cc det conj acl prep amod pobj punct nsubjpass aux advmod auxpass ROOT prep amod pobj prep nummod pobj punct
+mark nsubj advcl det amod compound attr cc det conj acl prep amod pobj punct nsubjpass aux advmod auxpass ROOT prep amod pobj prep nummod pobj punct
+mark det nsubjpass aux auxpass advmod advcl punct det compound punct nmod punct nmod punct conj cc conj ROOT punct
+mark det nsubjpass aux auxpass advmod advcl punct det compound punct nmod punct conj punct cc compound ROOT punct
+mark det nsubjpass aux auxpass advmod advcl punct det compound punct nmod punct nmod punct conj cc conj ROOT punct
+mark det nsubjpass aux auxpass advmod advcl punct det compound punct nmod punct nmod punct conj cc conj ROOT punct
+nsubj aux ccomp prep det pobj prep det amod nummod pobj punct det advmod punct aux ROOT aux xcomp dobj cc conj prep det pobj prep amod pobj punct
+nsubj aux ccomp prep det pobj prep det amod nummod pobj punct det advmod punct aux ROOT aux xcomp dobj cc conj prep det pobj prep amod pobj punct
+nsubj aux ccomp prep det pobj prep det amod nummod pobj punct det advmod punct aux ROOT aux xcomp dobj cc conj prep det pobj prep amod pobj punct
+nsubj aux ccomp prep det pobj prep det amod nummod pobj punct det advmod punct aux ROOT aux xcomp dobj cc conj prep det pobj prep amod pobj punct
+mark nsubj advcl punct advcl det nmod punct compound dobj punct det nsubj prep conj ccomp attr punct nsubj ROOT advmod acomp punct
+mark nsubj advcl punct advcl det nmod punct compound dobj punct det nsubj prep conj ccomp attr punct nsubj ROOT advmod acomp punct
+ROOT prt det amod compound dobj punct
+ROOT dobj oprd punct
+nsubj ROOT det nmod punct conj cc conj amod dobj nsubj aux relcl advmod punct
+nsubj ROOT det nmod punct conj cc conj amod dobj nsubj aux relcl advmod punct
+det nsubj ROOT acomp punct
+det nsubj ROOT advmod punct acomp cc conj punct
+advmod amod compound ROOT punct
+nsubj ROOT dobj prep pobj prep det amod pobj prep pobj punct
+ROOT det compound punct nsubj punct cc det compound conj dobj punct
+ROOT det compound punct nsubj punct cc det compound conj dobj punct
+amod ROOT punct
+advmod amod ROOT punct
+det nsubj ccomp acomp punct nsubj aux neg ROOT punct
+cc det nsubj ROOT advmod acomp prep pobj punct
+det nsubj cc det conj ROOT advmod acomp cc conj dobj nsubj relcl aux advcl dobj prt punct
+det nsubj cc det conj ROOT advmod acomp cc conj dobj nsubj relcl aux advcl dobj prt punct
+nsubj aux ROOT aux xcomp dobj cc det conj advmod prep det pobj prep pobj mark nsubj advcl det dobj aux acl punct
+det nsubj ROOT acomp punct cc intj punct det nsubj conj acomp npadvmod punct cc det nsubj conj nsubj ccomp mark nsubj aux aux advcl det dobj prep det pobj punct
+det nsubj ROOT acomp punct cc intj punct det nsubj conj acomp npadvmod punct cc det nsubj conj nsubj ccomp mark nsubj aux aux advcl det dobj prep det pobj punct
+det nsubj ROOT acomp punct cc intj punct det nsubj conj acomp npadvmod punct cc det nsubj conj nsubj ccomp mark nsubj aux aux advcl det dobj prep det pobj punct
+ nsubj ROOT attr amod
+nsubj ROOT advmod det npadvmod advmod cc conj amod dobj amod advmod advcl cc advmod conj punct
+aux neg advcl prep pobj prep det amod pobj punct nsubj ROOT advmod neg prep prep pobj prep det subtok subtok amod pobj punct
+aux neg advcl prep pobj prep det amod pobj punct nsubj ROOT advmod neg prep prep pobj prep det subtok subtok amod pobj punct
+ nsubj ROOT acomp mark nsubj aux advcl acomp
+nsubj ROOT acomp mark nsubj aux advcl acomp punct
+det nsubj ROOT advmod acomp punct
+advmod advmod punct nsubj ROOT acomp punct
+ROOT det compound dobj punct
+ROOT prep det compound compound pobj punct
+nsubj ROOT acomp nsubj ccomp det nsubj ccomp acomp punct
+cc intj compound nsubj ROOT advmod ROOT acomp cc advmod ROOT predet det attr punct
+cc intj compound nsubj ROOT advmod ROOT acomp cc advmod ROOT predet det attr punct
+ nsubj prep compound pobj ROOT advmod acomp
+det nsubj ROOT neg acomp cc det nsubj conj dobj cc conj punct
+det nsubj ROOT neg acomp cc det nsubj conj dobj cc conj punct
+advmod advmod punct nsubj ROOT attr prep det amod pobj nsubj aux advmod relcl punct
+advmod det amod ROOT poss dobj cc nsubj conj prep poss amod pobj punct
+neg ROOT advmod det nsubjpass aux auxpass ccomp advmod advmod punct
+det advmod punct compound punct aux punct amod nsubj ROOT advmod prep advmod amod pobj punct
+amod ROOT punct det punct advmod punct amod nmod punct advmod punct amod nmod punct npadvmod punct amod appos punct
+amod ROOT punct det punct advmod punct amod nmod punct advmod punct amod nmod punct npadvmod punct amod appos punct
+amod ROOT punct det punct advmod punct amod nmod punct advmod punct amod nmod punct npadvmod punct amod appos punct
+amod ROOT punct det punct advmod punct amod nmod punct advmod punct amod nmod punct npadvmod punct amod appos punct
+det amod nsubj nsubj aux advmod relcl ROOT det advmod amod compound attr punct advmod poss amod appos punct punct det npadvmod punct amod appos punct cc det conj prep pobj prep det pobj punct
+det amod nsubj nsubj aux advmod relcl ROOT det advmod amod compound attr punct advmod poss amod appos punct punct det npadvmod punct amod appos punct cc det conj prep pobj prep det pobj punct
+det nsubj ROOT acomp advmod punct
+nsubj aux ROOT aux xcomp case advmod cc det nsubj conj advmod acomp punct
+det npadvmod nsubjpass auxpass advmod ROOT agent det pobj punct nsubj relcl npadvmod acomp punct
+det nsubj ROOT acomp punct attr nsubj aux relcl advmod punct
+nsubj ccomp poss nsubj ccomp prep pobj punct nsubj relcl det attr prep poss amod pobj punct nsubj ROOT xcomp det compound dobj advmod nsubj relcl advmod acomp nsubj ccomp punct
+prep det pobj nummod npadvmod advmod nsubj ROOT det amod dobj prep det amod pobj punct
+prep det pobj nummod npadvmod advmod nsubj ROOT det amod dobj prep det amod pobj punct
+det nsubj ROOT acomp punct
+ compound nsubj ROOT acomp
+nsubj ROOT det dobj punct conj punct cc conj punct
+nsubj ROOT det dobj punct conj punct cc conj punct
+nsubj ROOT det dobj punct conj punct cc conj punct
+det nsubj aux ROOT det npadvmod acomp prep pobj punct conj mark nsubj advcl amod dobj punct cc advmod det nsubj conj det attr punct
+det nsubj aux ROOT det npadvmod acomp prep pobj punct conj mark nsubj advcl amod dobj punct cc advmod det nsubj conj det attr punct
+advcl det compound dobj punct nsubj ROOT acomp cc poss nsubj conj advmod acomp punct
+advmod mark nsubj advcl acomp aux neg ccomp det nsubj ccomp acomp cc det nsubj conj acomp punct nsubj ROOT acomp punct
+advmod mark nsubj advcl acomp aux neg ccomp det nsubj ccomp acomp cc det nsubj conj acomp punct nsubj ROOT acomp punct
+advmod punct det nsubj punct acl nmod dobj punct aux neg ROOT prep pobj prep pobj cc det conj punct
+advcl prt punct det nsubj ROOT dobj punct cc prep poss pobj punct nsubj conj det advmod amod attr punct
+ compound nsubj ROOT poss amod amod attr prep det pobj
+nsubj ROOT amod dobj prep compound pobj punct
+det nsubj ccomp acomp punct expl ROOT det compound attr advmod punct
+det nsubj ROOT acomp mark nsubj aux advcl prep det pobj prep amod pobj punct
+nsubj ROOT det advmod amod cc conj attr cc nsubj conj advmod punct
+nsubj ROOT det amod compound dobj cc conj amod dobj punct
+nsubj ROOT det amod compound dobj cc conj amod dobj punct
+det nsubj ROOT acomp cc compound nsubj conj acomp punct
+det nsubj ROOT acomp cc compound nsubj conj acomp punct
+nsubj ROOT det amod attr mark nsubj aux advcl prep det amod pobj aux relcl det amod compound dobj prep compound pobj punct
+neg det amod ROOT prep pobj cc amod conj punct
+ROOT det npadvmod punct
+ nsubj ROOT acomp
+ nsubj ROOT advmod advmod acomp
+ nsubj ROOT advmod acomp
+ROOT dobj punct
+compound nsubj ROOT det amod amod attr prep advmod amod pobj punct
+ csubj dobj ROOT det amod amod attr prep advmod amod pobj
+det nsubj ROOT acomp cc advmod nsubj prep det pobj conj acomp punct
+det nsubj ROOT acomp cc advmod nsubj prep det pobj conj acomp punct
+det compound nsubj ROOT acomp cc det nsubj prep pobj cc conj conj acomp punct
+det compound nsubj ROOT acomp cc det nsubj prep pobj cc conj conj acomp punct
+det nsubj ROOT acomp cc nsubj conj acomp prep det pobj cc compound conj punct
+det nsubj ROOT acomp cc nsubj conj acomp prep det pobj cc compound conj punct
+det amod nsubj prep det pobj ROOT det attr punct
+advmod mark poss amod nsubj punct det nsubj ROOT advmod acomp punct
+det compound nsubj ROOT nmod attr cc mark nsubj advcl acomp nsubj conj neg advmod acomp aux xcomp det dobj punct
+det nsubj ccomp acomp punct nsubj parataxis det compound dobj punct poss nsubj aux ROOT punct punct cc det nsubj conj amod punct acomp punct
+det nsubj ccomp acomp punct nsubj parataxis det compound dobj punct poss nsubj aux ROOT punct punct cc det nsubj conj amod punct acomp punct
+det nsubj ccomp acomp punct nsubj parataxis det compound dobj punct poss nsubj aux ROOT punct punct cc det nsubj conj amod punct acomp punct
+det nsubj ccomp acomp punct nsubj parataxis det compound dobj punct poss nsubj aux ROOT punct punct cc det nsubj conj amod punct acomp punct
+advmod poss nsubj advcl punct expl ROOT det attr prep pobj punct dep mark nsubj advcl prep pobj punct cc mark det nsubj aux aux conj nsubj ccomp poss compound dobj cc conj punct cc conj nsubj ccomp nsubj ccomp det amod attr prep det pobj punct
+advmod det ROOT prep det amod pobj punct
+nsubj advmod ROOT det dobj acl prep poss pobj amod npadvmod punct
+nsubj ROOT prep det amod pobj prep det dobj cc advmod conj prep det pobj punct
+nsubj ROOT mark det nsubj aux ccomp advmod dobj prep pobj xcomp prep det pobj punct
+nsubj ccomp det compound dobj punct amod conj cc det compound conj punct advmod det nsubj ROOT amod dobj punct
+nsubj ccomp det compound dobj punct amod conj cc det compound conj punct advmod det nsubj ROOT amod dobj punct
+nsubj ccomp det compound dobj punct amod conj cc det compound conj punct advmod det nsubj ROOT amod dobj punct
+nsubj ccomp det compound dobj punct amod conj cc det compound conj punct advmod det nsubj ROOT amod dobj punct
+det nsubj ROOT advmod acomp cc det nsubj conj acomp punct
+det nsubj ROOT advmod acomp cc det nsubj conj acomp punct
+aux ROOT punct dobj prep amod pobj cc det nsubj conj acomp punct
+ compound nsubj ROOT det amod attr cc amod conj prep nmod pobj
+det amod nsubj prep pobj punct dep punct nsubj ROOT det dobj prep pcomp punct
+det amod nsubj prep pobj punct dep punct nsubj ROOT det dobj prep pcomp punct
+det amod nsubj prep pobj punct dep punct nsubj ROOT det dobj prep pcomp punct
+punct det amod punct amod conj punct amod nsubj ROOT det attr punct punct
+ compound nsubj ROOT acomp prep pcomp advmod punct acomp
+ROOT acomp aux xcomp det dobj punct cc advmod conj punct npadvmod punct
+nsubj ROOT det dobj punct punct
+nsubj advmod ROOT aux xcomp det dobj mark det nsubj advcl advmod acomp cc nsubj aux ROOT prep pobj advmod ROOT aux xcomp punct
+det nsubj ROOT advmod acomp punct det amod attr punct cc det conj poss nsubj relcl acomp punct
+det nsubj ROOT advmod acomp punct det amod attr punct cc det conj poss nsubj relcl acomp punct
+det amod nsubj ccomp advmod advmod punct nsubj ROOT nsubj ccomp mark nsubj aux advcl prep det advmod amod amod pobj punct
+nsubj intj amod advmod aux advmod ccomp nsubj ccomp punct nsubj ROOT attr mark det nsubj nsubj relcl advmod acl acomp cc conj punct punct
+nsubj intj amod advmod aux advmod ccomp nsubj ccomp punct nsubj ROOT attr mark det nsubj nsubj relcl advmod acl acomp cc conj punct punct
+det nsubj ccomp acomp punct nsubj ROOT aux xcomp prep pobj cc conj dobj prep amod pobj prep det amod pobj mark nsubjpass auxpass advcl aux auxpass xcomp punct
+det nsubj punct ROOT aux xcomp advmod acomp prep pcomp acomp prep advmod nummod pobj punct
+prep pobj det nsubj ROOT poss dobj punct conj dobj punct advmod ccomp nsubj prep punct advmod nsubj aux advmod ccomp advmod nsubj ccomp prep pobj punct cc prep det pobj conj advmod advmod amod advcl mark nsubj ccomp det amod attr nsubj relcl prt punct
+nsubj ccomp dobj punct nsubj ROOT det nummod nsubj advmod ccomp advmod cc conj prep det pobj punct
+det nsubj acl prt ROOT advmod acomp cc nsubj conj amod nsubj aux ccomp det amod dobj punct mark prep det amod pobj nsubj advcl det amod attr punct
+det nsubj acl prt ROOT advmod acomp cc nsubj conj amod nsubj aux ccomp det amod dobj punct mark prep det amod pobj nsubj advcl det amod attr punct
+ nsubj advmod ROOT advmod acomp
+ nsubj ROOT det amod attr aux relcl det dobj
+nsubj aux ROOT prep det pobj punct
+ nsubj ROOT acomp
+ nsubj ROOT acomp
+det det amod ROOT punct
+det nsubj ROOT advmod acomp punct cc det nsubj conj acomp punct prep pobj prep det pobj mark det nsubj acl advmod acomp punct
+det nsubj ROOT advmod acomp punct cc det nsubj conj acomp punct prep pobj prep det pobj mark det nsubj acl advmod acomp punct
+nsubj aux advmod ROOT dobj mark nsubj advcl amod dobj punct
+nsubj ROOT advmod det amod npadvmod advmod cc nsubj ROOT det amod compound compound dobj prep det pobj advmod punct
+det nsubj punct advmod det appos punct ROOT prep poss pobj punct cc conj advmod pobj prep det pobj cc conj advcl prep poss pobj punct
+nsubj advmod ROOT det dobj punct
+amod ROOT punct amod appos amod cc conj appos punct
+amod ROOT punct amod appos amod cc conj appos punct
+amod ROOT punct amod appos amod cc conj appos punct
+det compound nsubj ROOT advmod advmod acomp punct
+nsubj ROOT acomp punct appos punct conj punct conj punct conj punct
+nsubj ROOT acomp punct appos punct conj punct conj punct conj punct
+nsubj ROOT acomp punct appos punct conj punct conj punct conj punct
+nsubj ROOT acomp punct appos punct conj punct conj punct conj punct
+nsubj aux advmod ROOT det dobj punct
+nsubj aux ROOT aux xcomp quantmod nummod npadvmod cc nsubj aux advmod conj det amod dobj advmod punct
+det nsubj ROOT acomp cc advmod conj punct
+nsubj aux ROOT aux xcomp dobj punct cc det npadvmod punct det nsubj aux neg conj poss dobj punct
+mark det nsubj advcl acomp punct ROOT aux xcomp det amod dobj punct
+det nsubj aux ROOT acomp punct cc nsubj conj advmod oprd cc det compound nsubj conj aux auxpass xcomp advmod advmod punct
+det nsubj aux ROOT acomp punct cc nsubj conj advmod oprd cc det compound nsubj conj aux auxpass xcomp advmod advmod punct
+prep det amod pobj prep det amod pobj punct nsubj ROOT prep pobj cc conj det dobj prep pobj punct
+prep det amod pobj prep det amod pobj punct nsubj ROOT prep pobj cc conj det dobj prep pobj punct
+ROOT nsubj ccomp det amod attr advmod cc nsubj ROOT prep det compound pobj punct det nsubj aux neg ROOT dobj advmod advmod cc conj nsubj ccomp acomp cc conj punct
+nsubj advmod ROOT amod dobj dative pobj nsubj relcl amod amod compound dobj cc amod conj punct
+nsubj advmod ROOT amod dobj dative pobj nsubj relcl amod amod compound dobj cc amod conj punct
+amod npadvmod ROOT amod dobj punct
+amod nsubjpass cc conj auxpass ROOT aux xcomp punct
+amod ROOT nsubj advmod relcl nsubj ccomp poss dobj cc det conj nsubj relcl prep punct
+nsubj ROOT det nsubj aux ccomp acomp punct conj det compound dobj nsubj relcl punct
+nsubj ROOT det nsubj aux ccomp acomp punct conj det compound dobj nsubj relcl punct
+nsubj advmod ROOT det compound ccomp punct nsubj advcl prep prep det pobj punct
+poss nsubj ROOT prep compound pobj punct cc nsubj conj advmod det amod npadvmod aux advcl det compound dobj punct nsubj relcl acomp punct neg advmod punct cc conj punct
+nsubj ROOT prt prep det amod pobj punct nsubj advcl acomp npadvmod mark nsubj advcl acomp cc det nsubjpass auxpass conj advmod advmod punct
+nsubj ROOT prt prep det amod pobj punct nsubj advcl acomp npadvmod mark nsubj advcl acomp cc det nsubjpass auxpass conj advmod advmod punct
+amod punct amod ROOT punct
+det nsubj ROOT acomp punct
+det nsubj ROOT acomp cc conj punct
+cc det nsubj ROOT det npadvmod acomp punct
+det nsubj ROOT det amod dobj punct
+det nsubj ROOT acomp cc conj prep det amod compound pobj punct
+det nsubj ROOT acomp cc conj prep det amod compound pobj punct
+ nsubj ROOT advmod advmod acomp
+nsubj ROOT det amod dobj prep pobj cc nsubj conj amod amod amod dobj punct
+nsubj ROOT det amod dobj prep pobj cc nsubj conj amod amod amod dobj punct
+nsubj aux ROOT dobj case prep pobj punct cc neg conj poss pobj punct
+poss nsubj cc poss conj appos ROOT dobj cc nsubj conj acomp punct
+advmod punct poss nsubj ROOT advmod prep poss pobj cc conj predet det nsubj nsubj nsubj relcl ccomp prep pcomp dobj punct
+nsubj ROOT det amod compound dobj prep det pobj punct
+det nsubj ROOT advmod acomp cc nsubj aux conj prep det advmod amod pobj prep det  pobj punct det appos
+det nsubj ROOT advmod acomp cc nsubj aux conj prep det advmod amod pobj prep det  pobj punct det appos
+det amod nummod nsubj nsubj relcl prep pcomp poss pobj ROOT acomp acomp mark  nsubj aux advmod ccomp dobj punct cc det nsubj conj advmod prep det pobj prep det pobj
+det amod nummod nsubj nsubj relcl prep pcomp poss pobj ROOT acomp acomp mark  nsubj aux advmod ccomp dobj punct cc det nsubj conj advmod prep det pobj prep det pobj
+cc det compound compound nsubj ROOT acomp punct
+mark nsubj advcl amod amod dobj det nsubj ROOT neg det attr aux relcl punct
+nsubj ROOT advmod prep pobj det npadvmod prep pobj advmod prep det pobj punct cc nsubj auxpass advmod conj prep det pobj punct
+det compound nsubj ROOT amod punct amod punct compound attr prep det amod pobj prep amod amod pobj pobj nsubj aux neg relcl prep pcomp punct
+det compound nsubj ROOT amod punct amod punct compound attr prep det amod pobj prep amod amod pobj pobj nsubj aux neg relcl prep pcomp punct
+det amod compound compound nsubj ROOT advmod acomp punct advmod nsubj aux advcl poss amod compound dobj punct
+nsubj ROOT det compound dobj cc nsubj conj acomp punct
+poss nsubj ROOT nsubj aux punct intj ccomp advmod dobj punct det nsubj ccomp acomp prep pobj nsubj advmod ccomp mark det amod nsubj ccomp det attr nsubj aux relcl
+poss nsubj ROOT nsubj aux punct intj ccomp advmod dobj punct det nsubj ccomp acomp prep pobj nsubj advmod ccomp mark det amod nsubj ccomp det attr nsubj aux relcl
+nsubj ROOT det dobj prep det pobj cc nsubj conj acomp cc det nsubj conj acomp punct
+nsubj ROOT det dobj prep det pobj cc nsubj conj acomp cc det nsubj conj acomp punct
+nsubj ROOT prep det pobj cc conj dobj nsubj relcl advmod acomp punct
+ROOT det dobj punct
+nsubj ROOT det amod attr nsubj aux relcl amod amod amod compound dobj punct
+nsubj punct intj ROOT prep pobj prep nummod pobj cc det nsubj conj dobj appos
+amod ROOT punct amod compound conj punct amod conj cc det amod conj punct
+amod ROOT punct amod compound conj punct amod conj cc det amod conj punct
+amod ROOT punct amod compound conj punct amod conj cc det amod conj punct
+amod ROOT punct amod compound conj punct amod conj cc det amod conj punct
+det nsubj acl ROOT amod punct advmod acomp cc conj prep det compound pobj punct conj prep pobj punct amod amod conj prep det amod compound compound pobj punct det amod cc conj nsubj punct aux advmod conj punct
+det nsubj acl ROOT amod punct advmod acomp cc conj prep det compound pobj punct conj prep pobj punct amod amod conj prep det amod compound compound pobj punct det amod cc conj nsubj punct aux advmod conj punct
+det nsubj acl ROOT amod punct advmod acomp cc conj prep det compound pobj punct conj prep pobj punct amod amod conj prep det amod compound compound pobj punct det amod cc conj nsubj punct aux advmod conj punct
+det nsubj acl ROOT amod punct advmod acomp cc conj prep det compound pobj punct conj prep pobj punct amod amod conj prep det amod compound compound pobj punct det amod cc conj nsubj punct aux advmod conj punct
+det nsubj acl ROOT amod punct advmod acomp cc conj prep det compound pobj punct conj prep pobj punct amod amod conj prep det amod compound compound pobj punct det amod cc conj nsubj punct aux advmod conj punct
+poss case amod ROOT nsubjpass auxpass ccomp prep det pobj cc nsubj conj det amod attr prep pobj
+det amod punct amod ROOT punct cc det amod conj punct
+det nsubj ROOT acomp cc det nsubj conj acomp punct
+det nsubj ROOT acomp cc det nsubj conj acomp punct
+nsubj ROOT advmod acomp prep pobj cc conj dep acomp prep det pobj nsubj relcl punct compound dep punct appos punct punct compound appos punct amod conj punct nmod conj cc conj punct nummod conj prep pobj punct cc det compound conj punct
+nsubj ROOT advmod acomp prep pobj cc conj dep acomp prep det pobj nsubj relcl punct compound dep punct appos punct punct compound appos punct amod conj punct conj cc conj punct nummod conj prep pobj punct cc det compound conj punct
+nsubj ROOT advmod acomp prep pobj cc conj dep acomp prep det pobj nsubj relcl punct compound dep punct appos punct punct compound appos punct amod conj punct conj cc conj punct nummod conj prep pobj punct cc det compound conj punct
+nsubj ROOT advmod acomp prep pobj cc conj dep acomp prep det pobj nsubj relcl punct compound dep punct appos punct punct compound appos punct amod conj punct conj cc conj punct nummod conj prep pobj punct cc det compound conj punct
+nsubj ROOT advmod acomp prep pobj cc conj dep acomp prep det pobj nsubj relcl punct compound dep punct appos punct punct compound appos punct amod conj punct nmod conj cc conj punct nummod conj prep pobj punct cc det compound conj punct
+nsubj ROOT advmod acomp prep pobj cc conj dep acomp prep det pobj nsubj relcl punct compound dep punct appos punct punct compound appos punct amod conj punct conj cc conj punct nummod conj prep pobj punct cc det compound conj punct
+nsubj ROOT advmod acomp prep pobj cc conj dep acomp prep det pobj nsubj relcl punct compound dep punct appos punct punct compound appos punct amod conj punct conj cc conj punct nummod conj prep pobj punct cc det compound conj punct
+nsubj ROOT advmod acomp prep pobj cc conj dep acomp prep det pobj nsubj relcl punct compound dep punct appos punct punct compound appos punct amod conj punct conj cc conj punct nummod conj prep pobj punct cc det compound conj punct
+advmod det amod ROOT prep det amod pobj cc conj punct
+ROOT prep amod amod pobj punct cc amod conj punct
+ROOT prep amod amod pobj punct cc amod conj punct
+det amod ROOT prep prep pobj prep pobj punct
+det nsubj ROOT nummod npadvmod mark nsubj advcl punct oprd cc conj punct
+nsubj ccomp det amod attr prep det amod pobj advmod ROOT amod dobj punct
+det amod ROOT
+nsubjpass auxpass ROOT advmod agent det pobj nsubj relcl advmod acomp cc conj punct
+nsubj ROOT advmod acomp prep pcomp nsubj ccomp cc conj dobj prep pcomp det dobj prep amod pobj mark nsubj advcl dobj prep amod pobj punct
+det nsubj ROOT advmod acomp cc conj mark nsubj advcl prep det pobj prep amod pobj punct
+nsubj ROOT poss amod dobj prep pcomp xcomp nmod punct dobj punct acl agent det pobj punct
+nsubj ROOT poss dobj nsubj relcl dative det dobj cc aux advmod conj dobj prep pobj punct
+ nsubj advmod ccomp acomp punct nsubj ROOT acomp
+nsubj advmod ccomp acomp punct nsubj ROOT acomp punct
+ nummod nsubj ccomp advmod acomp punct nsubj appos ROOT det dobj punct advmod amod punct aux neg advmod prep det pobj nsubj relcl prep punct cc det nsubj conj advmod acomp punct nsubj prep pobj advcl
+nummod nsubj ccomp advmod acomp punct nsubj appos ROOT det dobj punct advmod amod punct aux neg advmod prep det pobj nsubj relcl prep punct cc det nmod nsubj conj advmod acomp punct nsubj prep pobj advcl punct
+nummod nsubj ccomp advmod acomp punct nsubj appos ROOT det dobj punct advmod amod punct aux neg advmod prep det pobj nsubj relcl prep punct cc det nsubj conj advmod acomp punct nsubj prep pobj advcl punct
+nsubj aux neg ROOT acomp prep det pobj punct
+det nsubj ROOT acomp cc det nsubj conj acomp punct conj cc advmod conj punct
+det nsubj ROOT acomp cc det nsubj conj acomp punct conj cc advmod conj punct
+advmod det amod ROOT punct cc neg conj punct
+nsubj ROOT acomp aux xcomp mark nsubj aux neg advcl poss dobj prep det compound pobj aux relcl acomp punct
+prep pcomp punct det amod ROOT prep pobj punct
+det nsubj ROOT acomp punct det nsubj conj acomp cc det nsubj conj acomp punct
+det nsubj ROOT acomp punct det nsubj conj acomp cc det nsubj conj acomp punct
+det nsubj ROOT acomp punct det nsubj conj acomp cc det nsubj conj acomp punct
+det nsubj ROOT advmod amod compound dobj cc conj punct
+det nsubj ROOT advmod punct advmod acomp punct
+nsubj appos ROOT mark nsubj ccomp attr prep det amod compound pobj prep amod pobj punct
+nsubj ROOT prep det amod pobj mark nsubj advcl poss amod dobj punct
+nsubj prep det pobj ROOT acomp cc det nsubj conj advmod acomp punct
+nsubj advmod ROOT det compound dobj punct
+det nsubj ROOT acomp advmod advmod cc nsubj ROOT det amod attr nsubj relcl nsubj ccomp neg aux xcomp advmod punct
+det nsubj ROOT acomp advmod advmod cc nsubj ROOT det amod attr nsubj relcl nsubj ccomp neg aux xcomp advmod punct
+advmod mark nsubj advcl punct det nsubj ROOT det dobj cc conj punct intj punct nmod nsubj ccomp acomp advmod punct
+prep det pobj nsubj relcl amod dobj cc amod conj punct csubj ROOT det attr aux relcl punct
+prep det pobj nsubj relcl amod dobj cc amod conj punct csubj ROOT det attr aux relcl punct
+det amod npadvmod det nsubj relcl acomp punct det amod npadvmod nsubj ROOT det amod attr punct
+det amod compound nsubj ccomp advmod acomp punct det compound nsubj ROOT acomp cc det nsubj conj acomp punct
+det amod compound nsubj ccomp advmod acomp punct det compound nsubj ROOT acomp cc det nsubj conj acomp punct
+det amod compound nsubj ccomp advmod acomp punct det compound nsubj ROOT acomp cc det nsubj conj acomp punct
+ nsubj ROOT det nsubj ccomp prep pobj
+mark poss compound nsubj advcl acomp punct poss nsubj ROOT prep prep det pobj punct
+mark poss compound nsubj advcl acomp punct poss nsubj ROOT prep prep det pobj punct
+nsubj ROOT attr prep amod cc conj pobj neg aux xcomp advmod advmod punct
+preconj advmod ccomp det nsubj det attr advmod punct det nsubj aux advmod ROOT acomp cc conj punct
+preconj advmod ccomp det nsubj det attr advmod punct det nsubj aux advmod ROOT acomp cc conj punct
+ROOT punct nsubj aux ccomp nsubj ccomp aux advcl prep amod amod pobj prep det pobj aux relcl punct
+nsubj ROOT det amod attr prep amod pobj acl dobj punct cc det nsubj aux neg advmod conj prt punct
+nsubj ROOT det amod attr prep amod pobj acl dobj punct cc det nsubj aux neg advmod conj prt punct
+ nsubj ROOT det amod attr prep amod pobj acl dobj punct cc det nsubj aux neg advmod conj prt
+nsubj ROOT det amod nmod cc conj dobj cc nsubj conj prep pobj punct
+det nsubj ROOT acomp cc conj punct nsubjpass auxpass neg conj punct
+det nsubj ROOT acomp cc conj punct nsubjpass auxpass neg conj punct
+nsubj ROOT predet det npadvmod dobj prep predet det amod pobj punct
+det nsubj ROOT acomp punct cc det nsubj conj acomp punct
+det nsubj ROOT acomp punct cc det nsubj conj acomp punct
+amod amod ROOT advmod advmod punct
+amod amod ROOT nsubj ROOT acomp punct det pobj aux nsubj ROOT prep punct
+det amod compound nsubj ROOT prep det pobj nsubj relcl nsubj aux ccomp advmod nsubj aux ccomp prt prep pobj punct
+amod amod ROOT prep amod amod pobj punct
+amod amod ROOT prep amod amod pobj punct
+advmod punct ROOT compound dobj punct
+nsubj advmod ROOT preconj det dobj cc det compound conj punct prep compound compound punct pobj punct punct punct
+nsubj advmod ROOT preconj det dobj cc det compound conj punct prep compound pobj punct punct punct punct
+poss nsubj ROOT poss nmod cc conj dobj punct
+amod compound ROOT advmod punct
+advmod mark det nsubj advcl neg det acomp punct det nsubj ROOT det amod attr aux relcl advmod cc conj punct
+advmod mark det nsubj advcl neg det acomp punct det nsubj ROOT det amod attr aux relcl advmod cc conj punct
+amod compound ROOT punct
+nsubj ROOT det amod compound attr prep amod pobj prep amod compound pobj prep det compound pobj punct
+nsubj ROOT det amod compound attr prep amod pobj prep amod compound pobj prep det compound pobj punct
+nsubj ROOT det amod compound attr prep amod pobj prep amod compound pobj prep det compound pobj punct
+poss nsubj ROOT amod punct conj punct npadvmod punct amod punct attr punct
+det compound nsubj ROOT acomp punct
+det ROOT nummod prep pobj punct
+det nsubj ROOT acomp punct conj cc conj prep pobj punct cc advmod nsubj aux conj compound dobj mark nsubj aux advcl det dobj prep pobj punct
+det nsubj ROOT acomp punct conj cc npadvmod conj punct
+csubj det dobj compound compound oprd aux ROOT dobj mark det nsubj ccomp amod dobj prep pobj punct cc prep det amod pobj prep amod pobj expl conj det attr prep det pobj advmod punct
+csubj det dobj compound compound oprd aux ROOT dobj mark det nsubj ccomp amod dobj prep pobj punct cc prep det amod pobj prep amod pobj expl conj det attr prep det pobj advmod punct
+csubj det dobj compound compound oprd aux ROOT dobj mark det nsubj ccomp amod dobj prep pobj punct cc prep det amod pobj prep amod pobj expl conj det attr prep det pobj advmod punct
+advmod punct det nsubj ROOT advmod punct
+det nsubj ROOT acomp punct det nsubj conj punct cc det nsubj conj punct
+det nsubj ROOT acomp punct det nsubj conj punct cc det nsubj conj punct
+det nsubj ROOT acomp punct det nsubj conj punct cc det nsubj conj punct
+amod amod ROOT nsubj advmod relcl punct cc conj acomp punct nsubj ROOT dobj punct punct
+nsubj ROOT predet det amod punct amod attr aux relcl advmod punct
+det nsubj ROOT prt prep amod amod pobj prep det compound pobj cc det conj prep pobj punct
+det nsubj ROOT acomp punct advmod poss advmod amod appos punct cc det nsubj conj acomp punct
+det nsubj ROOT acomp punct advmod poss advmod amod appos punct cc det nsubj conj acomp punct
+det nsubj ROOT acomp punct advmod poss advmod amod appos punct cc det nsubj conj acomp punct
+nsubj ROOT det amod attr aux relcl advmod punct prep punct pobj punct cc conj prep pcomp det dobj punct
+amod compound ROOT punct
+amod ROOT punct
+ROOT amod compound dobj punct
+amod nsubj punct amod compound conj cc conj advmod ROOT punct
+amod nsubj punct amod compound conj cc conj advmod ROOT punct
+amod nsubj punct amod compound conj cc conj advmod ROOT punct
+cc nsubj ROOT nsubj case ccomp attr prep pobj punct
+det nsubj ROOT acomp punct
+det nsubj ROOT neg acomp det npadvmod punct
+ROOT dobj nummod punct
+nsubj aux ROOT advmod prep pobj cc conj prep advmod pobj nsubj conj acomp cc nsubj advmod ROOT nummod dobj punct poss appos punct
+det amod compound nsubj ROOT advmod advmod acomp punct
+det nsubj ROOT acomp cc det nsubj conj attr prep det pobj prep pobj punct
+det nsubj ROOT acomp cc det nsubj conj attr prep det pobj prep pobj punct
+det compound nsubj ROOT prep prep det pobj cc nsubj conj det dobj punct punct
+det compound nsubj ROOT prep prep det pobj cc nsubj conj det dobj punct punct
+ nsubj ROOT acomp punct cc conj acomp neg aux xcomp det amod dobj
+nsubj ROOT prep det amod amod compound pobj cc det conj advmod ccomp dobj aux xcomp poss dobj advmod punct
+ROOT acomp neg aux xcomp dobj amod prep pobj punct punct
+det compound nsubj ROOT acomp punct
+det amod nsubjpass prep amod pobj nsubj punct auxpass advmod ROOT
+det nsubj prep det pobj ROOT compound attr cc conj punct
+det nsubj ROOT acomp punct
+det nsubj ccomp amod attr cc auxpass conj advmod advmod nsubj ROOT acomp punct
+advmod punct det nsubj ccomp det dobj punct advmod det nsubj ROOT acomp cc conj punct
+advmod punct det nsubj ccomp det dobj punct advmod det nsubj ROOT acomp cc conj punct
+det nsubj ROOT acomp punct cc advmod conj punct
+nsubj ROOT acomp mark det nsubj prep det pobj ccomp det dobj prep cc conj prep amod pobj punct
+amod punct amod ROOT punct
+ nsubj ROOT acomp cc conj
+det nsubj ROOT acomp punct
+intj punct det nsubj ROOT advmod acomp dobj neg advmod advmod punct
+mark nsubj advcl poss nsubj ROOT cc det nsubj conj advmod advmod acomp ROOT mark nsubj advcl aux xcomp advmod advmod nummod compound compound dobj advmod nsubj aux ROOT dobj advmod punct
+mark nsubj advcl poss nsubj ROOT cc det nsubj conj advmod advmod acomp ROOT mark nsubj advcl aux xcomp advmod advmod nummod compound compound dobj advmod nsubj aux ROOT dobj advmod punct
+amod nsubj advmod det compound ROOT punct
+amod nsubj advmod det compound ROOT punct
+ROOT advmod cc conj det npadvmod punct
+nsubj cc poss conj ROOT det amod attr nsubj aux relcl xcomp dobj punct
+ nsubj cc poss conj ROOT det amod attr nsubj aux relcl xcomp dobj
+det nsubj ROOT acomp cc det nsubj conj acomp punct
+prep amod amod pobj punct ROOT neg advmod prep pobj punct
+ROOT det compound dobj punct cc conj dobj prep det compound pobj punct nsubj ROOT dep acomp
+ROOT det compound dobj punct cc conj dobj prep det compound pobj punct nsubj ROOT dep acomp punct
+nsubj prep det pobj ROOT acomp punct
+det nsubj ROOT acomp punct cc attr punct
+det nsubj cc conj prep compound pobj ROOT det amod cc conj attr prep det advmod amod pobj punct
+det nsubj ROOT acomp cc conj punct
+ nsubj ROOT acomp cc nsubj conj acomp
+nsubj ROOT acomp cc nsubj conj acomp punct
+nsubj aux neg ROOT det dobj cc nsubj conj poss dobj cc conj dobj punct nsubj ROOT advmod acomp punct
+nsubj aux neg ROOT det dobj cc nsubj conj poss dobj cc conj dobj punct nsubj ROOT advmod acomp punct
+nsubj ROOT advmod det amod attr prep pobj cc conj punct
+prep det amod pobj punct nsubj aux ROOT prep det pobj prep pobj mark prep det amod pobj amod nsubj aux ccomp det amod amod punct prt amod attr prep det pobj punct
+det amod nsubj ROOT acomp punct conj punct cc conj det amod pobj amod punct prep det amod amod compound pobj punct neg prep mark nsubj pobj punct compound punct attr punct prep punct pobj punct nmod punct punct dobj ROOT punct
+det nsubj ROOT acomp punct advmod poss amod punct prep punct pobj appos prep amod amod pobj cc poss amod amod conj punct
+det nsubj ROOT acomp punct advmod poss amod punct prep punct pobj appos prep amod amod pobj cc poss amod amod conj punct
+det nsubj ROOT acomp punct advmod poss amod punct prep punct pobj appos prep amod amod pobj cc poss amod amod conj punct
+cc det amod nsubj prep pobj ROOT det amod compound attr punct advmod amod prep det pobj punct
+nsubj aux ROOT det advmod amod dobj prep det pobj punct nsubj parataxis advmod compound nummod attr punct prep nmod pobj punct nsubj parataxis det compound dobj punct npadvmod punct punct prep det amod pobj acl prep amod pobj punct
+nsubj aux ROOT det advmod amod dobj prep det pobj punct nsubj parataxis advmod compound nummod attr punct prep nmod pobj punct nsubj parataxis det compound dobj punct npadvmod punct punct prep det amod pobj acl prep amod pobj punct
+nsubj aux ROOT det advmod amod dobj prep det pobj punct nsubj parataxis advmod compound nummod attr punct prep nmod pobj punct nsubj parataxis det compound dobj punct npadvmod punct punct prep det amod pobj acl prep amod pobj punct
+nsubj aux ROOT det advmod amod dobj prep det pobj punct nsubj parataxis advmod compound nummod attr punct prep nmod pobj punct nsubj parataxis det compound dobj punct npadvmod punct punct prep det amod pobj acl prep amod pobj punct
+det nmod punct pobj compound nsubj prep compound pobj ROOT advmod amod dobj prep pobj punct cc advmod punct conj dobj punct
+nsubj aux neg ROOT advmod prep det pobj punct
+ nsubj ROOT det amod attr dobj nsubj advmod relcl poss dobj punct appos punct advmod
+poss nsubj ROOT acomp cc det conj mark compound nsubj acl acomp cc poss nsubj conj advmod acomp punct conj nsubj ccomp advmod prep pobj advmod cc conj punct
+poss nsubj ROOT acomp cc det conj mark compound nsubj acl acomp cc poss nsubj conj advmod acomp punct conj nsubj ccomp advmod prep pobj advmod cc conj punct
+nsubj ROOT poss dobj
+ nsubj prep nmod cc conj cc conj pobj ROOT det attr
+nsubj aux ROOT advmod prep pobj advmod punct
+ROOT npadvmod punct pobj advmod prep det pobj punct det amod appos prep pobj punct punct punct punct
+nsubj aux neg ROOT det amod dobj acl prep det pobj punct
+nsubj aux neg ROOT amod amod dobj prep pobj prep det pobj punct
+prep det pobj prep det amod nummod pobj punct det nsubj cc conj ROOT cc nsubj conj neg prep det pobj punct
+prep det pobj prep det amod nummod pobj punct det nsubj cc conj ROOT cc nsubj conj neg prep det pobj punct
+det nsubj advmod ROOT acomp punct
+nsubj ROOT det attr prep pobj nsubj aux relcl aux xcomp predet poss dobj prep cc advmod conj det dobj punct
+det nsubj ROOT acomp cc conj punct
+det nsubj ROOT acomp punct
+mark nsubj aux advcl punct advcl det amod dobj prep pobj punct nsubj ROOT acomp punct
+aux neg ROOT det nsubj ccomp dobj punct neg advmod dobj det nsubj ccomp punct
+det nsubj prep det compound pobj punct mark advcl agent compound pobj punct ROOT acomp npadvmod punct
+det nsubj advmod ROOT acomp prep compound pobj punct cc mark nsubj aux neg advcl xcomp dobj cc mark det amod amod compound compound nsubj advcl neg poss attr punct nsubj conj det attr punct prep pobj punct pobj punct
+det nsubj advmod ROOT acomp prep compound pobj punct cc mark nsubj aux neg advcl xcomp dobj cc mark det amod amod compound compound nsubj advcl neg poss attr punct nsubj conj det attr punct prep pobj punct pobj punct
+quantmod amod nsubj punct ROOT det compound dobj punct compound compound conj cc compound conj punct
+quantmod amod nsubj punct ROOT det compound dobj punct compound compound conj cc compound conj punct
+quantmod amod nsubj punct ROOT det compound dobj punct compound compound conj cc compound conj punct
+det nsubj ROOT acomp punct
+nsubj ROOT aux xcomp prep pobj prep det pobj punct det amod compound appos prep amod pobj punct nsubj relcl acomp punct
+det nsubj ROOT acomp cc det nsubj conj acomp punct
+det nsubj ROOT acomp cc det nsubj conj acomp punct
+det nsubj ROOT det npadvmod acomp cc nsubj conj attr nsubjpass aux auxpass relcl mark nsubj advcl prt cc conj det amod dobj
+det nsubj ROOT det npadvmod acomp cc nsubj conj attr nsubjpass aux auxpass relcl mark nsubj advcl prt cc conj det amod dobj
+det amod nsubj ROOT det amod amod dobj cc amod compound conj punct
+det amod nsubj ROOT det amod amod dobj cc amod compound conj punct
+det nsubj nsubj relcl dobj ccomp acomp punct advmod det compound nsubj ROOT advmod advmod acomp punct
+det nsubj nsubj relcl dobj ccomp acomp punct advmod det compound nsubj ROOT advmod advmod acomp punct
+aux ROOT prep compound pobj amod npadvmod punct cc nsubj conj advmod acomp punct
+det amod nsubj ROOT acomp punct
+advmod det amod amod ROOT punct
+det nsubj aux auxpass advmod advmod advmod ROOT prep auxpass pcomp agent det pobj nsubj advmod relcl compound dobj punct
+amod punct amod pobj punct ROOT aux auxpass xcomp punct prt punct
+amod ROOT punct advmod advmod advmod prep prep det pobj punct
+ ROOT cc nsubj conj acomp punct advmod det npadvmod acomp
+nsubj cc conj ROOT acomp punct advmod det npadvmod acomp punct
+ ROOT cc nsubj conj acomp punct advmod det npadvmod acomp
+nsubj cc conj ROOT acomp punct advmod det npadvmod acomp punct
+ nsubj ROOT acomp cc conj
+det nsubj ccomp acomp advmod advmod punct cc det conj punct intj punct nsubj conj det attr prep pobj punct nsubj aux ccomp nsubj aux ccomp det amod attr punct nsubj ROOT nsubj ccomp advmod acomp punct
+det nsubj ccomp acomp advmod advmod punct cc det conj punct intj punct nsubj conj det attr prep pobj punct nsubj aux ccomp nsubj aux ccomp det amod attr punct nsubj ROOT nsubj ccomp advmod acomp punct
+ nsubj ROOT det amod attr punct cc nsubj conj attr amod
+cc prep amod pobj punct compound nsubj ROOT det amod attr nsubj case appos acl amod dobj
+nsubj aux ROOT det compound dobj punct
+det nsubj ROOT det det amod dobj cc det amod conj aux relcl nsubj ccomp prep det pobj cc det conj prep det amod pobj punct
+det nsubj ROOT det det amod dobj cc det amod conj aux relcl nsubj ccomp prep det pobj cc det conj prep det amod pobj punct
+amod ROOT punct amod conj punct amod appos punct
+amod ROOT punct amod conj punct amod appos punct
+mark nsubj aux advcl prep det amod pobj punct amod appos punct nsubj ROOT det attr punct
+nsubj ROOT det amod attr aux relcl det amod amod dobj punct
+nsubj advmod ROOT det amod cc conj dobj nsubj relcl det nsubj ccomp dative det pobj punct
+advmod nsubj ROOT acomp aux xcomp dobj prep det advmod amod cc conj pobj punct det dep nsubj relcl advmod acomp punct nsubj ROOT advmod advmod mark nsubj neg ccomp aux xcomp det nmod dobj
+advmod nsubj ROOT acomp aux xcomp dobj prep det advmod amod cc conj pobj punct det dep nsubj relcl advmod acomp punct nsubj ROOT advmod advmod mark nsubj neg ccomp aux xcomp det dobj
+poss nsubj ROOT acomp punct cc nsubj conj det npadvmod acomp punct cc neg advmod det punct amod punct compound conj punct
+amod nsubj ROOT det amod punct amod dobj punct
+ROOT punct nsubj acl acomp cc nsubj aux neg conj punct
+det nsubj ROOT advmod acomp punct punct
+det amod nsubj ROOT nsubj ccomp mark nsubj advcl det attr nsubj punct aux advmod ROOT punct
+det nsubj ccomp acomp advmod acomp prep pobj punct det nsubj ROOT acomp punct punct
+det nsubj ccomp acomp advmod acomp prep pobj punct det nsubj ROOT acomp punct punct
+det nsubj ROOT acomp punct
+det nsubj appos ROOT acomp det compound nsubj conj aux aux xcomp punct
+det nsubj appos ROOT acomp det compound nsubj conj aux aux xcomp punct
+compound ROOT nummod punct amod dep punct nsubj ccomp acomp punct nsubj ROOT dative amod dobj punct conj det compound nsubj ccomp amod dobj punct
+compound ROOT nummod punct amod dep punct nsubj ccomp acomp punct nsubj ROOT dative amod dobj punct conj det compound nsubj ccomp amod dobj punct
+compound ROOT nummod punct amod dep punct nsubj ccomp acomp punct nsubj ROOT dative amod dobj punct conj det compound nsubj ccomp amod dobj punct
+amod ROOT prep amod pobj punct nsubj ccomp dobj punct parataxis advmod acomp punct nsubj aux attr punct nsubj ROOT acomp punct
+amod ROOT prep amod pobj punct nsubj ccomp dobj punct parataxis advmod acomp punct nsubj aux attr punct nsubj ROOT acomp punct
+amod ROOT prep amod pobj punct nsubj ccomp dobj punct parataxis advmod acomp punct nsubj aux attr punct nsubj ROOT acomp punct
+ nsubj ccomp det attr punct aux
+compound ROOT cc amod conj punct nsubjpass auxpass parataxis det dobj cc nsubj aux neg conj prep pobj prep pobj advmod det nsubj advcl det acomp punct
+det nsubj ccomp det nsubj ccomp punct neg advmod prep pobj prep det pobj nsubj relcl acomp punct det nsubj advmod aux ROOT advmod punct advmod amod amod compound dobj punct
+det nsubj ccomp det nsubj ccomp punct neg advmod prep pobj prep det pobj nsubj relcl acomp punct det nsubj advmod aux ROOT advmod punct advmod amod amod compound dobj punct
+det nsubj ccomp det nsubj ccomp punct neg advmod prep pobj prep det pobj nsubj relcl acomp punct det nsubj advmod aux ROOT advmod punct advmod amod amod compound dobj punct
+det subtok subtok nsubj ROOT acomp punct advmod det appos punct mark advcl det amod compound nsubj punct
+det subtok subtok nsubj ROOT acomp punct advmod det appos punct mark advcl det amod compound nsubj punct
+det subtok subtok nsubj ROOT acomp punct advmod det appos punct mark advcl det amod compound nsubj punct
+det compound nsubj ROOT acomp cc aux advmod conj prt det advmod advmod amod dobj punct
+det compound nsubj ROOT acomp cc aux advmod conj prt det advmod advmod amod dobj punct
+advmod punct det nsubj prep det pobj ROOT advmod punct acomp agent det npadvmod punct dobj punct amod pobj prep pobj nsubj relcl attr prep det pobj punct
+amod ROOT punct
+ amod nsubj ROOT det amod amod attr aux advmod relcl det dobj aux relcl
+amod ROOT punct amod conj punct amod conj punct
+amod ROOT punct amod conj punct amod conj punct
+amod ROOT punct amod conj punct amod conj punct
+nsubj ROOT det amod attr prep pcomp dobj punct conj dobj punct conj punct subtok subtok punct cc nmod punct pobj conj punct
+punct advmod ROOT det dobj prep det amod pobj punct punct punct
+amod nsubj prep pobj ROOT dobj prep subtok subtok pobj cc conj dobj nsubj aux neg relcl prep det pobj punct
+nsubj aux aux ROOT dobj prep det pobj prep det compound pobj prep quantmod nummod pobj advmod cc nsubjpass aux neg auxpass conj punct
+det det amod ROOT punct
+neg det amod compound compound compound ROOT punct
+det amod ROOT prep amod pobj punct cc conj prep amod pobj punct
+det amod ROOT prep amod pobj punct cc conj prep amod pobj punct
+det amod ROOT prep amod pobj punct cc conj prep amod pobj punct
+det compound nsubj ROOT acomp cc det nsubj conj acomp punct
+det compound nsubj ROOT acomp cc det nsubj conj acomp punct
+mark nsubj ROOT prt det pobj prep pobj cc aux neg conj aux xcomp det amod amod dobj punct conj prep pobj punct
+det amod nsubj advmod amod prep det pobj punct nsubj relcl acomp punct ROOT det attr punct
+det amod nsubj advmod amod prep det pobj punct nsubj relcl acomp punct ROOT det attr punct
+det amod nsubj det nsubj aux neg relcl prep pobj ROOT acomp poss dobj advmod nsubj advcl punct
+amod ROOT advmod prep advmod quantmod nummod pobj advmod advmod punct
+ nsubj ROOT advmod acomp cc advmod conj
+ nsubj ROOT advmod acomp punct cc neg dobj nsubj aux conj prep prep det pobj
+advmod acomp det nsubj ROOT neg prep det amod pobj punct
+det compound compound compound nsubj ccomp acomp punct advmod ROOT det compound nsubj punct
+det compound compound compound nsubj ccomp acomp punct advmod ROOT det compound nsubj punct
+cc nsubj ROOT neg det attr prep det pobj punct det appos nsubj relcl dobj nsubj aux advmod relcl punct
+nsubj advmod ROOT det dobj punct
+det nsubj ROOT det amod amod compound compound dobj prep det pobj punct
+nsubj advmod ROOT det compound dobj cc det amod conj prep pobj punct compound pobj punct punct
+nsubj advmod ROOT det compound dobj cc det amod conj prep pobj punct compound pobj punct punct
+nsubj ROOT advmod neg det attr aux relcl mark nsubj advcl aux xcomp dobj punct
+advmod punct mark nsubj advcl amod dobj prep det amod pobj cc aux neg conj det dobj punct nsubj aux neg ROOT det dobj punct
+advmod punct mark nsubj advcl amod dobj prep det amod pobj cc aux neg conj det dobj punct nsubj aux neg ROOT det dobj punct
+advmod punct mark nsubj advcl amod dobj prep det amod pobj cc aux neg conj det dobj punct nsubj aux neg ROOT det dobj punct
+amod cc conj ROOT punct
+advmod nsubj aux advcl prep poss amod compound pobj punct nsubj relcl det amod punct npadvmod punct amod amod dobj punct nsubj aux neg ROOT expl ccomp det attr advmod punct
+advmod nsubj aux advcl prep poss amod compound pobj punct nsubj relcl det amod punct npadvmod punct amod amod dobj punct nsubj aux neg ROOT expl ccomp det attr advmod punct
+det nsubj ROOT acomp punct conj cc conj punct cc det nsubj conj acomp cc conj punct
+det nsubj ROOT acomp punct conj cc conj punct cc det nsubj conj acomp cc conj punct
+nsubj aux neg ROOT prep pobj punct advmod nsubj advcl advmod prep poss amod pobj punct
+nsubj advmod ROOT dobj cc nsubj conj mark nsubj ccomp acomp punct
+det amod nsubj advmod ROOT poss dobj cc nsubj advmod conj det dobj prep pobj prep poss pobj punct
+det amod nsubj advmod ROOT poss dobj cc nsubj advmod conj det dobj prep pobj prep poss pobj punct
+det amod nsubj advmod ROOT poss dobj cc nsubj advmod conj det dobj prep pobj prep poss pobj punct
+det nsubj ROOT acomp cc conj cc det nsubj conj advmod acomp cc nsubj conj det amod amod dobj aux relcl prep poss pobj punct
+det nsubj ROOT acomp cc conj cc det nsubj conj advmod acomp cc nsubj conj det amod amod dobj aux relcl prep poss pobj punct
+det nsubj ROOT acomp cc conj cc det nsubj conj advmod acomp cc nsubj conj det amod amod dobj aux relcl prep poss pobj punct
+amod ROOT punct
+amod ROOT punct
+nsubj aux neg ROOT dobj prep pobj punct
+amod ROOT punct mark advcl prep det pobj prep pobj cc amod conj punct
+ROOT cc conj prep det nmod cc conj amod pobj prep det amod pobj punct
+det nsubj ROOT acomp cc nsubj conj det amod dobj prep pobj prep amod pobj punct
+det nsubj ROOT acomp cc nsubj conj det amod dobj prep pobj prep amod pobj punct
+mark det nsubj cc conj advcl acomp punct det nsubj cc conj aux aux ROOT det npadvmod acomp punct
+mark det nsubj cc conj advcl acomp punct det nsubj cc conj aux aux ROOT det npadvmod acomp punct
+mark det nsubj cc conj advcl acomp punct det nsubj cc conj aux aux ROOT det npadvmod acomp punct
+mark det nsubj cc conj advcl acomp punct det nsubj cc conj aux aux ROOT det npadvmod acomp punct
+nsubj ROOT det compound dobj punct cc dobj nsubj csubj conj quantmod nummod amod attr prep pobj punct det amod appos cc conj det pobj punct
+nsubj punct aux ROOT aux xcomp advmod cc det conj det nsubj conj acomp punct mark neg advcl
+ROOT prep det pobj punct conj punct cc compound conj punct
+ROOT prep det pobj punct conj punct cc compound conj punct
+ROOT prep det pobj punct conj punct cc compound conj punct
+ nsubj ROOT acomp punct cc neg conj det dobj acl prep cc conj det dobj
+ROOT dobj punct
+advmod amod ROOT advmod punct
+aux neg ROOT dobj case prep poss amod pobj aux xcomp punct
+nsubj ROOT det amod attr nsubj relcl prep poss amod pobj prep amod pobj punct cc nsubj aux conj det amod nmod attr nsubj relcl mark nsubj advcl prep prep pobj prep poss amod pobj prep amod pobj punct
+nsubj ROOT case prep det amod pobj punct
+det nsubj ccomp neg acomp punct det nsubj ROOT acomp cc advmod conj punct
+det nsubj ccomp neg acomp punct det nsubj ROOT acomp cc advmod conj punct
+ nsubj ROOT det amod attr
+ nsubj ROOT acomp punct cc nsubj ROOT aux xcomp mark nsubj ccomp dobj det npadvmod amod
+neg amod ROOT prep det pobj advmod punct
+ nsubj punct advmod punct ROOT acomp punct cc nsubj conj det nmod punct dobj det npadvmod
+nsubj punct advmod punct ROOT acomp punct cc nsubj conj det nmod punct dobj det npadvmod punct
+ nsubj ccomp advmod acomp punct mark nsubj advcl det dobj advmod det npadvmod punct nsubj aux ROOT det amod attr
+det nsubj ROOT det amod attr punct
+amod compound ROOT punct
+ nsubj ROOT advmod acomp
+aux neg ROOT dobj prep pobj punct
+advmod advmod advmod amod punct amod ROOT punct
+ acomp ROOT acomp oprd
+det amod compound ROOT nsubj punct aux advmod ROOT
+det nsubj cc conj ROOT advmod advmod acomp punct
+det nsubj cc conj ROOT advmod advmod acomp punct
+ nsubj prep pobj ROOT acomp cc conj
+det nsubj ROOT advmod acomp punct
+det nsubj ccomp det amod attr nsubj punct auxpass advmod relcl punct det nsubj ccomp acomp punct det compound compound nsubj aux conj det compound dobj punct det amod compound nsubj ROOT dobj prep pobj punct nsubj ROOT acomp
+det nsubj ccomp det amod attr nsubj punct auxpass advmod relcl punct det nsubj ccomp acomp punct det compound compound nsubj aux conj det compound dobj punct det amod compound nsubj ROOT dobj prep pobj punct nsubj ROOT acomp
+det nsubj ccomp det amod attr nsubj punct auxpass advmod relcl punct det nsubj ccomp acomp punct det compound compound nsubj aux conj det compound dobj punct det amod compound nsubj ROOT dobj prep pobj punct nsubj ROOT acomp
+det nsubj ccomp det amod attr nsubj punct auxpass advmod relcl punct det nsubj ccomp acomp punct det compound compound nsubj aux conj det compound dobj punct det amod compound nsubj ROOT dobj prep pobj punct nsubj ROOT acomp
+amod dep punct det nsubj ROOT advmod acomp cc det nsubj conj acomp punct
+amod dep punct det nsubj ROOT advmod acomp cc det nsubj conj acomp punct
+amod dep punct det nsubj ROOT advmod acomp cc det nsubj conj acomp punct
+det nsubj ROOT dobj prep amod pobj prep det pobj punct
+det nsubj ROOT acomp punct amod npadvmod cc amod compound conj punct
+det nsubj ROOT acomp punct amod npadvmod cc amod compound conj punct
+det nsubj ROOT acomp punct amod npadvmod cc amod compound conj punct
+advmod prep pobj ccomp det amod attr punct det nsubj ROOT advmod acomp cc nsubj conj acomp punct
+advmod prep pobj ccomp det amod attr punct det nsubj ROOT advmod acomp cc nsubj conj acomp punct
+advmod prep pobj ccomp det amod attr punct det nsubj ROOT advmod acomp cc nsubj conj acomp punct
+ROOT advmod prep det pobj punct
+det nsubj ROOT acomp cc advmod conj prep nummod pobj punct
+ROOT prep pobj punct det amod appos prep pobj punct
+poss nsubj ROOT det amod attr punct
+nsubj ROOT det amod attr aux relcl det amod dobj punct
+nsubj advmod ROOT det advmod amod dobj punct nmod punct appos punct
+amod ROOT punct conj punct conj cc det amod punct compound conj punct
+amod ROOT punct conj punct conj cc det amod punct compound conj punct
+amod ROOT punct conj punct conj cc det amod punct compound conj punct
+amod ROOT punct conj punct conj cc det amod punct compound conj punct
+ nsubj aux advmod ROOT acomp punct cc nsubj conj advmod det advmod amod attr
+det ROOT case advmod amod prep pcomp punct
+prep det pobj advmod acl prep amod amod pobj punct nsubj ROOT attr prep det amod pobj punct
+ROOT advmod amod npadvmod punct amod npadvmod punct amod conj punct cc det nsubj conj advmod acomp punct
+ROOT advmod amod npadvmod punct amod npadvmod punct amod conj punct cc det nsubj conj advmod acomp punct
+ROOT advmod amod npadvmod punct amod npadvmod punct amod conj punct cc det nsubj conj advmod acomp punct
+det nsubj ROOT acomp punct mark nsubj aux conj acomp aux xcomp nummod dobj aux relcl punct advmod cc nummod conj cc conj prep pobj punct prep nummod pobj punct
+amod ROOT prep pobj cc amod amod conj prep pobj punct
+amod ROOT prep pobj cc amod amod conj prep pobj punct
+ compound compound nsubj ROOT acomp advmod advmod
+det nsubj ROOT acomp cc det nsubj conj acomp punct
+det nsubj ROOT acomp cc det nsubj conj acomp punct
+amod amod ROOT prep pobj punct
+nsubj aux ROOT aux xcomp case advmod nummod quantmod det amod nummod npadvmod cc nsubj conj xcomp acomp punct
+nsubj case ROOT det amod dobj cc conj prep pobj punct
+nsubj case ROOT det amod dobj cc conj prep pobj punct
+poss nsubj cc conj ROOT det dobj punct
+nsubj advmod ROOT aux xcomp det dobj punct cc prep poss pobj punct nsubj conj amod dobj punct amod mark nsubj advcl poss dobj prep pobj punct
+ nsubj ROOT advmod acomp cc conj
+det compound nsubj advmod ROOT acomp punct cc det nsubj conj acomp punct
+det compound nsubj advmod ROOT acomp punct cc det nsubj conj acomp punct
+ nsubj ROOT advmod acomp
+amod nsubj ROOT prep amod punct amod pobj punct
+amod nsubj ROOT prep amod punct amod pobj punct
+nsubj ROOT det nmod nummod nummod compound compound dobj punct det nsubj prep pobj relcl acomp punct
+det nsubj ROOT advmod acomp cc conj punct
+det nsubj ROOT acomp cc aux neg conj advmod prep det amod pobj punct
+det nsubj ROOT acomp cc conj mark det nsubj ccomp advmod acomp conj prt prep pobj punct
+det nsubj ROOT acomp cc conj mark det nsubj ccomp advmod acomp conj prt prep pobj punct
+nsubj aux ROOT det compound dobj nsubj relcl prep prep det pobj cc det compound nsubj conj prep pobj punct
+nsubj aux ROOT det compound dobj nsubj relcl prep prep det pobj cc det compound nsubj conj prep pobj punct
+det nsubj expl ROOT advmod acomp cc conj prep pobj punct
+amod amod nsubj cc det conj ROOT acomp punct
+amod amod nsubj cc det conj ROOT acomp punct
+det nsubj advmod ROOT prep det poss pobj punct
+amod nsubj cc det conj ROOT advmod acomp punct
+det nsubj advmod ROOT det amod dobj prep det pobj punct appos nsubj relcl punct punct punct
+nsubj ROOT prep pobj prep det compound pobj prep det compound pobj prep compound pobj cc conj prep amod compound pobj punct
+det nsubj ROOT poss attr cc nsubj advmod conj dobj advmod nsubj advcl advmod cc neg conj acomp prep pobj punct
+ROOT det dobj cc det conj prep advmod amod pobj nsubj ccomp oprd compound ccomp punct det amod cc conj compound oprd punct
+ROOT det dobj cc det conj prep advmod amod pobj nsubj ccomp oprd compound ccomp punct det amod cc conj compound oprd punct
+advmod det amod amod amod ROOT prep amod pobj punct
+ nsubj ROOT neg dobj nsubj aux ccomp advmod prep
+ amod nsubj ROOT det amod attr aux relcl cc conj poss dobj
+attr det compound nsubj advcl punct nsubj ROOT prep pobj punct
+amod ROOT punct amod conj punct amod npadvmod amod conj punct
+amod ROOT punct amod conj punct amod npadvmod amod conj punct
+amod ROOT punct amod conj punct amod npadvmod amod conj punct
+advmod det nsubj prep det pobj ROOT acomp punct
+advmod amod amod ROOT punct
+advmod amod nsubj cc conj ROOT advmod acomp punct
+advmod amod nsubj cc conj ROOT advmod acomp punct
+ nsubj ROOT acomp cc conj advmod
+det amod ROOT aux relcl prt prep det pobj cc conj punct
+ nsubj punct compound appos punct ROOT acomp advmod
+mark nsubj aux neg advcl subtok subtok amod amod compound dobj punct amod conj cc det amod conj nsubj relcl mark nsubj advcl acomp advmod nsubj ROOT poss attr punct
+mark nsubj aux neg advcl subtok subtok amod amod compound dobj punct amod conj cc det amod conj nsubj relcl mark nsubj advcl acomp advmod nsubj ROOT poss attr punct
+mark nsubj aux neg advcl subtok subtok amod amod compound dobj punct amod conj cc det amod conj nsubj relcl mark nsubj advcl acomp advmod nsubj ROOT poss attr punct
+nsubj cc conj prep pobj advmod aux ROOT dobj prep pcomp det compound dobj punct
+aux neg ROOT aux xcomp cc nsubj ROOT acomp punct mark advcl prep det amod compound pobj nsubj ccomp det nsubj advmod ccomp det dobj prep pobj prep det pobj cc prep pcomp dobj prep det pobj conj aux xcomp det dobj prep det compound pobj nsubj aux relcl punct
+det nsubj punct nsubj relcl advmod quantmod nummod npadvmod acomp punct ROOT advmod poss case amod attr punct
+amod nsubj punct ROOT nsubj ccomp mark nsubj advcl prep det amod amod pobj punct advmod advmod amod attr punct advmod punct amod punct advmod amod conj punct cc mark nsubj advcl det attr punct cc conj dobj prep poss pobj prep pobj punct compound nsubj aux conj nsubj ccomp prep pobj punct advmod nmod punct npadvmod punct amod compound dobj prep det amod pobj cc amod conj punct advmod prep compound pobj punct
+amod nsubj punct ROOT nsubj ccomp mark nsubj advcl prep det amod amod pobj punct advmod advmod amod attr punct advmod punct amod punct advmod amod conj punct cc mark nsubj advcl det attr punct cc conj dobj prep poss pobj prep pobj punct compound nsubj aux conj nsubj ccomp prep pobj punct advmod nmod punct npadvmod punct amod compound dobj prep det amod pobj cc amod conj punct advmod prep compound pobj punct
+amod nsubj punct ROOT nsubj ccomp mark nsubj advcl prep det amod amod pobj punct advmod advmod amod attr punct advmod punct amod punct advmod amod conj punct cc mark nsubj advcl det attr punct cc conj dobj prep poss pobj prep pobj punct compound nsubj aux conj nsubj ccomp prep pobj punct advmod nmod punct npadvmod punct amod compound dobj prep det amod pobj cc amod conj punct advmod prep compound pobj punct
+amod nsubj punct ROOT nsubj ccomp mark nsubj advcl prep det amod amod pobj punct advmod advmod amod attr punct advmod punct amod punct advmod amod conj punct cc mark nsubj advcl det attr punct cc conj dobj prep poss pobj prep pobj punct compound nsubj aux conj nsubj ccomp prep pobj punct advmod nmod punct npadvmod punct amod compound dobj prep det amod pobj cc amod conj punct advmod prep compound pobj punct
+nsubjpass auxpass ROOT advmod cc det amod amod amod conj cc amod conj prep pobj cc poss conj punct
+nsubj aux ccomp nsubj aux ccomp det dobj cc amod conj punct advmod punct nsubj ccomp det amod dobj aux neg advmod ROOT poss dobj prep nummod pobj cc conj dative dobj advmod nsubj advcl dobj aux xcomp advmod punct
+prep advmod amod amod pobj prep det pobj punct nsubj aux neg ROOT amod dobj punct amod amod compound punct appos nsubj aux neg relcl nsubj ccomp prep det amod pobj punct amod conj punct cc conj nsubj aux neg relcl punct
+prep advmod amod amod pobj prep det pobj punct nsubj aux neg ROOT amod dobj punct amod amod compound punct appos nsubj aux neg relcl nsubj ccomp prep det amod pobj punct amod conj punct cc conj nsubj aux neg relcl punct
+prep advmod amod amod pobj prep det pobj punct nsubj aux neg ROOT amod dobj punct amod amod compound punct appos nsubj aux neg relcl nsubj ccomp prep det amod pobj punct amod conj punct cc conj nsubj aux neg relcl punct
+prep advmod amod amod pobj prep det pobj punct nsubj aux neg ROOT amod dobj punct amod amod compound punct appos nsubj aux neg relcl nsubj ccomp prep det amod pobj punct amod conj punct cc conj nsubj aux neg relcl punct
+nsubj ROOT advmod acomp prep det pobj cc conj xcomp det dobj prep pobj cc auxpass conj prep det pobj cc nsubj conj det nsubjpass auxpass ccomp cc conj det amod pobj punct
+nsubj ROOT advmod acomp prep det pobj cc conj xcomp det dobj prep pobj cc auxpass conj prep det pobj cc nsubj conj det nsubjpass auxpass ccomp cc conj det amod pobj punct
+det nsubj ROOT acomp cc det nsubj advmod conj acomp punct
+nsubj case ROOT amod dobj cc det amod conj prep amod pobj punct
+nsubj case ROOT amod dobj cc det amod conj prep amod pobj punct
+ nsubj case ROOT amod dobj cc det amod conj prep amod pobj
+det amod nsubj ROOT mark det nsubj ccomp det amod attr punct
+nsubj ROOT compound dobj cc conj det dobj punct
+expl ROOT det attr prep amod amod pobj punct
+nsubj aux neg advmod ROOT nummod dobj prep advmod amod pobj punct
+nmod nsubjpass prep pobj nsubj aux relcl dobj aux neg auxpass ROOT punct
+nsubj ROOT aux advcl prep det compound pobj prep pobj prep poss pobj punct cc conj nummod amod dobj advmod punct
+nsubj prep det pobj ROOT advmod acomp punct conj cc advmod conj punct
+det nsubj ROOT advmod acomp cc conj punct nsubj conj acomp cc det nsubj conj acomp punct
+det nsubj ROOT advmod acomp cc conj punct nsubj conj acomp cc det nsubj conj acomp punct
+det nsubj ROOT advmod acomp cc conj punct nsubj conj acomp cc det nsubj conj acomp punct
+ nsubj ROOT acomp cc det nsubj prep det amod compound compound pobj conj acomp advmod prep det amod amod pobj prep pobj prep advmod nsubj pcomp
+nsubj ROOT acomp cc det nsubj prep det amod compound compound pobj conj acomp advmod prep det amod amod pobj prep pobj prep advmod nsubj pcomp punct
+mark nsubj ROOT det dobj det dobj prep pobj aux nsubj ccomp dobj det nsubj relcl acomp cc advmod advmod conj aux xcomp aux advcl punct
+mark nsubj ROOT det dobj det dobj prep pobj aux nsubj ccomp dobj det nsubj relcl acomp cc advmod advmod conj aux xcomp aux advcl punct
+det nsubj ROOT acomp punct
+ amod nsubj ROOT det amod attr prep det amod pobj
+expl ccomp det attr mark nsubj aux advcl prt punct det compound nsubj ROOT amod dobj punct
+neg aux nsubj ROOT amod amod compound dobj punct det appos prep pobj cc conj cc conj prep pobj meta punct ROOT nsubj relcl prep det pobj punct nsubj advmod relcl oprd prep poss pobj punct
+ROOT det dobj advmod npadvmod det nsubj ROOT det dobj cc amod conj prep pobj punct advmod amod punct nsubj advmod punct
+ROOT det dobj advmod npadvmod det nsubj ROOT det dobj cc amod conj prep pobj punct advmod amod punct nsubj advmod punct
+ROOT det dobj advmod npadvmod det nsubj ROOT det dobj cc amod conj prep pobj punct advmod amod punct nsubj advmod punct
+det nsubj ROOT advmod acomp cc conj punct
+nsubj ROOT attr cc conj det compound nsubj ccomp det compound dobj nsubj relcl advmod amod attr punct det ROOT prep pobj advmod punct
+det compound nsubj ROOT advmod amod attr punct acomp nsubj ccomp det amod dobj aux relcl punct acomp prep pcomp cc nsubj aux ROOT mark nsubj ccomp acomp prep det pobj prep pobj cc conj aux relcl punct pobj punct ccomp det amod dobj advmod ROOT auxpass ccomp punct ROOT
+ compound nsubj ROOT advmod punct cc nsubj conj nsubj aux ccomp dobj det npadvmod
+amod ROOT punct amod appos punct compound amod punct compound conj punct
+amod ROOT punct amod appos punct compound amod punct compound conj punct
+amod ROOT punct amod appos punct compound amod punct compound conj punct
+amod ROOT punct amod appos punct compound amod punct compound conj punct
+nsubj ROOT dobj prep det amod pobj punct det amod appos aux relcl prt punct
+nsubj ROOT amod dobj prep det pobj punct
+det nsubj ROOT dobj advmod punct prep pcomp poss amod amod pobj prep det amod pobj punct
+det compound nsubj ROOT acomp cc conj punct
+advcl det dobj punct ROOT mark nsubj advcl prep pobj punct
+det nsubj ROOT acomp cc advmod aux det nsubj punct advmod conj aux xcomp advmod advmod advmod punct
+det nsubj ROOT acomp cc advmod aux det nsubj punct advmod conj aux xcomp advmod advmod advmod punct
+nsubj aux aux ROOT advmod prep pobj cc conj dobj prep amod pobj aux relcl prep det pobj cc det amod conj advmod advmod amod punct
+nsubj aux aux ROOT advmod prep pobj cc conj dobj prep amod pobj aux relcl prep det pobj cc det amod conj advmod advmod amod punct
+prep det pobj det nsubj punct conj punct cc poss conj punct aux advmod ccomp dobj prep pobj punct mark prep predet det pobj det neg punct advmod punct amod nsubj relcl punct nsubj advcl nsubj ROOT advmod acomp aux xcomp det amod cc neg punct advmod punct conj dobj punct
+prep det pobj det nsubj punct conj punct cc poss conj punct aux advmod ccomp dobj prep pobj punct mark prep predet det pobj det neg punct advmod punct amod nsubj relcl punct nsubj advcl nsubj ROOT advmod acomp aux xcomp det amod cc neg punct advmod punct conj dobj punct
+nsubj punct aux advmod ROOT acomp prep predet det amod pobj prep det amod amod pobj punct det amod compound appos punct det advmod amod compound appos punct det amod amod compound conj punct cc advmod det amod conj nsubj relcl aux xcomp prep punct nsubj parataxis neg poss amod attr punct
+nsubj punct aux advmod ROOT acomp prep predet det amod pobj prep det amod amod pobj punct det amod compound appos punct det advmod amod compound appos punct det amod amod compound conj punct cc advmod det amod conj nsubj relcl aux xcomp prep punct nsubj parataxis neg poss amod attr punct
+nsubj punct aux advmod ROOT acomp prep predet det amod pobj prep det amod amod pobj punct det amod compound appos punct det advmod amod compound appos punct det amod amod compound conj punct cc advmod det amod conj nsubj relcl aux xcomp prep punct nsubj parataxis neg poss amod attr punct
+nsubj punct aux advmod ROOT acomp prep predet det amod pobj prep det amod amod pobj punct det amod compound appos punct det advmod amod compound appos punct det amod amod compound conj punct cc advmod det amod conj nsubj relcl aux xcomp prep punct nsubj parataxis neg poss amod attr punct
+nsubj ROOT det dobj punct
+nsubj ROOT aux xcomp nsubj aux neg ccomp det amod dobj advmod punct
+nsubj aux aux ROOT det dobj prep det compound pobj prep det amod pobj punct
+advmod nsubj ROOT dobj prep det amod pobj punct compound conj cc amod conj punct
+advmod nsubj ROOT dobj prep det amod pobj punct compound conj cc amod conj punct
+advmod nsubj ROOT dobj prep det amod pobj punct compound conj cc amod conj punct
+ROOT compound dobj dobj
+nsubj ROOT det dobj dative pobj punct
+amod ROOT punct
+det nsubj ROOT acomp punct det nsubj punct advmod det appos punct conj acomp cc det amod nsubj conj acomp punct
+det nsubj ROOT acomp punct det nsubj punct advmod det appos punct conj acomp cc det amod nsubj conj acomp punct
+det nsubj ROOT acomp punct det nsubj punct advmod det appos punct conj acomp cc det amod nsubj conj acomp punct
+det nsubj ROOT acomp punct det nsubj punct advmod det appos punct conj acomp cc det amod nsubj conj acomp punct
+det nsubj advmod ROOT acomp advmod advmod punct
+nsubj ROOT advmod acomp nsubj cc conj ccomp advmod quantmod attr punct
+amod ROOT punct
+det amod amod ROOT punct cc det amod nmod amod conj punct
+det amod amod ROOT punct cc det amod nmod amod conj punct
+det amod nsubj ROOT det dobj acl prep pobj punct
+cc det amod nsubj advmod nsubj advmod relcl ROOT det amod attr punct
+amod amod ROOT punct
+nsubj aux ROOT amod compound dobj prep det pobj cc nsubj conj dobj advmod oprd cc conj dobj punct
+nsubj ROOT poss amod dobj punct advmod advmod cc poss dobj punct
+nsubj ROOT poss amod dobj punct advmod advmod cc poss dobj punct
+nsubj ROOT amod punct nummod dobj punct nsubj conj acomp cc poss nsubj conj det dobj cc nsubj ROOT acomp oprd prep det amod compound pobj punct
+amod ROOT punct mark det nsubj aux advcl det dobj punct
+amod ROOT punct mark det nsubj aux advcl det dobj punct
+det compound nsubj advmod ROOT prep det pobj prep compound pobj punct prep nsubj pcomp aux xcomp attr punct
+nsubj ROOT advmod quantmod quantmod dobj prep det amod pobj punct advmod punct
+amod ROOT punct
+amod punct amod ROOT
+det nsubj ROOT advmod acomp cc det nsubj conj acomp cc conj punct
+det nsubj ROOT advmod acomp cc det nsubj conj acomp cc conj punct
+aux neg ROOT det dobj prep pobj advcl det amod dobj advmod punct
+ nsubj aux ROOT acomp prep cc conj xcomp prep det pobj cc det conj prep det pobj
+ compound nsubj advmod ROOT acomp mark nsubj aux neg advcl amod quantmod nummod npadvmod
+ROOT punct ROOT punct ROOT punct
+det nsubj aux ROOT dobj prep compound pobj punct
+amod nsubj punct cc det compound nsubj ROOT prep amod punct
+amod nsubj punct cc det compound nsubj ROOT prep amod punct
+det nsubj ROOT det npadvmod acomp advmod punct cc mark nsubj advcl advmod punct nsubj conj dep acomp npadvmod punct
+preconj advmod ROOT det nsubj
+det nsubj ccomp acomp punct det nsubj ROOT acomp cc det nsubj prep det pobj conj acomp punct
+det nsubj ccomp acomp punct det nsubj ROOT acomp cc det nsubj prep det pobj conj acomp punct
+det nsubj ccomp acomp punct det nsubj ROOT acomp cc det nsubj prep det pobj conj acomp punct
+amod ROOT aux relcl cc conj poss dobj
+expl ROOT attr prep poss pobj nsubj relcl nsubj ccomp advmod advmod nummod npadvmod punct
+ nsubj ROOT acomp prep amod punct det compound pobj
+amod dep punct poss nsubj ROOT det compound attr punct
+amod dep punct poss nsubj ROOT det compound attr punct
+amod ROOT prep amod pobj
+det amod nsubj ROOT advmod acomp cc conj punct
+det nsubjpass auxpass ROOT advmod auxpass conj aux xcomp quantmod quantmod nummod npadvmod punct nummod appos punct cc auxpass advmod conj advmod nsubj advcl det amod npadvmod punct amod dobj punct
+det nsubjpass auxpass ROOT advmod auxpass conj aux xcomp quantmod quantmod nummod npadvmod punct nummod appos punct cc auxpass advmod conj advmod nsubj advcl det amod npadvmod punct amod dobj punct
+poss amod nsubj ROOT
+nsubj ROOT poss compound nsubj aux advmod ccomp det dobj cc conj acomp advmod
+nsubj ROOT neg advmod acomp prep det pobj punct cc nsubj conj det compound attr prep amod pobj punct
+ nsubj ROOT acomp punct npadvmod amod
+poss advmod det compound ROOT aux relcl punct neg det nummod compound appos punct
+nsubj ROOT det nsubj ccomp advmod acomp cc conj prep pobj punct
+ROOT det dobj cc det nsubj conj acomp cc neg conj punct
+nsubj ROOT det dobj
+det nsubj ROOT acomp cc conj punct
+nsubj ROOT det nsubj ccomp acomp cc conj punct
+nsubj ROOT det compound compound dobj cc nsubj conj advmod acomp punct
+det nsubjpass cc det conj auxpass ROOT advmod punct
+det nsubjpass cc det conj auxpass ROOT advmod punct
+det compound nsubj ROOT neg acomp advmod advmod punct prep pobj nsubj ROOT acomp punct
+amod ROOT prep compound pobj prep pobj
+advmod amod nsubj punct aux advmod ccomp advmod aux xcomp amod dobj punct nsubj ccomp advmod acomp punct det nsubj ROOT neg acomp cc conj punct nsubj conj acomp xcomp prep pobj prep det pobj cc conj advmod advmod acomp prep predet det pobj punct
+advmod amod nsubj punct aux advmod ccomp advmod aux xcomp amod dobj punct nsubj ccomp advmod acomp punct det nsubj ROOT neg acomp cc conj punct nsubj conj acomp xcomp prep pobj prep det pobj cc conj advmod advmod acomp prep predet det pobj punct
+advmod amod nsubj punct aux advmod ccomp advmod aux xcomp amod dobj punct nsubj ccomp advmod acomp punct det nsubj ROOT neg acomp cc conj punct nsubj conj acomp xcomp prep pobj prep det pobj cc conj advmod advmod acomp prep predet det pobj punct
+advmod amod nsubj punct aux advmod ccomp advmod aux xcomp amod dobj punct nsubj ccomp advmod acomp punct det nsubj ROOT neg acomp cc conj punct nsubj conj acomp xcomp prep pobj prep det pobj cc conj advmod advmod acomp prep predet det pobj punct
+nsubj aux neg ROOT det dobj dative pobj advmod prep det amod pobj punct
+det nsubj ROOT advmod acomp punct
+ROOT amod dobj prep amod pobj
+ROOT amod dobj prep amod pobj
+ amod nsubj ROOT dobj cc conj prep pobj punct
+ nsubj ROOT amod acomp
+det nsubj ROOT neg acomp advmod advmod punct
+nsubj aux ROOT prep compound pobj prep pobj cc nsubj aux advmod conj punct
+neg mark nsubj ROOT punct det nummod attr punct punct advmod nsubjpass auxpass ROOT aux xcomp det dobj cc det conj prep det amod pobj punct
+det nsubj ccomp acomp advmod advmod cc conj punct advmod punct nsubj ROOT det nummod dobj advmod acl punct
+det nsubj ccomp acomp advmod advmod cc conj punct advmod punct nsubj ROOT det nummod dobj advmod acl punct
+det nsubj ccomp acomp advmod advmod cc conj punct advmod punct nsubj ROOT det nummod dobj advmod acl punct
+nsubj aux neg ROOT nsubj prep pobj aux ccomp nmod dobj advmod nsubjpass auxpass neg relcl prep poss pobj punct
+ amod compound ROOT punct poss amod appos aux relcl punct prep det compound pobj punct appos
+advmod ROOT prep pobj cc conj det amod compound dobj punct
+advmod ROOT prep pobj cc conj det amod compound dobj punct
+det compound nsubj ROOT advmod advmod punct
+amod ROOT prep pobj
+det amod dep prep compound pobj punct det nsubj ccomp advmod acomp punct det nsubj ROOT acomp punct conj cc conj punct
+det amod dep prep compound pobj punct det nsubj ccomp advmod acomp punct det nsubj ROOT acomp punct conj cc conj punct
+det amod dep prep compound pobj punct det nsubj ccomp advmod acomp punct det nsubj ROOT acomp punct conj cc conj punct
+prep det compound pobj punct det compound compound nsubj ROOT advmod acomp punct
+det nsubj ROOT acomp cc nsubj conj advmod aux xcomp det compound dobj nsubj relcl prt advmod amod cc amod amod dobj punct
+det nsubj ROOT acomp cc nsubj conj advmod aux xcomp det compound dobj nsubj relcl prt advmod amod cc amod amod dobj punct
+det nsubj punct amod conj cc conj conj ROOT attr punct
+nsubj aux ROOT advmod det npadvmod prep det pobj advmod aux advcl det dobj punct punct
+amod ROOT subtok ROOT
+nsubj aux neg ROOT det amod npadvmod nsubj relcl amod amod dobj prep amod pobj punct
+poss nsubj ROOT mark nsubjpass aux auxpass advcl agent det nummod punct npadvmod pobj prep det pobj prep pobj cc conj punct
+cc nmod ROOT prep det pobj prep amod pobj punct
+aux neg ROOT nsubj ccomp prep det pobj punct advmod punct
+intj punct cc nsubj neg ccomp dobj punct nsubjpass advmod auxpass advmod advcl agent advmod acomp det nsubj pcomp punct nsubj ROOT nsubj ccomp poss attr aux xcomp det dobj punct
+amod amod ROOT punct
+det nsubj ROOT acomp punct det nsubj conj acomp cc conj punct
+det nsubj ROOT acomp punct det nsubj conj acomp cc conj punct
+nsubj ROOT dobj prep amod pobj acl advmod nsubj relcl det amod attr prep det amod pobj punct
+nsubj ROOT attr prep poss amod pobj punct advmod advcl det nsubj ccomp acomp predet det npadvmod punct conj poss dobj cc poss conj advmod punct nsubj ROOT advmod advmod acomp punct
+det nsubj ROOT advmod acomp punct
+ROOT poss compound dobj punct
+nsubj advmod ROOT det amod dobj punct
+nsubjpass auxpass ROOT dobj prep det pobj cc auxpass neg conj det amod nsubj prep pobj ccomp nmod attr det npadvmod punct
+ nsubj ROOT acomp
+amod ROOT prep pobj cc conj punct
+amod ROOT
+det advmod amod amod amod ROOT nsubj relcl acomp prep pobj punct
+ROOT det amod compound dobj mark nsubj advcl amod compound dobj nsubj relcl amod attr prep amod punct
+ROOT det amod compound dobj mark nsubj advcl amod compound dobj nsubj relcl amod attr prep amod punct
+intj punct cc expl ROOT attr punct
+ ROOT det dobj dobj
+ nsubj ROOT det amod attr aux advmod relcl prt
+det nsubj ROOT acomp punct advmod advmod advcl agent pobj punct
+det nsubj ROOT acomp punct advmod advmod advcl agent pobj punct
+det nsubj prep pobj ROOT acomp punct
+det nsubj ccomp acomp punct advmod neg ROOT punct
+ nsubj prep pobj ROOT acomp punct mark advcl det nsubj prep pobj
+nsubj prep pobj ROOT acomp punct mark advcl det nsubj prep pobj punct
+det nsubj ROOT det attr prep det pobj punct
+advmod punct nsubj advmod ROOT neg det attr prep det nmod cc conj pobj punct
+amod punct amod ROOT prep det amod pobj punct prep amod pobj punct
+amod punct amod ROOT prep det amod pobj punct prep amod pobj punct
+amod amod ROOT prep det pobj
+ nsubj ROOT aux auxpass xcomp cc det nsubj conj acomp
+nsubj ROOT aux auxpass xcomp cc det nsubj conj acomp punct
+det amod nsubj compound appos ROOT dobj nsubj ccomp det amod dobj prep amod pobj punct
+nsubj advmod csubj nsubj ccomp ROOT det attr punct nsubjpass auxpass advmod relcl prep compound pobj punct cc nsubj conj prep punct pobj punct advmod det compound dobj cc conj punct punct cc conj prep advmod amod compound pobj nsubjpass aux advmod auxpass relcl punct
+nsubj advmod csubj nsubj ccomp ROOT det attr punct nsubjpass auxpass advmod relcl prep compound pobj punct cc nsubj conj prep punct pobj punct advmod det compound dobj cc conj punct punct cc conj prep advmod amod compound pobj nsubjpass aux advmod auxpass relcl punct
+nsubj advmod csubj nsubj ccomp ROOT det attr punct nsubjpass auxpass advmod relcl prep compound pobj punct cc nsubj conj prep punct pobj punct advmod det compound dobj cc conj punct punct cc conj prep advmod amod compound pobj nsubjpass aux advmod auxpass relcl punct
+nsubj advmod csubj nsubj ccomp ROOT det attr punct nsubjpass auxpass advmod relcl prep compound pobj punct cc nsubj conj prep punct pobj punct advmod det compound dobj cc conj punct punct cc conj prep advmod amod compound pobj nsubjpass aux advmod auxpass relcl punct
+predet det amod nsubj cc amod conj ROOT acomp punct cc det nsubj conj det attr aux relcl punct mark nsubj aux neg advcl dobj poss nsubjpass auxpass relcl punct
+predet det amod nsubj cc amod conj ROOT acomp punct cc det nsubj conj det attr aux relcl punct mark nsubj aux neg advcl dobj poss nsubjpass auxpass relcl punct
+amod ROOT prep pobj
+amod nsubj punct amod appos punct det nsubj ROOT det compound attr punct
+amod nsubj punct amod appos punct det nsubj ROOT det compound attr punct
+amod nsubj punct amod appos punct det nsubj ROOT det compound attr punct
+det nsubj ROOT acomp amod npadvmod punct
+det nsubj ROOT det aux attr punct
+nsubj prep det pobj ROOT nsubj aux ccomp advmod prep pobj prep pcomp prep punct nmod punct pobj punct
+det nsubjpass auxpass advmod ROOT advmod nsubj advcl aux xcomp advmod cc conj advmod punct
+nsubj punct intj ROOT nummod dobj prep det pobj nsubj punct aux relcl prep det amod pobj acl det amod advmod punct nmod punct prep punct pobj attr punct poss punct appos det amod dobj cc neg nsubj
+nsubj punct intj ROOT nummod dobj prep det pobj prep dep punct aux ROOT prep det amod pobj acl det amod advmod punct nmod punct prep punct pobj nmod attr punct poss punct appos det amod dobj cc neg nsubj
+poss poss case compound nsubj prep poss case pobj ROOT det amod dobj prep poss pobj punct
+nsubj ROOT prep det pobj punct amod appos cc advmod amod conj punct cc det amod conj punct
+nsubj ROOT prep det pobj punct amod appos cc advmod amod conj punct cc det amod conj punct
+nsubj ROOT prep det pobj punct amod appos cc advmod amod conj punct cc det amod conj punct
+nsubj ROOT prep det pobj punct amod appos cc advmod amod conj punct cc det amod conj punct
+ nsubj ROOT acomp
+ nsubj punct det compound appos punct punct ROOT advmod acomp cc advmod conj pobj prep pobj
+ROOT dobj dobj prep poss case pobj punct
+ ROOT advmod cc conj punct amod conj
+nsubj ROOT cc amod punct amod conj punct
+det amod nsubj nsubj aux relcl aux xcomp ROOT prep det pobj neg prep det pobj punct
+det amod nsubj nsubj aux relcl aux xcomp ROOT prep det pobj neg prep det pobj punct
+det compound nsubj ROOT intj punct acomp aux xcomp det dobj punct
+det compound nsubj auxpass acomp punct ROOT prep pobj punct
+nsubj ROOT det nsubj aux ccomp acomp punct advmod punct
+intj advcl prep pobj punct det amod nsubj ROOT acomp punct
+det compound nsubj ROOT acomp punct mark det nsubj aux neg advcl oprd prep compound pobj punct
+det compound nsubj ROOT acomp punct mark det nsubj aux neg advcl oprd prep compound pobj punct
+det nsubj nsubj relcl ROOT amod punct npadvmod acomp cc conj punct cc det punct amod punct nsubj prep pobj conj acomp punct
+det nsubj nsubj relcl ROOT amod punct npadvmod acomp cc conj punct cc det punct amod punct nsubj prep pobj conj acomp punct
+advmod punct poss amod nsubj ROOT acomp punct
+nsubj ROOT dobj cc poss nsubj conj det dobj punct nsubj prep pobj relcl poss dobj punct
+nsubj ROOT dobj cc poss nsubj conj det dobj punct nsubj prep pobj relcl poss dobj punct
+det nsubj punct nsubj parataxis det compound dobj punct ROOT acomp punct cc punct advmod advmod punct det nsubj conj acomp aux xcomp amod compound dobj punct
+det nsubj punct nsubj parataxis det compound dobj punct ROOT acomp punct cc punct advmod advmod punct det nsubj conj acomp aux xcomp amod compound dobj punct
+advmod nsubj advcl prep pobj punct det nsubj ROOT prt dobj cc aux neg conj compound dobj cc conj punct
+neg dobj nsubj aux ROOT prep det pobj cc conj prep det pobj punct
+advmod advmod advmod punct nsubj aux ROOT punct mark nsubj advcl det amod attr punct cc nsubj conj det nsubj ccomp amod dobj prep det amod pobj prep det pobj punct
+advmod advmod advmod punct nsubj aux ROOT punct mark nsubj advcl det amod attr punct cc nsubj conj det nsubj ccomp amod dobj prep det amod pobj prep det pobj punct
+amod cc conj compound nsubj ccomp acomp punct nsubj ROOT acomp punct conj cc conj punct
+det nsubj ROOT neg advmod acomp prep pobj prep det pobj conj nsubj ccomp aux advcl nsubj ccomp acomp prep nummod pobj punct
+det nsubj ROOT advmod acomp cc conj prep det compound compound pobj prep poss pobj punct cc nsubj advmod conj nummod dobj advmod det nsubj advcl poss dobj punct
+det nsubj ROOT advmod acomp cc conj prep det compound pobj prep poss pobj punct cc nsubj advmod conj nummod dobj advmod det nsubj advcl poss dobj punct
+det nsubj ROOT advmod acomp cc conj prep det compound pobj prep poss pobj punct cc nsubj advmod conj nummod dobj advmod det nsubj advcl poss dobj punct
+det nsubj ROOT acomp cc conj dobj aux advcl acomp punct
+prep predet det pobj prep det pobj ROOT det amod dobj punct
+prep predet det pobj prep det pobj ROOT det amod dobj punct
+advmod dobj nsubj advmod csubj prt xcomp prep ROOT det attr neg det appos punct
+advmod dobj nsubj advmod csubj prt xcomp prep ROOT det attr neg det appos punct
+amod ROOT cc conj
+amod ROOT cc conj
+compound nsubj ROOT advmod det attr prep pobj cc conj nsubj relcl punct
+compound nsubj ROOT advmod det attr prep pobj cc conj nsubj relcl punct
+nsubj ccomp advmod acomp punct nsubj ROOT poss attr punct
+advmod nsubj aux neg ROOT poss dobj prep pobj cc nsubj ROOT attr aux xcomp det dobj nsubj relcl dobj punct conj punct cc conj det dobj prep poss pobj punct
+nsubj ccomp det amod attr nsubj punct aux relcl mark det nsubj ccomp poss dobj punct ROOT nsubj ccomp poss dobj mark nsubj advcl predet det dobj aux relcl dobj prep poss pobj
+nsubj ROOT acomp prep det pobj prep det pobj cc conj punct
+nsubj ROOT acomp prep det pobj prep det pobj cc conj punct
+nsubj ROOT prt aux advcl cc prep poss pobj punct nsubj conj acomp cc neg conj dobj cc conj det dobj punct
+amod amod ROOT cc conj prep det amod pobj punct punct punct
+amod amod ROOT cc conj prep det amod pobj punct punct punct
+det nsubj ROOT predet det dobj cc nsubj conj dobj punct
+amod nsubj prep amod compound pobj prep det pobj intj ROOT dative det dobj cc conj det dobj prt punct punct punct punct
+amod nsubj prep amod compound pobj prep det pobj intj ROOT dative det dobj cc conj det dobj prt punct punct punct punct
+csubj prep compound compound pobj amod npadvmod ROOT det amod attr prep det pobj prep amod pobj punct
+advmod ROOT prep det pobj prep det pobj prep det pobj prep det amod pobj nsubj relcl punct
+advmod ROOT prep det pobj prep det pobj prep det pobj prep det amod pobj nsubj relcl punct
+nsubj ROOT det amod dobj prep compound pobj cc nmod cc conj nmod cc conj conj nsubj relcl aux xcomp prep punct
+ nsubj ROOT det dobj aux xcomp punct advmod prep xcomp prep
+nsubjpass auxpass ROOT prep det compound compound pobj nsubj relcl det dobj punct
+nsubj neg ROOT prep det pobj cc det nsubj conj npadvmod acomp xcomp punct
+ROOT prep det pobj punct
+det nsubj ROOT acomp punct cc det nsubj conj advmod acomp punct cc advmod det nsubj advcl punct nsubj conj acomp punct
+det nsubj ROOT acomp punct cc det nsubj conj advmod acomp punct cc advmod det nsubj advcl punct nsubj conj acomp punct
+det nsubj ROOT acomp punct cc det nsubj conj advmod acomp punct cc advmod det nsubj advcl punct nsubj conj acomp punct
+advmod punct nsubj ROOT poss dobj punct cc nsubj conj advmod nsubj advcl det dobj prep compound pobj prep det pobj punct
+nsubj ROOT dobj dative det pobj punct cc nsubj advmod conj cc conj dative nummod amod dobj punct cc aux neg conj dobj dobj nsubj ccomp cc advmod conj det amod nummod dobj nsubj aux aux relcl prep punct punct
+det nsubj advmod ROOT nsubj aux ccomp det nummod dobj prep pobj punct nsubj relcl dobj prep det pobj punct punct cc conj nsubj ccomp prep det amod pobj punct
+nsubj aux ROOT prep pobj cc conj det dobj punct cc expl conj det attr det nsubj aux relcl acomp aux xcomp prep advmod amod pobj punct
+prep det pobj prep predet det amod pobj cc nsubj pobj advmod advmod acomp punct expl ROOT det attr prep predet det pobj prep amod compound pobj punct
+prep det pobj prep predet det amod pobj cc nsubj pobj advmod advmod acomp punct expl ROOT det attr prep predet det pobj prep amod compound pobj punct
+nsubj ROOT dobj prep poss pobj nummod npadvmod prep pcomp punct
+amod ROOT punct amod appos punct
+det nsubj ROOT acomp punct conj cc advmod conj punct
+det nsubj ROOT acomp cc conj punct
+nsubj ROOT det amod attr aux relcl prep cc compound punct conj punct
+ amod nsubj ROOT acomp prep poss pobj
+amod amod ROOT punct
+ nsubj ROOT det amod attr aux relcl mark nsubj advcl neg prep pobj punct cc mark nsubj conj dobj nsubj aux advmod relcl advmod advmod
+nsubj ROOT amod dobj punct det amod conj cc amod nmod conj punct conj acomp cc conj punct
+nsubj ROOT amod dobj punct det amod conj cc amod conj punct conj acomp cc conj punct
+nummod amod nsubj cc nummod amod conj ROOT acomp aux xcomp dobj prt punct cc conj dobj prep pobj punct
+nummod amod nsubj cc nummod amod conj ROOT acomp aux xcomp dobj prt punct cc conj dobj prep pobj punct
+nummod amod nsubj cc nummod amod conj ROOT acomp aux xcomp dobj prt punct cc conj dobj prep pobj punct
+nsubj ROOT det amod compound compound dobj punct advmod advmod cc det amod amod compound conj punct
+nsubj ROOT det amod compound compound dobj punct advmod advmod cc det amod amod compound conj punct
+det nsubj ROOT advmod acomp punct
+amod ROOT punct
+ROOT dobj punct
+amod ROOT punct
+nsubj punct intj ROOT poss amod dobj prep amod pobj cc det compound conj
+det nsubj ROOT advmod acomp cc conj det npadvmod dobj punct dobj nsubj relcl aux xcomp prt prep prep det amod pobj prep pobj punct
+det nsubj ROOT advmod acomp cc conj det npadvmod dobj punct dobj nsubj relcl aux xcomp prt prep prep det amod pobj prep pobj punct
+prep det amod pobj nsubj aux advmod ROOT poss compound punct attr prep amod amod pobj prep det amod pobj punct
+prep det amod pobj nsubj aux advmod ROOT poss compound punct attr prep amod amod pobj prep det amod pobj punct
+ ROOT amod dobj punct advmod amod
+neg det advmod amod ROOT cc advmod amod amod nmod amod conj punct
+neg det advmod amod ROOT cc advmod amod amod nmod amod conj punct
+det compound nsubj ccomp poss attr punct nsubj prep det pobj punct nsubj parataxis aux xcomp prep det amod pobj punct ROOT advmod acomp cc advmod conj punct advmod det compound attr punct
+det compound nsubj ccomp poss attr punct nsubj prep det pobj punct nsubj parataxis aux xcomp prep det amod pobj punct ROOT advmod acomp cc advmod conj punct advmod det compound attr punct
+det compound nsubj ccomp poss attr punct nsubj prep det pobj punct nsubj parataxis aux xcomp prep det amod pobj punct ROOT advmod acomp cc advmod conj punct advmod det compound attr punct
+poss nsubj advmod ROOT dobj prep det pobj punct cc advmod nsubj punct acl acomp punct conj det nsubj aux ccomp advmod prep det amod pobj cc advmod advmod conj punct
+nsubjpass auxpass ROOT agent det amod pobj punct
+nsubj ROOT det compound dobj prep det pobj punct cc det nsubj conj advmod acomp punct
+advmod prep pcomp amod dobj punct det nsubj ROOT dobj prep det pobj prep amod pobj punct compound appos punct conj punct cc det conj cc amod conj punct punct
+advmod prep pcomp amod dobj punct det nsubj ROOT dobj prep det pobj prep amod pobj punct compound appos punct conj punct cc det conj cc amod conj punct punct
+det nsubj ROOT prep pobj advmod punct
+nsubj ROOT det advmod amod attr prep pobj prep amod compound pobj punct neg advmod appos punct
+prep nummod pobj nsubj aux ROOT prt det advmod amod punct advmod amod dobj cc conj dobj det npadvmod punct
+neg ROOT punct neg det amod dep punct neg amod appos punct
+neg ROOT punct neg det amod dep punct neg amod appos punct
+amod ROOT punct amod compound conj punct amod appos prep det amod pobj punct
+amod ROOT punct amod compound conj punct amod appos prep det amod pobj punct
+amod ROOT punct amod compound conj punct amod appos prep det amod pobj punct
+amod ROOT punct amod compound conj punct amod appos prep det amod pobj punct
+ poss case amod punct amod
+ROOT prt det amod dobj prep det pobj punct
+amod amod ROOT punct
+det amod nsubj ROOT acomp cc conj advmod cc conj dobj prep pobj cc conj prep det pobj punct
+amod ROOT advmod det appos nsubj relcl aux xcomp prt prep amod compound pobj cc det amod compound conj punct
+amod ROOT advmod det appos nsubj relcl aux xcomp prt prep amod compound pobj cc det amod compound conj punct
+prep pobj ROOT det npadvmod advmod punct cc amod compound nsubj conj punct
+amod ROOT cc amod conj prep pobj nmod npadvmod punct
+amod ROOT cc amod conj prep pobj nmod npadvmod punct
+det amod nsubj nsubj relcl nsubj ROOT det attr punct punct neg advmod ROOT punct punct
+amod ROOT
+det nsubj ROOT amod amod amod dobj punct
+auxpass ROOT aux xcomp punct mark det nsubj advcl advmod acomp punct
+advmod mark det nsubj advcl neg acomp punct det nsubj ROOT prep pobj punct
+advmod mark det nsubj advcl neg acomp punct det nsubj ROOT prep pobj punct
+amod amod ROOT prep det pobj punct prep pcomp punct
+nsubj ccomp prep pobj advmod prep pobj punct advmod nsubj ROOT advmod predet det npadvmod punct
+det nsubj ROOT acomp cc advmod advmod conj punct
+det nsubj ccomp acomp punct nsubj punct intj ROOT amod dobj cc nsubj conj advmod acomp punct nsubj advcl det amod attr prep pobj
+det nsubj ccomp acomp punct nsubj punct intj ROOT amod dobj cc nsubj conj advmod acomp punct nsubj advcl det amod attr prep pobj
+det nsubj ccomp acomp punct nsubj aux ROOT advmod prep poss pobj cc det conj prep amod pobj prep pobj cc nsubj conj xcomp advmod punct
+nsubj prep det pobj ROOT acomp punct
+det nsubj ROOT det amod attr punct
+advcl nsubj xcomp dobj prep det pobj prep pobj punct amod punct amod conj punct conj punct amod ROOT predet det npadvmod advmod punct advmod amod det npadvmod punct
+cc nmod ROOT prep det pobj prep pobj nsubj aux neg relcl dobj punct
+advcl punct det nsubj ROOT advmod acomp punct
+det nsubj ROOT advmod advmod acomp punct
+pobj nsubj aux csubj prep ROOT det nsubj cc det conj punct
+intj punct det nsubj ROOT acomp cc conj punct cc nsubj advmod advmod conj det amod dobj neg det amod dobj nsubj relcl aux xcomp advmod advmod advmod advmod prep det pobj punct
+ nsubj ROOT acomp cc neg conj
+ nsubj ROOT advmod acomp advmod
+ ROOT punct amod appos
+nsubj ROOT dobj nsubj relcl det dobj advmod oprd cc nsubj conj prep pobj punct cc aux conj nsubj ccomp acomp npadvmod punct
+ det nummod nsubj ccomp dobj cc nsubj conj det attr prep pobj prep amod compound compound pobj punct cc conj dobj punct nsubj aux ROOT dobj prep det pobj advmod mark mark nsubj aux advcl punct nsubj punct aux ccomp prep det nummod compound pobj
+advmod advmod advmod punct det nsubj ROOT acomp punct prep prep det pobj punct punct
+advmod advmod advmod punct det nsubj ROOT acomp punct prep prep det pobj punct punct
+det nsubj ROOT advmod acomp cc nsubj aux conj det dobj prep amod pobj prep compound pobj cc advmod advmod amod conj punct
+mark nsubj aux advcl prep det pobj punct nsubj aux neg ROOT acomp npadvmod punct
+nsubj aux ROOT nsubj aux ccomp prt prep pobj prep pobj punct advmod punct intj punct
+ nsubj ccomp advmod acomp punct nsubj ROOT neg dobj nsubj aux ccomp prep nmod pobj
+nsubj ROOT mark csubj prep pobj compound pobj ccomp prep det amod compound pobj punct
+nsubj advmod advmod ROOT advmod advmod prep pcomp compound compound dobj cc auxpass advmod conj agent poss pobj ROOT nsubj ccomp aux xcomp cc conj amod dobj nsubj relcl poss dobj cc conj punct
+nsubj aux ROOT advmod prep poss pobj mark nsubj aux neg advcl advmod dobj prep det pobj prep det pobj punct
+det nsubj ROOT acomp punct
+det nsubj ROOT advmod acomp punct
+advmod punct poss quantmod nummod nsubj auxpass ROOT acomp punct
+nsubj advmod ROOT prep pobj nummod npadvmod cc det nsubj conj xcomp dative nummod dobj cc neg conj prep det pobj punct
+prep det amod pobj nsubj relcl advmod cc det conj mark ROOT prep poss pobj punct
+nsubj ROOT prep pobj nsubj det nsubj prep relcl mark nsubj ccomp aux xcomp prep det pobj prep poss pobj punct
+poss nsubj ROOT acomp mark expl advcl advmod amod amod attr dobj nsubj relcl aux xcomp xcomp prt prep poss pobj punct
+nsubj aux neg ROOT dobj prep det nmod nummod pobj punct
+prep det pobj nsubj relcl poss dobj ROOT acomp cc advmod conj poss nsubj cc nsubj ROOT det dobj nsubjpass auxpass relcl aux xcomp prep poss dobj punct nsubj aux aux relcl acomp mark nsubj advcl aux xcomp det dobj prep amod pobj cc compound conj punct
+mark nsubj ROOT oprd aux xcomp advmod mark expl nsubj aux aux advcl poss dobj mark poss compound nsubj prep poss pobj advcl acomp punct
+nsubj aux neg ROOT det compound dobj mark mark nsubjpass auxpass advcl punct cc conj poss advmod amod dobj punct
+det nsubj ROOT advmod acomp prep amod pobj punct
+expl ROOT det compound attr det npadvmod punct nsubj relcl det attr punct
+neg npadvmod prep det pobj prep amod pobj advmod punct nsubj ROOT prep pobj punct
+det nsubjpass nsubj relcl auxpass ROOT advmod punct det nsubj prep amod pobj cc conj advcl acomp cc det amod conj punct advmod appos prep pobj punct punct
+det compound nsubj punct appos prep det pobj punct ROOT acomp punct cc advmod conj punct
+nsubj ROOT expl ccomp nummod attr prep det punct npadvmod amod nmod punct pobj punct
+nsubj ROOT det amod nsubj ccomp compound dobj punct nsubj relcl advmod acomp punct
+nsubj ROOT advmod oprd prep poss pobj punct prep poss pobj nsubj relcl det amod compound dobj punct advmod advcl prep compound pobj punct
+nsubj ROOT advmod oprd prep poss pobj punct prep poss pobj nsubj relcl det amod compound dobj punct advmod advcl prep compound pobj punct
+nsubj ROOT det compound nsubj ccomp acomp punct
+advmod prep predet det pobj ROOT acomp punct det npadvmod prep det amod pobj punct cc conj punct
+ ROOT neg det dobj prep poss punct amod pobj punct
+amod amod ROOT
+ nsubj ROOT acomp punct nsubj ROOT amod dobj cc conj dobj advmod advmod punct cc nsubj aux conj nsubj ccomp attr prep det pobj nsubj punct intj
+advmod punct amod amod ROOT punct punct cc conj advmod advmod punct
+nsubj ROOT dobj det dobj advmod cc conj prep pcomp det pobj punct advmod compound compound appos punct det conj prep pobj punct conj nmod attr punct punct dobj nsubj aux relcl prep det amod amod pobj cc det nsubj aux neg conj det amod dobj punct
+nsubj ROOT dobj det dobj advmod cc conj prep pcomp det pobj punct advmod compound compound appos punct det conj prep pobj punct conj nmod attr punct punct dobj nsubj aux relcl prep det amod amod pobj cc det nsubj aux neg conj det amod dobj punct
+nsubj ROOT dobj det dobj advmod cc conj prep pcomp det pobj punct advmod compound compound appos punct det conj prep pobj punct conj nmod attr punct punct dobj nsubj aux relcl prep det amod amod pobj cc det nsubj aux neg conj det amod dobj punct
+advmod punct nsubj ROOT aux xcomp amod dobj prep pobj punct mark advcl dobj mark mark nsubj advcl acomp advmod nsubj advmod advcl dobj punct
+cc mark nsubj advcl acomp aux xcomp det dobj cc conj aux xcomp mark nsubj nsubj relcl ccomp acomp punct advmod nsubj ROOT det attr aux relcl prep amod pobj
+cc mark nsubj advcl acomp aux xcomp det dobj cc conj aux xcomp mark nsubj nsubj relcl ccomp acomp punct advmod nsubj ROOT det attr aux relcl prep amod pobj
+ compound ROOT punct det nsubj ROOT dobj appos punct punct amod compound ROOT
+det compound nsubj ROOT acomp cc auxpass conj oprd npadvmod punct
+nsubj aux ROOT prep pobj advmod quantmod nummod npadvmod cc det amod amod nsubjpass cc conj auxpass conj punct
+nsubj aux ROOT prep pobj advmod quantmod nummod npadvmod cc det amod amod nsubjpass cc conj auxpass conj punct
+ nsubj ROOT prep poss amod nummod amod pobj prep
+nsubj aux neg ROOT advmod acomp agent det pobj det pobj punct
+nsubj aux neg ROOT advmod acomp agent det pobj det pobj punct
+advmod punct mark nsubj advcl poss advmod amod dobj prep nsubj nsubj csubj pobj advmod amod advcl punct punct advmod nsubj ccomp aux xcomp advmod nsubj advcl poss amod attr punct punct nsubj ROOT prep quantmod nummod poss pobj mark nsubj advcl det dobj prep amod pobj acl agent det advmod advmod amod punct amod punct advmod amod pobj prep compound pobj punct
+advmod punct mark nsubj advcl poss advmod amod dobj prep nsubj nsubj csubj pobj advmod amod advcl punct punct advmod nsubj ccomp aux xcomp advmod nsubj advcl poss amod attr punct punct nsubj ROOT prep quantmod nummod poss pobj mark nsubj advcl det dobj prep amod pobj acl agent det advmod advmod amod punct amod punct advmod amod pobj prep compound pobj punct
+poss amod nsubj ROOT det attr prep det pobj nsubjpass aux auxpass relcl prt prep pobj cc conj punct cc nsubj aux aux conj ROOT nsubj ROOT dobj prep pobj nsubj aux relcl prep pobj mark det nsubj prep amod pobj aux advcl advmod advmod det amod dobj prep det pobj prep det pobj aux acl det dobj punct
+poss nsubj punct ROOT advmod advmod acomp punct cc aux auxpass advmod conj xcomp nsubj aux ccomp prt det dobj prep poss advmod amod pobj punct conj advmod advmod aux auxpass advcl mark nsubj ccomp advmod acomp cc mark nsubj conj advmod advmod det attr punct cc mark nsubj conj advmod acomp prep poss pobj punct
+nsubj ROOT neg mark mark det nsubj advcl det amod compound dobj prep pobj punct cc advmod nsubj conj advmod acomp punct
+amod compound ROOT prep det amod pobj
+nsubj ROOT det amod amod compound dobj nsubj relcl det nummod nmod compound compound dobj dobj nsubj relcl det dobj punct
+nsubj ROOT det amod amod compound dobj nsubj relcl det nummod nmod compound compound dobj dobj nsubj relcl det dobj punct
+det nsubj ROOT acomp mark det nsubj advcl dobj prep det pobj cc poss nsubj conj acomp punct
+det nsubj ROOT acomp mark det nsubj advcl dobj prep det pobj cc poss nsubj conj acomp punct
+nsubj advmod ROOT compound compound dobj prep det amod pobj cc aux advmod conj poss dobj punct
+det nsubj ROOT acomp punct cc det compound nsubj conj neg advmod acomp prep pobj punct
+det nsubj ROOT acomp punct cc det compound nsubj conj neg advmod acomp prep pobj punct
+advmod acomp nsubj aux ROOT det amod quantmod dobj prep det compound pobj punct
+det amod punct nsubj ROOT acomp punct
+advmod det amod npadvmod punct amod nsubjpass nsubj punct auxpass advmod ROOT
+det nsubj ROOT advmod prep amod amod pobj prep amod pobj punct
+det compound nsubj ROOT acomp punct cc nsubj aux conj det dobj prep pobj punct
+det amod nsubj nsubj relcl prep det pobj ROOT det amod attr prep pobj punct
+poss nsubj aux advmod ROOT det dobj prep det pobj punct
+det nsubj ROOT det dobj nsubj relcl acomp punct
+det compound nsubj cc det amod compound conj ROOT advmod advmod acomp punct
+det compound nsubj cc det amod compound conj ROOT advmod advmod acomp punct
+nsubj ROOT compound dobj ROOT nsubj ROOT compound compound dobj
+nsubj ROOT compound dobj ROOT nsubj ROOT compound compound dobj
+ROOT det dobj punct det npadvmod nsubj relcl prep det pobj nsubj relcl attr prep det nmod pobj nsubj advmod relcl punct
+det amod ROOT prep amod pobj punct
+det nsubj ccomp det amod dobj cc det amod conj punct det nsubj ccomp acomp prep det amod pobj prep pobj punct det nsubj prep det pobj ROOT acomp punct advmod conj det dobj prep predet det amod pobj punct
+det nsubj ccomp det amod dobj cc det amod conj punct det nsubj ccomp acomp prep det amod pobj prep pobj punct det nsubj prep det pobj ROOT acomp punct advmod conj det dobj prep predet det amod pobj punct
+det nsubj ccomp det amod dobj cc det amod conj punct det nsubj ccomp acomp prep det amod pobj prep pobj punct det nsubj prep det pobj ROOT acomp punct advmod conj det dobj prep predet det amod pobj punct
+advmod nsubj ROOT det compound dobj advmod punct cc nsubj conj advmod acomp punct
+advmod det advmod amod ROOT prep det pobj
+nsubj ROOT advmod poss amod amod amod attr punct nsubj aux punct parataxis dobj punct punct cc prep poss pobj punct conj prep det advmod amod pobj prep det pobj punct
+preconj advmod ccomp nsubj det attr acl prep det advmod amod pobj punct mark nsubj advcl det amod amod dobj punct det nsubj cc amod conj aux ROOT nsubj ccomp prep pobj advmod neg advmod prep det pobj punct
+preconj advmod ccomp nsubj det attr acl prep det advmod amod pobj punct mark nsubj advcl det amod amod dobj punct det nsubj cc amod conj aux ROOT nsubj ccomp prep pobj advmod neg advmod prep det pobj punct
+preconj advmod ccomp nsubj det attr acl prep det advmod amod pobj punct mark nsubj advcl det amod amod dobj punct det nsubj cc amod conj aux ROOT nsubj ccomp prep pobj advmod neg advmod prep det pobj punct
+mark nsubj advmod advcl aux xcomp advmod punct ROOT acomp mark poss nsubj ccomp attr dobj nsubj advmod relcl mark nsubjpass appos auxpass advcl prep amod pobj advmod expl aux relcl det attr cc conj conj punct ccomp det dobj prep det compound pobj nsubj relcl compound dobj mark nsubj aux ROOT det dobj prep det pobj punct punct punct
+mark nsubj advmod advcl aux xcomp advmod punct ROOT acomp mark poss nsubj ccomp attr dobj nsubj advmod relcl mark nsubjpass appos auxpass advcl prep amod pobj advmod expl aux relcl det attr cc conj conj punct ccomp det dobj prep det compound pobj nsubj relcl compound dobj mark nsubj aux ROOT det dobj prep det pobj punct punct punct
+nsubj ROOT advmod attr cc poss conj cc det amod conj ROOT ROOT dobj dobj mark det nsubj advcl det amod dobj dative poss pobj
+poss nsubj ROOT det dobj nmod nummod compound compound appos punct nsubj relcl predet det amod attr mark nsubj advmod advcl prep det pobj prep pobj punct
+nsubj ROOT prt prep det amod compound compound pobj punct
+nsubj ROOT det amod amod dobj prep poss pobj punct dobj nsubj advmod relcl mark nsubj advcl mark det amod compound nsubj ccomp acomp punct
+nsubj ROOT det amod amod dobj prep poss pobj punct dobj nsubj advmod relcl mark nsubj advcl mark det amod compound nsubj ccomp acomp punct
+det ROOT nsubj relcl det dobj advmod advmod cc aux advmod conj dobj prep det compound pobj punct
+prep pobj punct nsubj ROOT det amod amod compound dobj punct amod cc neg conj punct cc conj punct amod amod appos punct cc compound conj punct nsubj relcl acomp punct
+prep pobj punct nsubj ROOT det amod amod compound dobj punct amod cc neg conj punct cc conj punct amod amod appos punct cc compound conj punct nsubj relcl acomp punct
+advmod nsubj ROOT det amod attr punct nsubj parataxis dobj acl prep advmod pobj intj punct nsubj ROOT neg det attr det npadvmod punct cc det advmod amod compound conj punct cc nsubj advmod aux punct conj amod amod dobj prep det pobj punct
+nsubj aux pobj advmod ROOT det amod dobj advmod prep pcomp punct dep advmod advmod punct cc subtok aux conj prep pobj advmod prep det amod punct conj cc conj pobj punct
+det nsubj ROOT dobj aux auxpass xcomp punct prep pcomp prep pobj auxpass conj det dobj poss appos punct prep auxpass pcomp det dobj prep det pobj punct
+nsubj ROOT advmod acomp punct neg advmod advcl prep det amod pobj nsubj relcl cc conj dative det dobj advmod quantmod quantmod dobj prep det pobj advcl poss compound dobj punct
+nsubj ROOT advmod acomp punct neg advmod advcl prep det amod pobj nsubj relcl cc conj dative det dobj advmod quantmod quantmod dobj prep det pobj advcl poss compound dobj punct
+nsubj ROOT advmod acomp punct neg advmod advcl prep det amod pobj nsubj relcl cc conj dative det dobj advmod quantmod quantmod dobj prep det pobj advcl poss compound dobj punct
+advmod advmod ROOT
+nsubj ROOT quantmod nummod amod dobj cc conj neg advmod acomp punct
+cc prep det amod pobj punct nsubj aux neg ROOT advmod advmod prep pobj punct
+det nsubj ccomp acomp punct det nsubj ccomp acomp punct nsubj ROOT dobj cc det conj amod prep poss pobj cc conj conj acomp advmod punct
+det nsubj ccomp acomp punct det nsubj ccomp acomp punct nsubj ROOT dobj cc det conj amod prep poss pobj cc conj conj acomp advmod punct
+det nsubj ccomp acomp punct det nsubj ccomp acomp punct nsubj ROOT dobj cc det conj amod prep poss pobj cc conj conj acomp advmod punct
+det nsubj ccomp acomp punct det nsubj ccomp acomp punct nsubj ROOT dobj cc det conj amod prep poss pobj cc conj conj acomp advmod punct
+det nsubj ccomp acomp punct det nsubj ccomp acomp punct nsubj ROOT dobj cc det conj amod prep poss pobj cc conj conj acomp advmod punct
+det nsubj ccomp acomp punct det nsubj ccomp acomp punct nsubj ROOT dobj cc det conj amod prep poss pobj cc conj conj acomp advmod punct
+nsubj ROOT dative det amod compound punct nummod dobj prep amod amod nmod cc conj pobj prep compound compound pobj punct
+nsubj ROOT dative det amod compound punct nummod dobj prep amod amod nmod cc conj pobj prep compound compound pobj punct
+nsubj ROOT dative det amod compound punct nummod dobj prep amod amod nmod cc conj pobj prep compound compound pobj punct
+det amod nsubj ROOT acomp punct intj punct cc det nsubj aux relcl prt advmod conj det amod compound compound attr punct amod prep poss compound amod pobj punct
+det amod nsubj ROOT acomp punct intj punct cc det nsubj aux relcl prt advmod conj det amod compound compound attr punct amod prep poss compound amod pobj punct
+det amod nsubj ROOT acomp punct intj punct cc det nsubj aux relcl prt advmod conj det amod compound compound attr punct amod prep poss compound amod pobj punct
+ROOT prep det pobj
+det nsubj ROOT advmod advmod punct
+det compound compound nsubj ROOT advmod acomp punct
+det amod nsubj ROOT advmod advmod acomp punct
+nsubj ROOT acomp cc det nsubj conj acomp punct cc nsubj aux conj advmod advmod punct
+det nsubj aux neg ROOT det dobj
+det nsubj ROOT advmod amod dobj punct nsubj advcl prt prep amod pobj punct nsubj conj acomp advmod det nsubj advmod ccomp poss dobj cc conj prep det npadvmod punct amod pobj ROOT nsubj ccomp cc conj punct
+det nsubj ROOT advmod amod dobj punct nsubj advcl prt prep amod pobj punct nsubj conj acomp advmod det nsubj advmod ccomp poss dobj cc conj prep det compound punct nmod pobj ROOT nsubj ccomp cc conj punct
+det nsubj aux neg ROOT cc det nsubj conj advmod acomp punct
+det nsubj aux neg ROOT cc det nsubj conj advmod acomp punct
+det nsubjpass prep amod pobj auxpass advmod ROOT cc advmod aux neg conj punct
+det nsubj nsubj relcl aux neg ROOT punct neg advcl cc conj punct
+amod ROOT
+det nsubj ccomp acomp cc conj punct cc det amod nsubj conj advmod acomp punct nsubj aux neg ROOT xcomp attr prep det pobj punct
+det nsubj ccomp acomp cc conj punct cc det amod nsubj conj advmod acomp punct nsubj aux neg ROOT xcomp attr prep det pobj punct
+prep pobj nsubj ROOT det advmod amod amod attr punct
+det nsubj cc conj ROOT dobj prep pobj quantmod nummod npadvmod cc conj dobj punct
+det nsubj ROOT acomp punct
+det nsubj nsubj relcl ROOT acomp punct mark nsubj aux neg advcl det nsubj ccomp attr aux relcl dobj prep punct
+det nsubj nsubj relcl ROOT acomp punct mark nsubj aux neg advcl det nsubj ccomp attr aux relcl dobj prep punct
+poss nsubj auxpass neg ROOT punct cc neg advmod conj cc conj advmod punct
+nsubj aux ROOT nsubj ccomp acomp prep det amod pobj prep det pobj advmod prep det pobj punct advmod punct
+advmod punct nsubj aux ROOT advmod cc aux neg conj aux xcomp prep det pobj aux advcl dobj prep det pobj punct
+det nsubj prep compound pobj ROOT aux aux xcomp det advmod dobj prep pcomp nsubj ccomp acomp cc conj prep pcomp aux xcomp poss dobj punct
+det amod nsubj ROOT det dobj punct advcl poss dobj prep pobj prep pobj advmod prep poss pobj punct nsubj relcl acomp punct punct
+det amod nsubj ROOT det dobj punct advcl poss dobj prep pobj prep pobj advmod prep poss pobj punct nsubj relcl acomp punct punct
+advmod det compound nsubj ROOT advmod acomp punct mark nsubj advcl det nsubj ccomp advmod acomp advmod nsubj aux neg advcl xcomp prep pobj prep det pobj punct
+det nsubj ROOT det amod compound punct dobj punct det amod appos cc punct prep dobj nsubj aux pcomp punct det amod compound pobj punct nsubjpass auxpass parataxis det compound dobj advmod nsubj advcl prep det compound compound pobj punct
+det nsubj ROOT det amod compound punct dobj punct det amod appos cc punct prep dobj nsubj aux pcomp punct det amod compound pobj punct nsubjpass auxpass parataxis det compound dobj advmod nsubj advcl prep det compound compound pobj punct
+det nsubj ROOT det amod compound punct dobj punct det amod appos cc punct prep dobj nsubj aux pcomp punct det amod compound pobj punct nsubjpass auxpass parataxis det compound dobj advmod nsubj advcl prep det compound compound pobj punct
+advmod aux det nsubj advmod ROOT punct
+nsubj aux ROOT acomp mark nsubj advcl poss dobj punct
+nsubj ROOT nummod dobj prep det pobj cc nsubj conj acomp punct
+nsubjpass auxpass ROOT prep pobj punct prep det pobj prep advmod amod nmod cc conj pobj punct
+nsubj ROOT nummod dobj prep det nmod nummod pobj punct cc nsubj aux neg punct prep det nummod pobj nsubj aux aux conj prep pobj acl nmod dobj advmod advmod punct prep amod punct cc advmod conj prep det pobj prep compound pobj punct
+prep det pobj punct det nsubj ROOT advmod cc conj dobj mark nsubj advcl acomp punct nsubj ccomp advmod advmod acomp mark nsubj ccomp acomp cc aux neg conj dobj punct cc conj dobj punct det nmod nsubj ccomp advmod punct
+advmod punct nsubj ROOT prep poss pobj advmod aux advcl mark advmod nsubj aux ccomp det dobj cc conj advmod punct cc det nmod nsubj conj advmod acomp mark nsubj advmod aux neg ccomp prep pobj punct
+nsubj ccomp advmod nsubj advmod advmod ccomp acomp punct det nsubj ROOT punct expl ccomp advmod attr nsubj aux relcl punct nsubj ccomp det attr prep pobj mark nsubj aux neg ccomp dobj punct cc nsubj aux neg conj dobj punct
+det nsubj ROOT prep det pobj cc conj nsubj aux ccomp dobj nsubj ccomp punct cc nsubj conj prep dobj nsubj aux pcomp punct det conj cc conj punct cc conj prt punct
+det nsubj ROOT prep det pobj cc conj nsubj aux ccomp dobj nsubj ccomp punct cc nsubj conj prep dobj nsubj aux pcomp punct det conj cc conj punct cc conj prt punct
+det nsubj ROOT prep det pobj cc conj nsubj aux ccomp dobj nsubj ccomp punct cc nsubj conj prep dobj nsubj aux pcomp punct det conj cc conj punct cc conj prt punct
+det nsubjpass aux auxpass ROOT punct
+compound nsubj compound ROOT
+nsubj ROOT advmod amod attr punct
+det nsubjpass auxpass advmod ROOT advmod cc nsubjpass auxpass advmod conj punct punct punct punct punct punct
+det nsubjpass auxpass advmod ROOT advmod cc nsubjpass auxpass advmod conj punct punct punct punct punct punct
+amod amod ROOT prep pobj
+nsubj aux ROOT prep det pobj prep pobj punct amod dep punct amod conj cc conj punct cc conj advmod nsubj relcl advmod advmod acomp punct
+nsubj aux ROOT prep det pobj prep pobj punct amod dep punct amod conj cc conj punct cc conj advmod nsubj relcl advmod advmod acomp punct
+nsubj aux ROOT prep det pobj prep pobj punct amod dep punct amod conj cc conj punct cc conj advmod nsubj relcl advmod advmod acomp punct
+nsubj aux ROOT prep det pobj prep pobj punct amod dep punct amod conj cc conj punct cc conj advmod nsubj relcl advmod advmod acomp punct
+mark nsubj aux advcl nummod dobj nsubj aux ROOT advmod prep det pobj punct
+det ROOT punct appos advmod aux nsubj relcl punct
+nsubj ROOT predet det amod attr nsubj aux ccomp dative dobj punct
+det nsubj advmod ROOT aux xcomp det attr mark nsubj aux neg advcl mark nsubj advmod ccomp nummod dobj prep det amod pobj nsubj relcl nummod compound dobj aux advcl punct punct punct punct
+det nsubj advmod ROOT aux xcomp det attr mark nsubj aux neg advcl mark nsubj advmod ccomp nummod dobj prep det amod pobj nsubj relcl nummod compound dobj aux advcl punct punct punct punct
+advmod det nsubj ROOT det amod compound compound dobj prep det pobj punct cc det nsubj prep det pobj punct conj prep pobj punct
+amod amod ROOT punct
+mark nsubjpass auxpass auxpass advcl amod npadvmod nsubj punct aux ccomp advmod punct nsubj advmod ROOT prep poss pobj
+mark nsubjpass auxpass auxpass advcl amod npadvmod nsubj punct aux ccomp advmod punct nsubj advmod ROOT prep poss pobj
+det amod nsubj ROOT amod attr punct cc nsubj conj acomp conj acomp punct
+det amod nsubj ROOT amod attr punct cc nsubj conj acomp conj acomp punct
+csubj aux xcomp ROOT advmod acomp det compound pobj punct cc aux conj poss dobj cc nsubj advmod conj punct
+advmod nsubj ccomp det attr punct nsubj ROOT nsubj aux ccomp advmod acomp aux xcomp det dobj dobj prep det pobj acl prep det pobj punct
+cc ROOT punct amod appos punct amod appos punct
+cc ROOT punct amod appos punct amod appos punct
+amod ROOT punct mark det nsubj prep compound pobj aux neg advcl dobj prt npadvmod
+amod ROOT punct mark det nsubj prep compound pobj aux neg advcl dobj prt npadvmod
+det npadvmod nsubj aux aux relcl punct det attr prep compound pobj punct neg det appos punct nsubj ROOT acomp punct cc det nsubj nsubj relcl cc conj dobj punct aux conj advmod acomp prep pobj nsubj ccomp attr neg prep det amod compound pobj nsubj aux neg relcl
+det npadvmod nsubj aux aux relcl punct det attr prep compound pobj punct neg det appos punct nsubj ROOT acomp punct cc det nsubj nsubj relcl cc conj dobj punct aux conj advmod acomp prep pobj nsubj ccomp attr neg prep det amod compound pobj nsubj aux neg relcl
+det npadvmod nsubj aux aux relcl punct det attr prep compound pobj punct neg det appos punct nsubj ROOT acomp punct cc det nsubj nsubj relcl cc conj dobj punct aux conj advmod acomp prep pobj nsubj ccomp attr neg prep det amod compound pobj nsubj aux neg relcl
+mark nsubj aux neg ROOT dobj nsubj advmod advmod relcl aux xcomp prep det pobj punct cc auxpass conj agent det pobj prep compound pobj mark nsubjpass auxpass advcl punct nsubj aux advcl prep det npadvmod advmod punct
+mark nsubj aux neg ROOT dobj nsubj advmod advmod relcl aux xcomp prep det pobj punct cc auxpass conj agent det pobj prep compound pobj mark nsubjpass auxpass advcl punct nsubj aux advcl prep det npadvmod advmod punct
+det amod compound nsubj punct prep pobj amod compound pobj punct aux ROOT prep pobj mark nsubj advcl aux xcomp det dobj punct
+nsubjpass aux auxpass ROOT mark poss nsubj aux advcl advmod dobj advmod advmod cc conj conj punct
+expl ccomp det attr dobj nsubj aux neg relcl punct nsubj ROOT advmod attr punct prep amod pobj punct nsubj relcl prep poss pobj cc conj prep punct pobj nsubj advmod conj det amod dobj prep dobj nsubj pcomp punct cc poss amod nsubj conj advmod prep prep pobj cc conj aux relcl prep attr nsubj pcomp punct advmod punct ROOT prep punct
+csubj dobj aux ccomp advmod advmod quantmod dobj det npadvmod punct nsubj ROOT amod dobj punct
+ compound punct subtok punct cc ROOT prt
+det nsubj cc conj ROOT acomp punct advmod det compound punct nsubj conj advmod acomp cc conj punct
+det nsubj cc conj ROOT acomp punct advmod det compound punct nsubj conj advmod acomp cc conj punct
+det nsubj cc conj ROOT acomp punct advmod det compound punct nsubj conj advmod acomp cc conj punct
+mark advcl poss dobj nsubj relcl det amod punct compound dobj prep pobj punct poss poss case nsubj ROOT dobj prep det pobj prep pobj cc conj punct
+det nsubj ROOT aux xcomp dobj cc nsubj conj punct dep advmod agent det pobj prep pobj punct cc neg mark nsubj conj dobj mark prep poss nummod pobj prep compound pobj punct prep pobj punct mark nsubj aux neg ccomp predet det dobj prep amod pobj prep det pobj prep det pobj punct
+det ROOT prep det pobj punct nsubj aux neg acl advmod cc conj det compound punct poss case dobj prep punct compound pobj punct punct advmod advcl mark nsubj advcl punct cc conj punct
+amod ROOT prep det amod pobj punct
+ nsubj cc conj ROOT amod compound attr
+nsubj cc conj ROOT amod compound attr punct
+nsubj ROOT det compound dobj nsubj relcl acomp punct
+poss nsubj ROOT det compound dobj nsubj relcl advmod acomp punct cc poss nsubj conj det dobj punct
+ det nummod compound nsubj ROOT det amod attr
+det nsubj ROOT acomp cc det nsubj conj advmod acomp punct
+det nsubj ROOT acomp cc det nsubj conj advmod acomp punct
+ROOT amod dobj prep det amod pobj
+prep amod pobj det nsubj ROOT det compound oprd prep det amod compound pobj punct cc prep pobj nsubj aux neg advmod conj poss amod amod dobj punct
+prep amod pobj det nsubj ROOT det compound oprd prep det amod compound pobj punct cc prep pobj nsubj aux neg advmod conj poss dobj ROOT ROOT
+advmod det amod nsubjpass auxpass ROOT prep det pobj prep det amod pobj prep amod pobj amod punct
+amod ROOT
+nsubj advmod ccomp det compound dobj punct nsubj advmod ROOT acomp punct
+amod ROOT punct det compound appos prep det amod advmod pobj prep pobj cc conj det npadvmod amod dobj prep prep det amod pobj punct
+amod ROOT punct det compound appos prep det amod advmod pobj prep pobj cc conj det npadvmod amod dobj prep prep det amod pobj punct
+amod ROOT cc conj
+amod ROOT cc conj
+aux punct ROOT prep det pobj punct
+ROOT det amod dobj prep pobj nsubj relcl prep det compound pobj punct
+det nsubj ROOT acomp cc conj det dobj advmod advmod punct
+aux punct ROOT advmod det amod compound nsubj aux ccomp advmod acomp prep poss pobj punct
+det nsubj ROOT advmod acomp punct cc neg conj punct
+expl ROOT det attr nsubj relcl det dobj nsubj relcl punct det attr prep det pobj cc det conj prep det pobj punct
+expl ROOT det attr nsubj relcl det dobj nsubj relcl punct det attr prep det pobj cc det conj prep det pobj punct
+nsubj ROOT punct cc nsubjpass auxpass advmod conj agent det pobj punct advmod advmod det appos prep pobj punct cc neg det conj dobj nsubj relcl prep det compound compound compound pobj punct
+det nsubj ccomp acomp punct det nsubjpass auxpass ROOT cc conj punct
+det nsubj ccomp acomp punct det nsubjpass auxpass ROOT cc conj punct
+det nsubj ccomp advmod acomp punct aux neg ROOT amod dobj advmod cc conj punct
+det nsubj ROOT acomp cc nsubj conj det amod dobj mark nsubj aux neg acl aux xcomp dobj punct
+det amod nsubj dobj poss nsubj relcl prt ROOT attr advmod nsubj advcl prt prep det pobj det nsubj relcl punct
+nsubj ROOT prep det pobj cc det amod nsubj ccomp prep pobj intj nsubj advcl acomp punct
+nsubjpass auxpass ROOT mark poss nsubj ccomp aux xcomp mark det nsubj advcl punct punct aux nsubj ccomp dobj punct cc punct advmod nsubj conj prep poss pobj punct ROOT
+ROOT prep det pobj prep det amod amod pobj cc subtok subtok amod compound conj punct
+ROOT prep det pobj prep det amod amod pobj cc subtok subtok amod compound conj punct
+amod ROOT
+nsubj advmod ROOT det dobj punct
+det nsubj ROOT acomp punct
+det nsubj prep det pobj ROOT acomp punct
+cc det nsubj ROOT acomp punct
+nsubj ROOT advmod prep pobj advmod punct cc nsubj conj attr acl agent det pobj cc det conj punct
+nsubj ROOT advmod prep pobj advmod punct cc nsubj conj attr acl agent det pobj cc det conj punct
+det nsubj ROOT poss dobj mark advcl nsubj ccomp aux xcomp det amod attr prep pobj prep nummod pobj punct
+det nsubj ccomp aux advcl prt prep pobj det amod npadvmod punct cc conj aux xcomp det dobj mark nsubj prep pobj aux advmod advcl punct det amod amod dobj prep pobj nsubj relcl advmod advmod punct advmod nsubj ROOT aux xcomp dobj punct punct
+nsubj ROOT nsubj aux ccomp det dobj advmod punct cc nsubj conj nsubj aux ccomp det dobj punct
+nsubj ROOT nsubj aux ccomp det dobj advmod punct cc nsubj conj nsubj aux ccomp det dobj punct
