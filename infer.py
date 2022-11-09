@@ -248,7 +248,7 @@ class Inferer:
         print('test_acc: {:.4f}, test_f1: {:.4f}'.format(test_acc, test_f1))
         return test_acc, test_f1
     
-    def evaluate_test(self, raw_text, aspect):
+    def evaluate_test(self):
         test_acc, test_f1 = self.evaluate_acc_f1v2()  
         print('test_acc: {:.4f}, test_f1: {:.4f}'.format(test_acc, test_f1))
         sys.exit(0)
@@ -428,7 +428,7 @@ if __name__ == '__main__':
     inf = Inferer(opt)
     #sys.exit(0)
     #t_probs = inf.evaluate('The staff should be a bit more friendly .', 'staff')
-    t_probs = inf.evaluate_test('The staff should be a bit more friendly .', 'staff')
+    inf.evaluate_test()
     #print(t_probs)
     #print(t_probs.argmax(axis=-1)[0])
 
