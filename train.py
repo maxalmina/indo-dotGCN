@@ -1,25 +1,24 @@
 # -*- coding: utf-8 -*-
-
 import os
 import math
 import argparse
 import random
+
 import numpy
+from sklearn import metrics
+
 import torch
 import torch.nn as nn
-from bucket_iterator import BucketIterator
-from sklearn import metrics
+
 from data_utils import ABSADatesetReader
+from bucket_iterator import BucketIterator
 from models import BertSPC, RLGCN, RLVAEGCN, DepGCNv2
 
+from transformers import AdamW
 from transformers.models.bert.modeling_bert import BertModel
 from transformers.optimization import get_linear_schedule_with_warmup
-from transformers import AdamW
 
 from allennlp.modules.scalar_mix import ScalarMix
-
-import torch.nn.functional as F 
-from torch.nn import GRUCell, LayerNorm
 
 class Instructor:
     def __init__(self, opt):
@@ -53,13 +52,10 @@ class Instructor:
                 n_nontrainable_params += n_params
         
         print('n_trainable_params: {0}, n_nontrainable_params: {1}'.format(n_trainable_params, n_nontrainable_params))
-        #if n_trainable_params != 113796959: 
-        #    sys.exit(0) 113796958
         print('n_trainable_params: {0}, n_nontrainable_params: {1}'.format(n_trainable_params, n_nontrainable_params))
         print('> training arguments:')
         for arg in vars(self.opt):
             print('>>> {0}: {1}'.format(arg, getattr(self.opt, arg)))
-        #sys.exit(0)
       
     def _reset_params(self):
          for child in self.model.children():
@@ -67,25 +63,20 @@ class Instructor:
                 for name, p in child.named_parameters():
                     if p.requires_grad:
                         if len(p.shape) > 1:
-                            #if "dist_emb" in name:
-                            #    p.data.normal_(mean=0, std=1.0)
-                            #else:
                             self.opt.initializer(p)
                         else:
                             stdv = 1. / math.sqrt(p.shape[0])
                             torch.nn.init.uniform_(p, a=-stdv, b=stdv)
     
     def lr_exponential_decay(self, optimizer, decay_rate):
-        #return
         for param_group in optimizer.param_groups:
             param_group['lr'] *= decay_rate
-            print(f" Learning rate is setted as: {param_group['lr']}")
+            print(f"Learning rate is setted as: {param_group['lr']}")
 
     def load_model(self):
         print('loading model {0} ...'.format(opt.load_state_dict_path))
         self.model.load_state_dict(torch.load(opt.load_state_dict_path))
         print("[tlog] load success")
-        #self.model.fix_policy()
 
     def _train(self, criterion, optimizer, scheduler=None):
         max_dev_acc = 0
@@ -98,28 +89,23 @@ class Instructor:
         continue_not_increase = 0
         save_index = 0
         
-        
         if not self.opt.use_single_optimizer: 
             bert_optimizer, non_bert_optimizer = optimizer
         
             bert_params = []
             non_bert_params = []
             for name, param in self.model.named_parameters():
-                if param.requires_grad: 
-                    #print(name)
+                if param.requires_grad:
                     if "bert_model" in name: 
                         bert_params.append(param)
                     else:
                         non_bert_params.append(param)
         else:
             bert_params = [ param for name, param in self.model.named_parameters() if param.requires_grad]
-        
-        #_params = filter(lambda p: p.requires_grad, self.model.parameters())
-        
-        max_temp = 1.0 
-        min_temp = 0.2 
-        
-        
+
+        #max_temp = 1.0 
+        #min_temp = 0.2 
+
         for epoch in range(self.opt.num_epoch):
             print('>' * 100)
             print('epoch: ', epoch)
@@ -131,14 +117,7 @@ class Instructor:
                     self.lr_exponential_decay(non_bert_optimizer, 0.97)
             
             for i_batch, sample_batched in enumerate(self.train_data_loader):
-                temperature = None 
-                '''
-                temperature = max_temp - (max_temp - min_temp) / ((self.train_examples / self.opt.batch_size) * 3 ) * global_step
-                if temperature < min_temp: 
-                    temperature = min_temp
-                '''
-                #print(f"[tlog] temp: {temperature}")
-                
+                temperature = None
                 global_step += 1
                 
                 # switch model to training mode, clear gradient accumulators
@@ -150,7 +129,6 @@ class Instructor:
                 
                 inputs = [sample_batched[col].to(self.opt.device) if (col !="word_lens" and col != "words") else sample_batched[col] for col in self.opt.inputs_cols]
                 targets = sample_batched['polarity'].to(self.opt.device)
-                #aux_aspect_targets = sample_batched['aux_aspect_targets'].to(opt.device)
                 
                 outputs, loss = self.model(inputs, temperature=temperature, labels=targets)
                 
@@ -199,7 +177,7 @@ class Instructor:
                             if self.opt.save:
                                 save_index = (save_index + 1)%5
                                 save_index = 0
-                                path = 'state_dict_depgcn2/'+self.opt.model_name+'_'+self.opt.dataset + "." + str(save_index)+'.pkl'
+                                path = 'saved_models/state_dict_'+self.opt.model_name+'/'+self.opt.model_name+'_'+self.opt.dataset + "." + str(save_index)+'.pkl'
                                 print(path)
                                 torch.save(self.model.state_dict(), path)
                             
@@ -243,13 +221,10 @@ class Instructor:
 
     def run(self, repeats=1):
         # Loss and Optimizer
-        
         if self.use_dice_loss: 
             criterion = MulticlassDiceLoss()
         else:
             criterion = nn.CrossEntropyLoss()
-    
-        #_params = filter(lambda p: p.requires_grad, self.model.parameters())
         
         if not self.opt.use_single_optimizer:
             bert_params = []
@@ -273,12 +248,9 @@ class Instructor:
                                     warmup=self.opt.warmup_proportion,
                                     t_total=total_train_steps)
                 else:
-                    bert_optimizer = None 
-                
-                #non_bert_optimizer = torch.optim.Adam(non_bert_params, lr=1e-3, weight_decay=1e-4)
+                    bert_optimizer = None
+
                 non_bert_optimizer = torch.optim.Adam(non_bert_params, lr=self.opt.learning_rate, weight_decay=1e-4)
-                #non_bert_optimizer = BertAdam(non_bert_params, lr=1e-3, weight_decay=1e-4)
-                #non_bert_optimizer = BertAdam(non_bert_params, lr=1e-3)
             else:
                 params = [ param for name, param in self.model.named_parameters() if param.requires_grad]
                 
@@ -293,20 +265,6 @@ class Instructor:
             else:
                 params = [ param for name, param in self.model.named_parameters() if param.requires_grad]
                 bert_optimizer = self.opt.optimizer(params, lr=self.opt.learning_rate, weight_decay=self.opt.l2reg)
-            
-        '''
-        named_params = list(self.model.named_parameters())
-        no_decay = ['bias', 'LayerNorm.bias', 'LayerNorm.weight']
-        optimizer_grouped_parameters = [
-            {'params': [p for n, p in named_params if not any(nd in n for nd in no_decay)], 'weight_decay': self.opt.l2reg},
-            {'params': [p for n, p in named_params if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
-        ]
-        #sys.exit(0)
-        '''
-        
-        #optimizer = AdamW(_params, lr=self.opt.learning_rate, correct_bias=False, weight_decay=self.opt.l2reg) 
-        #optimizer =  self.opt.optimizer(optimizer_grouped_parameters, lr=self.opt.learning_rate, weight_decay=self.opt.l2reg)
-        #optimizer = AdamW(optimizer_grouped_parameters, lr=self.opt.learning_rate, correct_bias=False) 
         
         if self.opt.use_bert_adam and bert_optimizer is not None: 
             scheduler = get_linear_schedule_with_warmup(bert_optimizer, num_warmup_steps=int(total_train_steps * self.opt.warmup_proportion), num_training_steps=total_train_steps)
@@ -331,8 +289,7 @@ class Instructor:
             print('repeat: ', (i+1))
             f_out.write('repeat: '+str(i+1))
             self._reset_params()
-            #if self.opt.load_state_dict_path is not None: 
-            #    self.load_model()
+
             max_dev_acc, max_dev_f1, max_test_acc, max_test_f1 = self._train(criterion, [bert_optimizer, non_bert_optimizer] if not self.opt.use_single_optimizer else [bert_optimizer], scheduler)
             print('max_dev_acc: {0}     max_dev_f1: {1}'.format(max_dev_acc, max_dev_f1))
             print('max_test_acc: {0}     max_test_f1: {1}'.format(max_test_acc, max_test_f1))
@@ -360,7 +317,7 @@ if __name__ == '__main__':
     # Hyper Parameters
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='lstm', type=str)
-    parser.add_argument('--dataset', default='twitter', type=str, help='twitter, rest14, lap14, rest15, rest16, t, z, mams')
+    parser.add_argument('--dataset', default='twitter', type=str, help='twitter, rest14, laptop14, rest15, rest16, t, z, mams')
     parser.add_argument('--optimizer', default='adam', type=str)
     parser.add_argument('--initializer', default='xavier_uniform_', type=str)
     parser.add_argument('--learning_rate', default=2e-5, type=float)
@@ -371,7 +328,7 @@ if __name__ == '__main__':
     parser.add_argument('--embed_dim', default=300, type=int)
     parser.add_argument('--hidden_dim', default=300, type=int) #300
     parser.add_argument('--polarities_dim', default=3, type=int)
-    parser.add_argument('--save', default=False, type=bool)
+    parser.add_argument('--save', default=True, type=bool)
     parser.add_argument('--use_aux_aspect', default=False, type=bool)
     parser.add_argument('--use_single_bert', default=False, type=bool)
     parser.add_argument('--seed', default=776, type=int) #776
@@ -393,22 +350,19 @@ if __name__ == '__main__':
     parser.add_argument('--td_weight', default=0.1, type=float) #tree distance regularzied weight
     parser.add_argument('--ent_weight', default=0.0001, type=float) #entropy weight 
     parser.add_argument('--att_weight', default=0.1, type=float) # attention weight
-    
-    
+
     opt = parser.parse_args()
     print("[tlog] opt: " + str(opt))
-    #sys.exit(0)
+
     model_classes = {
         'depgcn2': DepGCNv2,
         'rlgcn': RLGCN,
-        'vaerlgcn': RLVAEGCN,
         'bert-spc': BertSPC,
     }
     input_colses = {
         'bert-spc': ['text_indices', 'aspect_indices', 'left_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens'],
         'rlgcn': ['text_indices', 'aspect_indices', 'aspect_bert_indices', 'left_indices', 'left_bert_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens', 'words', 'aux_aspect_targets'],
         'depgcn2': ['text_indices', 'aspect_indices', 'aspect_bert_indices', 'left_indices', 'left_bert_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens', 'words', 'aux_aspect_targets', 'dist_to_target'],
-        'vaerlgcn': ['text_indices', 'aspect_indices', 'aspect_bert_indices', 'left_indices', 'left_bert_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'labeled_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'labeled_bert_segments_ids', 'labeled_bert_token_masks', 'word_lens', 'words', 'aux_aspect_targets'],
     }
     initializers = {
         'xavier_uniform_': torch.nn.init.xavier_uniform_,
@@ -425,19 +379,17 @@ if __name__ == '__main__':
         'rmsprop': torch.optim.RMSprop,  # default lr=0.01
         'sgd': torch.optim.SGD,
     }
+
     opt.model_class = model_classes[opt.model_name]
     opt.inputs_cols = input_colses[opt.model_name]
     opt.initializer = initializers[opt.initializer]
     opt.optimizer = optimizers[opt.optimizer]
     opt.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu') \
         if opt.device is None else torch.device(opt.device)
-    
-    #'''
-    #to replicate 88.4 results
+
     opt.use_bert_adam = True 
     opt.use_single_optimizer = False 
-    
-    
+
     if opt.seed is not None:
         random.seed(opt.seed)
         numpy.random.seed(opt.seed)

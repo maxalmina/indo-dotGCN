@@ -1,19 +1,17 @@
 # -*- coding: utf-8 -*-
 
-import os
-import pickle
+import sys
+import math
+from sklearn import metrics
+
 import torch
 import torch.nn.functional as F
-import argparse
-import math 
 
 from data_utils import ABSADatesetReader, ABSADataset, build_embedding_matrix
 from bucket_iterator import BucketIterator
-from dependency_graph import dependency_adj_matrix
+from dependency_graph_stanza_towe import dependency_adj_matrix
 from collections import defaultdict
-from sklearn import metrics
-import sys
-from models import LSTM, ASCNN, ASGCN, BertSPC, LFGCN, DualBertGCN, RLGCN, DepGCNv2
+from models import BertSPC, RLGCN, RLVAEGCN, DepGCNv2
 
 class AttentionDebuger:
     def __init__(self):
@@ -30,8 +28,6 @@ class AttentionDebuger:
     def clear(self):
         self.kuma_adj = None
         self.alpha = None
-    
-    
     
     def update(self, i, b, e, s):
         dist = 0 
@@ -52,23 +48,6 @@ class AttentionDebuger:
         for i in range(len(s_list)):
             self.update(i, b, e, s_list[i])
     
-    '''
-    def bin_att_len(self, sent_len):
-        if sent_len >=0 and sent_len <=10: 
-            return sent_len 
-        if sent_len >10 and sent_len <=20: 
-            return 11
-        if sent_len >20 and sent_len <=30: 
-            return 12
-        if sent_len >30 and sent_len <=40: 
-            return 13
-        if sent_len >40 and sent_len <=50: 
-            return 14
-        if sent_len >50 and sent_len <=60: 
-            return 15
-        return 16
-    '''
-    
     def bin_att_len(self, sent_len):
         if sent_len <= 7:
             return sent_len 
@@ -84,10 +63,6 @@ class AttentionDebuger:
     def report(self):
         keys = self.dist_word_dict.keys()
         keys = sorted(keys)
-        #print(self.dice_loss1)
-        #print(self.dice_loss2)
-        #print("[tlog] average dice_loss1: {%.2f}" % (self.dice_loss1/ len(keys)) )
-        #print("[tlog] average dice_loss2: {%.2f}" % (self.dice_loss2/ len(keys)) )
         for dist in keys:
             average_score = self.dist_attention_weights[dist] / self.dist_word_dict[dist]
             print("{}\t{}\t{}".format(dist, self.dist_word_dict[dist], average_score))
@@ -114,7 +89,6 @@ class Inferer:
             print('cuda memory allocated:', torch.cuda.memory_allocated(device=opt.device.index))
             
         print('loading model {0} ...'.format(opt.model_name))
-        #sys.exit(0)
         use_single = True    
         if use_single: 
             self.model.load_state_dict(torch.load(opt.state_dict_path))
@@ -129,9 +103,6 @@ class Inferer:
             self.model.load_state_dict(model_state)
 
         print("[tlog] load success")
-        #sys.exit(0)
-        #self.model = self.model
-        # switch model to evaluation mode
         self.model.eval()
         torch.autograd.set_grad_enabled(False)
     
@@ -144,7 +115,6 @@ class Inferer:
         
         with torch.no_grad():
             for t_batch, t_sample_batched in enumerate(self.test_data_loader):
-                #t_inputs = [t_sample_batched[col].to(opt.device) if col !="word_lens" else t_sample_batched[col] for col in self.opt.inputs_cols] 
                 t_inputs = [t_sample_batched[col].to(opt.device) if (col !="word_lens" and col != "words") else t_sample_batched[col] for col in self.opt.inputs_cols] 
                 
                 t_targets = t_sample_batched['polarity'].to(opt.device)
@@ -188,7 +158,6 @@ class Inferer:
         
         with torch.no_grad():
             for t_batch, t_sample_batched in enumerate(self.test_data_loader):
-                #t_inputs = [t_sample_batched[col].to(opt.device) if col !="word_lens" else t_sample_batched[col] for col in self.opt.inputs_cols] 
                 t_inputs = [t_sample_batched[col].to(opt.device) if (col !="word_lens" and col != "words") else t_sample_batched[col] for col in self.opt.inputs_cols] 
                 t_targets = t_sample_batched['polarity'].to(opt.device)
                 t_outputs = self.model(t_inputs, debugger=debugger, labels=t_targets)
@@ -204,14 +173,8 @@ class Inferer:
                 else:
                     t_targets_all = torch.cat((t_targets_all, t_targets), dim=0)
                     t_outputs_all = torch.cat((t_outputs_all, t_outputs), dim=0)
-                    
-                #for j in range(len(t_targets)):
-                #    sent_id = t_sample_batched['sent_id'][j].item()
-                #    kuma_adj_dict
-                #print(t_sample_batched)
                 
                 for j in range(t_targets.size(0)):
-                    #print("j: " + str(j))
                     index = start_index + j 
                     sent_id = test_data[index]['sent_id']
                     sent_id = int(sent_id)
@@ -219,55 +182,26 @@ class Inferer:
                     aspects = self.test_data_loader.ma_dict[sent_id]
                     num_aspects = len(aspects)
                     print("[tlog] num aspects: " + str(num_aspects))
-                    #sys.exit(0)
+
                     if num_aspects > 7:
                         num_aspects = 7 
                         
                     dependency_graph = torch.tensor([test_data[index]['dependency_graph']])
-                    #if len()
+
                     if(len(test_data[index]['text'].split()) != dependency_graph[0].size(0)):
                         print("[tlog] error")
                         print(len(test_data[index]['text']))
                         print(dependency_graph[0].size())
-                    
-                
+
                     print("text:\n" + str(test_data[index]['text']))
-                    '''
-                    print("dep_graph:\n" + str(dependency_graph[0].numpy()))
-                    #print("[tlog] t_outputs: " + str(t_outputs))
-                    #print("[tlog] t_outputs[j]: " + str(t_outputs[j]))
-                    #sys.exit(0)
-                    kuma_adj = debugger.kuma_adj[j]
-                    
-                    if(kuma_adj.size(0) < dependency_graph[0].size(0)):
-                        print("[tlog] error2")
-                        print(kuma_adj.size(0))
-                        print(dependency_graph[0].size())
-                    
-                    print("[tlog] kuma_adj: ")
-                    print("[", end="")
-                    rows, cols = kuma_adj.size()
-                    drows, dcols = dependency_graph[0].size()
-                    rows = min(rows, drows)
-                    cols = min(cols, dcols)
-                    for i in range(rows):
-                        print("[ ",end='')
-                        for k in range(cols):
-                            print("%.2f " %(kuma_adj[i,k].item()),end='')
-                        print("]")
-                    print("]")
-                    '''
+
                     if hasattr(debugger, 'alpha'):
                         alpha = debugger.alpha
-                        #print(alpha)
                         if alpha is not None: 
                             attention = alpha[j].cpu().numpy().tolist()
-                            #print(attention)
-                            #print(attention[0])
                             attention = [ str(x) for x in attention]
                             print("alpha: " + " ".join(attention))
-                    
-                    #sys.exit(0)
+
                     pred_label_index = t_outputs[j].argmax(axis=-1)
                     ploarity_label_index = test_data[index]['polarity']
                     print("predict: " + str(pred_label_index.item()))
@@ -284,8 +218,7 @@ class Inferer:
                         aspect_acc_stat[num_aspects] += 1
                     else:
                         print("wrong")
-                #sys.exit(0)     
-                #start_index += len(t_inputs)
+
                 start_index += len(t_targets)
                 debugger.clear()
                 
@@ -447,8 +380,6 @@ class Inferer:
             return 5
         return 6
     
-    
-
 if __name__ == '__main__':
     dataset = sys.argv[1]
     print("[tlog] dataset: " + dataset)
@@ -458,36 +389,17 @@ if __name__ == '__main__':
         in_dataset = dataset
     # set your trained models here
     model_state_dict_paths = {
-        'lstm': 'state_dict/lstm_'+dataset+'.pkl',
-        'ascnn': 'state_dict/ascnn_'+dataset+'.pkl',
-        'asgcn': 'gatedgcn_state/asgcn_'+dataset+'.pkl',
-        #'asgcn': 'state_dict/asgcn_'+in_dataset+'.pkl',
-        'dual': 'state_dict/dual_'+dataset+'.pkl',
-        'bert-spc': 'state_dict_base/bert-spc_'+in_dataset+'.pkl',
-        #'rlgcn': 'mams_rlgcn_state_dict/rlgcn_'+in_dataset+'.0.pkl',
-        'rlgcn': 'state_dict_rest16/rlgcn_'+in_dataset+'.0.pkl',
-        'depgcn2': 'state_dict_depgcn2/depgcn2_'+in_dataset+'.0.pkl',
+        'bert-spc': 'saved_models/state_dict_bert-spc/bert-spc_'+in_dataset+'.pkl',
+        'rlgcn': 'saved_models/state_dict_rlgcn/rlgcn_'+in_dataset+'.0.pkl',
+        'depgcn2': 'saved_models/state_dict_depgcn2/depgcn2_'+in_dataset+'.0.pkl',
     }
     model_classes = {
-        'lstm': LSTM,
-        'ascnn': ASCNN,
-        'asgcn': ASGCN,
-        'astcn': ASGCN,
-        'lfgcn': LFGCN,
-        'rlgcn': RLGCN, 
-        'dual': DualBertGCN, 
         'bert-spc': BertSPC,
-        'depgcn2': DepGCNv2
+        'depgcn2': DepGCNv2,
+        'rlgcn': RLGCN
     }
     input_colses = {
-        'lstm': ['text_indices'],
-        'ascnn': ['text_indices', 'aspect_indices', 'left_indices'],
-        'asgcn': ['text_indices', 'aspect_indices', 'left_indices', 'dependency_graph', 'pos_indices', 'rel_indices'],
         'bert-spc': ['text_indices', 'aspect_indices', 'left_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens'],
-        'lfgcn': ['text_indices', 'aspect_indices', 'left_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens'],
-        'asgcn': ['text_indices', 'aspect_indices', 'aspect_bert_indices', 'left_indices', 'left_bert_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens'],
-        'dual': ['text_indices', 'aspect_indices', 'aspect_bert_indices', 'left_indices', 'left_bert_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens', 'aux_aspect_targets'],
-        'astcn': ['text_indices', 'aspect_indices', 'left_indices', 'dependency_graph'],
         'rlgcn': ['text_indices', 'aspect_indices', 'aspect_bert_indices', 'left_indices', 'left_bert_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens', 'words', 'aux_aspect_targets'],
         'depgcn2': ['text_indices', 'aspect_indices', 'aspect_bert_indices', 'left_indices', 'left_bert_indices', 'dependency_graph', 'pos_indices', 'rel_indices', 'text_bert_indices', 'text_raw_bert_indices', 'bert_segments_ids', 'bert_token_masks', 'word_lens', 'words', 'aux_aspect_targets', 'dist_to_target']
     }

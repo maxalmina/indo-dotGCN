@@ -1,0 +1,8 @@
+glove/
+data_token/
+data_embedding/
+.vs/
+saved_models/
+*.pyc
+*.dist
+__pycache__/
