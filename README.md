@@ -1,6 +1,6 @@
 ## Code for Discrete Opinion Tree Induction for Aspect Sentiment Analysis 
 
-### 1. Download Glove 
+### 1. New Folders
 create 3 new folders `glove`, `data_embedding`, and `data_token`
 
 ### 2. Download Glove 
