@@ -6,7 +6,10 @@ create 3 new folders `glove`, `data_embedding`, and `data_token`
 ### 2. Download Glove 
 Download and put glove embeddings `glove.840B.300d.txt` in the new folder `glove`. This is only used as a placeholder, we do not use the glove embeddings in this project. 
 
-### 3. Run Mams 
+### 3. Install Libraries
+Install all libraries needed using `pip install -r requirements.txt`
+
+### 4. Run Mams 
 
 Use the default settings for `dotGCN`
 ```
@@ -19,7 +22,7 @@ python train.py --dataset mams --model rlgcn --seed 2333
 ```
 To use other datasets, you can change the dataset name `mama` to the desired one such as `rest14`, `laptop14`, `twitter`, `small`. 
 
-### 4. Run Baselines 
+### 5. Run Baselines 
 Run `BERT-SPC*` 
 ```
 python train.py --dataset mams --model bert-spc
