@@ -289,8 +289,9 @@ class DepGCNv2(nn.Module):
         
         self.bert_dim = 768
         
-        model_name = "bert-base-uncased"
-        self.bert_model = BertModel.from_pretrained(model_name, output_hidden_states=True)
+        #model_name = "bert-base-uncased"
+        model_name = "indobenchmark/indobert-base-p2"
+        self.bert_model = BertModel.from_pretrained(model_name, output_hidden_states=True, return_dict=False)
        
         self.text_embed_dropout = nn.Dropout(0.3) #nn.Dropout(0.3)
         self.bert_embed_dropout = nn.Dropout(0.1)

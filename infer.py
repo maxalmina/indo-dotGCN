@@ -389,7 +389,7 @@ if __name__ == '__main__':
         in_dataset = dataset
     # set your trained models here
     model_state_dict_paths = {
-        'bert-spc': 'saved_models/state_dict_bert-spc/bert-spc_'+in_dataset+'.pkl',
+        'bert-spc': 'saved_models/state_dict_bert-spc/bert-spc_'+in_dataset+'.0.pkl',
         'rlgcn': 'saved_models/state_dict_rlgcn/rlgcn_'+in_dataset+'.0.pkl',
         'depgcn2': 'saved_models/state_dict_depgcn2/depgcn2_'+in_dataset+'.0.pkl',
     }

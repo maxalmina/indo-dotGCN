@@ -19,7 +19,7 @@ nlp = stanfordnlp.Pipeline(**config)
 
 '''spacy'''
 
-nlp = stanza.Pipeline('en', tokenize_pretokenized=True) # initialize English neural pipeline
+nlp = stanza.Pipeline('id', tokenize_pretokenized=True) # initialize English neural pipeline
 
 def dependency_adj_matrix(text):
     #print(text)
@@ -157,43 +157,10 @@ def process(filename):
     fout.close() 
 
 if __name__ == '__main__':
-    #process('./datasets/mams_small/mams_train.raw')
-    #process('./datasets/mams_small/mams_val.raw')
-    #process('./datasets/mams_small/mams_test.raw')
-    process(sys.argv[1])
+    process('./datasets/id_casa/train.raw')
+    process('./datasets/id_casa/val.raw')
+    process('./datasets/id_casa/test.raw')
+    #process(sys.argv[1])
     
     sys.exit(0)
-    #process('./datasets/merge/train.raw')
-    process('./datasets/merge/test.raw')
-    sys.exit(0)
-    #process('./datasets/semeval14/restaurant_train.raw')
-    #process('./datasets/semeval14/restaurant_test.raw')
-    #'''
-    #process('./datasets/semeval16/restaurant_train.raw')
-    #process('./datasets/semeval16/restaurant_test.raw')
-    sys.exit(0)
-    #process('./datasets/semeval14/restaurant_train1.raw')
-    #process('./datasets/semeval14/restaurant_test1.raw')
-    #sys.exit(0)
-    process('./datasets/mams/mams_train.raw')
-    process('./datasets/mams/mams_val.raw')
-    process('./datasets/mams/mams_test.raw')
-    sys.exit(0)
-    process('./datasets/acl-14-short-data/train.raw')
-    process('./datasets/acl-14-short-data/test.raw')
-    #sys.exit(0)
-    #process('./datasets/semeval14/restaurant_train.raw')
-    #process('./datasets/semeval14/restaurant_test.raw')
-
-    process('./datasets/semeval14/laptop_train.raw')
-    process('./datasets/semeval14/laptop_test.raw')
-    process('./datasets/semeval15/restaurant_train.raw')
-    process('./datasets/semeval15/restaurant_test.raw')
-    #'''
-    process('./datasets/T_data/train.raw')
-    process('./datasets/T_data/test.raw')
-    
-    process('./datasets/Z_data/train.raw')
-    process('./datasets/Z_data/dev.raw')
-    process('./datasets/Z_data/test.raw')
     

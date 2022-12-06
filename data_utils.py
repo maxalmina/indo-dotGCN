@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
+import sys
 import pickle
 import numpy as np
 from transformers import BertTokenizer
@@ -30,8 +31,10 @@ def build_embedding_matrix(word2idx, embed_dim, type):
         print('loading word vectors ...')
         embedding_matrix = np.zeros((len(word2idx), embed_dim))  # idx 0 and 1 are all-zeros
         embedding_matrix[1, :] = np.random.uniform(-1/np.sqrt(embed_dim), 1/np.sqrt(embed_dim), (1, embed_dim))
-        fname = './glove/glove.840B.300d.txt'
-        word_vec = load_word_vec(fname, word2idx=word2idx)
+        #fname = './glove/glove.840B.300d.txt'
+        #word_vec = load_word_vec(fname, word2idx=word2idx)
+        fname = './glove/cc.id.300.vec'
+        word_vec = load_word_vec(fname)
         print('building embedding_matrix:', embedding_matrix_file_name)
         for word, i in word2idx.items():
             vec = word_vec.get(word)
@@ -189,11 +192,16 @@ class ABSADatesetReader:
             idx2dist = {}
             
         all_data = []
-        
+        '''
         if polarity2label is None:
             polarity2label = {0: 'disgusting horrible terrible lousy worst boring unhelpful ridiculous awful bad', \
                               1: 'so-so neutral average unbiased mixed alright', 
                               2: 'excellent wonderful fantastic perfect gem terrific spectacular outstanding exceptional delightful great good'}
+        '''
+        if polarity2label is None:
+            polarity2label = {0: 'menjijikkan mengerikan buruk membosankan konyol jelek', \
+                              1: 'netral rata-rata baik-baik', 
+                              2: 'bagus sempurna baik menyenangkan nyaman'}
 
         for i in range(0, len(lines), 3):
             text_left, _, text_right = [s.lower().strip() for s in lines[i].partition("$T$")]
@@ -216,6 +224,8 @@ class ABSADatesetReader:
             
             left_indices = tokenizer.text_to_sequence(text_left)
             polarity = int(polarity)+1
+            if polarity == 1:
+                print("pol 1")
             dependency_graph = idx2gragh[i]
             text_bert_indices = bert_tokenizer.text_to_sequence('[CLS] ' + original_line + ' [SEP] ' + aspect + " [SEP]")
             left_bert_indices = bert_tokenizer.text_to_sequence('[CLS] ' + text_left)
@@ -228,7 +238,6 @@ class ABSADatesetReader:
             assert span_end < len(text_indices)
 
             word_lens = [ len(bert_tokenizer.text_to_sequence(word)) for word in original_line.split()]
-
 
             text_raw_bert_indices = bert_tokenizer.text_to_sequence("[CLS] " + original_line + " [SEP]")
 
@@ -245,6 +254,9 @@ class ABSADatesetReader:
             labeled_bert_token_masks = [1] * len(labeled_bert_indices)
             assert len(bert_segments_ids) == len(text_bert_indices)
 
+            #print(original_line)
+            #print(pos_lines[i//3].strip())
+
             pos_indices = pos_tokenizer.text_to_sequence(pos_lines[i//3].strip())
             
             if len(pos_indices) != len(text_indices):
@@ -253,7 +265,7 @@ class ABSADatesetReader:
                 print("text_len:" + str(len(text_indices)))
                 print(text_indices)
                 sys.exit(0)
-                
+
             assert(len(pos_indices) == len(text_indices))    
             rel_indices = rel_tokenizer.text_to_sequence(rel_lines[i//3].strip())
             target = (len(left_indices), len(left_indices)+len(aspect_indices))
@@ -298,7 +310,7 @@ class ABSADatesetReader:
         
         return all_data
     
-    def __init__(self, dataset='twitter', embed_dim=300, bert_name='bert-base-uncased', valset_ratio=None):
+    def __init__(self, dataset='twitter', embed_dim=300, bert_name='indobenchmark/indobert-base-p2', valset_ratio=None):
         print("preparing {0} dataset ...".format(dataset))
         fname = {
             
@@ -324,6 +336,11 @@ class ABSADatesetReader:
                 'train': './datasets/Z_data/train.raw', 
                 'dev': './datasets/Z_data/dev.raw', 
                 'test': './datasets/Z_data/test.raw'
+            },
+            'id-casa': {
+                'train': './datasets/id_casa/train.raw', 
+                'dev': './datasets/id_casa/val.raw', 
+                'test': './datasets/id_casa/test.raw'
             }
         }
 

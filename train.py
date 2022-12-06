@@ -59,7 +59,7 @@ class Instructor:
       
     def _reset_params(self):
          for child in self.model.children():
-            if type(child) not in [BertModel, ScalarMix, GRUCell,  nn.Embedding]:  # skip bert params
+            if type(child) not in [BertModel, ScalarMix, nn.GRUCell,  nn.Embedding]:  # skip bert params
                 for name, p in child.named_parameters():
                     if p.requires_grad:
                         if len(p.shape) > 1:

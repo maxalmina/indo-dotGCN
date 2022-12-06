@@ -12,7 +12,8 @@ class BertSPC(nn.Module):
     def __init__(self, embedding_matrix, opt):
         super(BertSPC, self).__init__()
         self.opt = opt
-        model_name = "bert-base-uncased"
+        model_name = "indobenchmark/indobert-base-p2"
+        #model_name = "bert-base-uncased"
         self.bert_model = BertModel.from_pretrained(model_name, output_hidden_states=True, return_dict=False)
         self.bert_dim = 768
         self.fc = nn.Linear(self.bert_dim, opt.polarities_dim)

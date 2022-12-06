@@ -1,0 +1,863 @@
+nsubj root obj flat flat obl nummod punct nummod appos punct punct nsubj det amod cc conj fixed nsubj det advcl case xcomp
+nsubj advmod root amod obj flat flat flat flat parataxis advmod xcomp obj advmod punct
+nsubj det cc conj det punct advmod root obj flat punct amod cc conj punct
+case nmod compound advmod nsubj advmod root nummod fixed xcomp obj amod
+mark root obj amod compound det
+nsubj punct flat compound compound det advmod root compound compound compound cc conj
+nsubj punct flat compound compound det advmod root compound compound compound cc conj
+nsubj advmod root obj compound punct nsubj advcl advmod punct nsubj advmod dep punct
+advmod root compound det advmod amod case case nsubj amod
+mark nsubj compound advmod root obj flat advmod nsubj compound compound nsubj amod cc conj
+nsubj amod amod flat flat flat advmod root obj compound cc conj advmod amod cc advmod conj
+root compound det nsubj acl obj case obl case nmod advmod cc nsubj conj compound punct fixed amod obj cc conj advmod case nmod cc conj det amod advmod punct
+root compound det nsubj acl obj case obl case nmod advmod cc nsubj conj compound punct fixed amod obj cc conj advmod case nmod cc conj det amod advmod punct
+nsubj obl nummod root obj punct fixed punct nsubj advmod advcl punct
+root flat flat flat flat flat cc conj
+root case obl compound amod case obl det amod cc conj det compound compound
+nsubj compound det root
+root cc conj nsubj acl compound det advmod amod case nmod det advmod amod cc conj cc conj obj compound
+root cc conj nsubj acl compound det advmod amod case nmod det advmod amod cc conj cc conj obj compound
+root cc conj nsubj acl compound det advmod amod case nmod det advmod amod cc conj cc conj obj compound
+nsubj root obj det advmod advmod advmod advcl
+nsubj flat flat flat flat flat flat nummod punct nsubj root obj amod flat punct
+amod nsubj root flat flat flat punct advmod nsubj amod det punct case nmod compound compound punct conj compound amod punct dep advmod amod case nmod amod cc conj advmod amod cc conj advmod advmod amod cc conj punct
+amod nsubj root flat flat flat punct advmod nsubj amod det punct case nmod compound compound punct conj compound amod punct dep advmod amod case nmod amod cc conj advmod amod cc conj advmod advmod amod cc conj punct
+amod nsubj root flat flat flat punct advmod nsubj amod det punct case nmod compound compound punct conj compound amod punct dep advmod amod case nmod amod cc conj advmod amod cc conj advmod advmod amod cc conj punct
+amod nsubj root flat flat flat punct advmod nsubj amod det punct case nmod compound compound punct conj compound amod punct dep advmod amod case nmod amod cc conj advmod amod cc conj advmod advmod amod cc conj punct
+amod nsubj root flat flat flat punct advmod nsubj amod det punct case nmod compound compound punct conj compound amod punct dep advmod amod case nmod amod cc conj advmod amod cc conj advmod advmod amod cc conj punct
+case nsubj advmod nsubj flat flat advmod root obj nsubj amod case nmod nsubj amod mark advmod amod case nmod det
+case nsubj advmod nsubj flat flat advmod root obj nsubj amod case nmod nsubj amod mark advmod amod case nmod det
+root obj compound advmod amod punct amod obl advmod advcl punct
+root det acl nummod advmod nummod nmod cc advmod conj case nmod det
+root amod case nmod compound amod mark advcl advmod punct conj punct fixed acl obj compound punct
+nsubj root obj punct advmod amod cc advmod conj punct
+nsubj amod compound det flat advmod root obj
+nsubj amod compound det flat advmod root obj
+advmod case nmod nsubj advmod root compound compound amod case nmod amod amod
+advmod case nmod nsubj advmod root compound compound amod case nmod amod amod
+mark nsubj det amod compound amod compound root obj flat
+mark nsubj det amod nsubj amod nsubj root obj flat
+root det acl det nsubj advmod amod
+nsubj compound amod cc conj advmod root obj
+root compound compound amod
+nsubj root obj compound punct conj amod compound punct case nummod obl advcl case obl amod compound punct advmod parataxis advmod amod advmod punct amod punct
+root case nmod amod punct conj
+advmod amod nsubj flat punct nsubj flat flat flat case nmod punct conj amod punct conj flat flat det advmod root punct
+advmod amod nsubj flat punct nsubj flat flat flat case nmod punct conj amod punct conj flat flat det advmod root punct
+advmod amod nsubj flat punct nsubj flat flat flat case nmod punct conj amod punct conj flat flat det advmod root punct
+advmod fixed det nsubj punct advmod root advmod amod mark nsubj amod nsubj conj punct
+advmod fixed det nsubj punct advmod root advmod amod mark nsubj amod nsubj conj punct
+nsubj advmod root case nmod case nmod compound nsubj advmod amod cc conj amod advmod
+nsubj advmod root case nmod case nmod compound nsubj advmod amod cc conj amod advmod
+nsubj case nmod flat advmod root
+nsubj flat compound nsubj root case conj
+mark advmod root mark advcl case nmod case conj compound det amod advmod
+mark nsubj compound det root cc advmod punct nsubj:pass compound compound compound det advcl amod nsubj amod cc mark advmod advcl advmod xcomp obj advmod case obl advmod punct
+case obl compound compound compound punct mark nsubj compound det det root amod punct
+case obl compound compound compound punct mark nsubj compound det det root amod punct
+amod advmod compound det amod cc case nmod punct advmod nummod nsubj advmod root advmod
+nsubj csubj advmod amod xcomp obj nummod punct nummod nummod compound nsubj amod det nsubj compound root advmod punct
+root advmod mark ccomp flat advmod amod cc conj case nmod amod det
+nsubj flat flat root obj det punct mark advcl obj
+nsubj flat flat root obj det punct mark advcl obj
+nsubj:pass compound det advmod root case obl
+nsubj advcl case obl compound compound amod nsubj advmod root punct amod punct
+root nummod compound det advmod amod cc amod conj case obl case nmod punct advmod conj case obl compound advmod amod cc nsubj:pass det conj xcomp obj compound nsubj amod punct
+root nummod compound det advmod amod cc amod conj case obl case nmod punct advmod conj case obl compound advmod amod cc nsubj:pass det conj xcomp obj compound nsubj amod punct
+root nummod compound det advmod amod cc amod conj case obl case nmod punct advmod conj case obl compound advmod amod cc nsubj:pass det conj xcomp obj compound nsubj amod punct
+nsubj root obj compound punct
+nsubj advmod root case nmod det case acl amod xcomp amod cc advmod conj compound compound mark advcl obj nsubj xcomp amod obj compound
+nsubj advmod root case nmod det case acl amod xcomp amod cc advmod conj compound compound mark advcl obj nsubj xcomp amod obj compound
+nsubj advmod amod cc nsubj amod nummod compound advmod root obj det
+advmod advmod root obj compound advmod nsubj advcl det obj
+nsubj root obj flat amod punct dep amod punct parataxis amod advmod case nmod compound nsubj advmod amod
+nsubj root obj flat amod punct dep amod punct parataxis amod advmod case nmod compound nsubj advmod amod
+nsubj root compound det amod mark case nmod nsubj advmod amod punct nsubj advmod advcl mark advcl case obl punct cc nsubj advmod amod amod conj mark advcl obj punct
+nsubj root compound det amod mark case nmod nsubj advmod amod punct nsubj advmod advcl mark advcl case obl punct cc nsubj advmod amod amod conj mark advcl obj punct
+nsubj root compound det amod mark case nmod nsubj advmod amod punct nsubj advmod advcl mark advcl case obl punct cc nsubj advmod amod amod conj mark advcl obj punct
+nsubj flat compound compound compound det advmod root amod mark case obl advmod advmod advcl nsubj obj det amod
+nsubj compound advmod amod punct nsubj root obj flat compound nummod case obl advmod amod punct
+nsubj advmod root cc conj det advmod xcomp obj compound nsubj advmod acl punct conj
+nsubj flat flat compound det advmod root obj det advmod amod cc conj punct advmod case obl punct advmod det dep punct
+mark nsubj acl compound punct nsubj det root case conj obj nsubj acl case xcomp amod xcomp case xcomp case obl
+nsubj punct flat nsubj compound amod advmod advmod amod case case obl root obj amod
+root advmod amod advmod amod
+nsubj:pass flat det nsubj advcl punct obj root case obl punct conj amod punct conj amod punct amod conj punct
+nsubj:pass flat det nsubj advcl punct obj root case obl punct conj amod punct conj amod punct amod conj punct
+advmod nsubj root obj mark nsubj advmod advcl obj compound compound cc conj det advmod amod cc conj obj amod amod fixed case obl compound
+nsubj:pass compound advmod root obj mark advcl obj amod punct advmod conj det flat flat nummod flat det
+root compound advmod det advmod amod punct mark advmod nsubj compound compound acl det fixed obj advmod parataxis xcomp punct advmod advcl punct obl
+nsubj root compound compound case nmod amod advmod compound punct obl compound advcl fixed obj det punct nsubj det advcl xcomp advmod advmod
+nsubj root obj flat det case obl nummod punct advmod nummod obl amod det compound compound det punct nsubj dep case obl amod advmod amod case nmod det punct mark advcl case obl det advmod amod obj punct det punct case amod obl advcl obj compound nsubj acl obj det advcl amod amod punct
+nsubj root obj flat det case obl nummod punct advmod nummod obl amod det compound compound det punct nsubj dep case obl amod advmod amod case nmod det punct mark advcl case obl det advmod amod obj punct det punct case amod obl advcl obj compound nsubj acl obj det advcl amod amod punct
+nsubj flat flat advmod root obj amod punct case obl det nsubj det dep obj nsubj advmod amod obj punct
+nsubj root xcomp obj punct nsubj advcl obj compound amod punct
+nsubj root xcomp obj compound acl obj compound amod punct
+nsubj flat cop det fixed root amod case nmod amod
+nsubj advmod root amod compound punct advmod advmod dep obj compound advmod case obl compound cc conj punct amod compound
+root nummod advmod obj nsubj case nsubj amod mark advcl obj punct advmod appos flat flat case nmod
+nsubj:pass root case obl compound nummod
+root compound amod case nmod det cc conj case nmod det punct
+root advmod amod obj punct
+root obj det compound advmod advmod amod punct nsubj amod punct amod case nmod punct parataxis amod advmod amod punct
+root obj det compound advmod advmod amod punct nsubj amod punct amod case nmod punct parataxis amod advmod amod punct
+root obj flat nsubj amod amod acl obj compound
+mark nsubj compound root advmod flat punct nsubj:pass det advmod dep obj det mark advcl det amod punct
+advmod nummod obl case xcomp obj compound compound flat flat root det obj compound flat compound amod cc conj
+root case nmod compound amod compound compound punct conj compound compound compound
+root case nmod compound amod compound compound compound compound compound compound
+advmod mark nsubj csubj obj compound compound nummod compound punct nsubj flat advmod root case obl flat punct
+root compound compound det advmod amod cc conj obj det
+root compound compound det advmod amod cc conj obj det
+nsubj root obj nummod flat punct parataxis obj amod case obl compound cc conj mark advcl case obl
+root flat compound compound advmod amod punct conj amod parataxis xcomp case obl compound punct conj compound amod amod punct
+root flat compound compound advmod amod punct conj amod parataxis xcomp case obl compound punct conj compound amod amod punct
+root flat compound compound advmod amod punct conj amod parataxis xcomp case obl compound punct conj compound amod amod punct
+root flat flat advmod amod case ccomp cc conj case obl flat nsubj amod case nmod acl punct
+root obj advmod advmod advmod amod
+nsubj root advmod advmod mark advmod nsubj punct advmod advcl advmod obj punct det punct advmod parataxis case nummod nmod punct
+nsubj:pass compound compound flat amod root case obl compound punct
+root advmod advmod advmod fixed det flat
+nsubj root case nmod punct
+mark advcl compound cc conj compound compound punct mark advmod nsubj root obj nummod obj advmod advmod amod nsubj acl punct case nsubj nsubj advcl advmod punct
+mark advcl compound cc conj compound compound punct mark advmod nsubj root obj nummod obj advmod advmod amod nsubj acl punct case nsubj nsubj advcl advmod punct
+nsubj det punct appos nummod advmod root compound punct
+cc root compound advmod advmod amod punct mark advcl amod advmod case nmod amod
+cc root compound advmod advmod amod punct mark advcl amod advmod case nmod amod
+nsubj:pass compound compound compound root amod obj compound case nmod amod compound amod punct conj compound
+nsubj:pass compound compound compound root amod obj compound case nmod amod compound amod punct conj compound
+case det root obj advmod amod cc conj advmod punct
+advmod nsubj punct fixed case nmod advmod advmod root obj punct conj cc conj
+nummod root compound punct appos case nmod flat flat flat flat flat punct flat flat flat flat punct
+mark nsubj advmod amod case nmod cop root det punct
+nsubj det nsubj flat det root obj flat
+nsubj det nsubj flat det root obj flat
+nsubj root xcomp obj case conj compound compound compound advmod amod
+nsubj root xcomp obj case conj compound compound compound advmod amod
+nsubj:pass advmod amod root xcomp case obl nsubj amod amod nmod
+amod amod advcl case obl flat flat advmod root obj compound amod mark advcl case nmod det punct parataxis compound det amod amod cc conj case obl cc case nmod punct amod advmod conj flat flat
+amod amod advcl case obl flat flat advmod root obj compound amod mark advcl case nmod det punct conj compound compound nsubj amod amod cc conj case obl cc case nmod punct amod advmod appos flat flat
+nsubj compound nsubj amod case nmod advmod advmod root punct
+det nsubj det root advmod advmod nmod det punct advmod case obl compound det advcl amod punct nsubj compound punct conj flat punct amod advmod dep punct
+det nsubj det root advmod advmod nmod det punct advmod case obl compound det advcl amod punct nsubj compound punct conj flat punct amod advmod dep punct
+nsubj advmod nsubj root obj case nummod case obl compound amod punct advmod nsubj case nmod amod advmod dep obj cc conj nsubj amod mark advmod advcl
+advmod nsubj det nsubj root amod case obl amod punct advmod advmod dep cc conj punct
+advmod nsubj nsubj root case obl punct nsubj det advmod case nmod case nmod advmod advcl advmod obl punct
+nsubj cop root compound det punct det cop dep amod advmod punct mark amod punct
+mark root obj compound compound compound advmod amod case nmod
+advmod root compound amod amod advmod amod case nmod punct
+advmod nummod obl nsubj root obj flat flat det punct nsubj det nsubj det nsubj advcl case case obl compound cc conj punct nsubj nsubj advmod amod punct conj cc conj flat punct
+nsubj root obj nsubj advmod amod cc advmod conj
+nsubj root obj nsubj advmod amod cc advmod conj
+nsubj compound cc conj compound compound compound det advmod advmod root
+mark case nmod nsubj compound advmod root punct mark advcl det nsubj det advcl amod mark punct mark mark advcl amod nummod punct nummod nsubj nsubj det advcl amod punct
+mark advmod case obl nummod compound punct compound amod cc conj det punct root obj det advmod advmod amod obj punct
+mark advmod case obl nummod compound punct compound amod cc conj det punct root obj det advmod advmod amod obj punct
+mark obl root obj det compound case nmod punct mark mark advmod nsubj advmod advcl obj advmod nummod compound compound case nmod punct appos amod punct conj amod cc conj punct
+mark obl root obj det compound case nmod punct mark mark advmod nsubj advmod advcl obj advmod nummod compound compound case nmod punct appos amod punct conj amod cc conj punct
+advmod nsubj compound advmod nsubj amod compound advmod root case obl compound
+root compound compound flat nsubj advmod amod punct
+root advmod advmod amod case nmod compound det punct nsubj compound punct det advmod dep obj punct
+root flat flat advmod case nmod nmod
+root flat flat advmod case nmod nmod
+obl nsubj advmod root amod obj punct
+nsubj compound nummod root advmod obj nsubj acl obj acl
+nsubj det advmod root det advmod advmod amod advmod punct advmod punct advmod amod punct
+root compound compound compound advmod amod
+amod nsubj:pass det root advmod conj case obl compound advmod
+nsubj det root obj compound compound det advmod amod case mark nsubj advcl obj
+nsubj det root obj compound compound det advmod amod case mark nsubj advcl obj
+advmod root case nmod compound punct advmod nummod obl advcl cc advmod conj obj advmod compound punct conj amod amod punct amod compound compound compound cc conj compound nsubj amod
+advmod root case nmod compound punct advmod nummod obl advcl cc advmod conj obj advmod compound punct conj amod amod punct amod compound compound compound cc conj compound nsubj amod
+advmod root case nmod compound punct advmod nummod obl advcl cc advmod conj obj advmod compound punct conj amod amod punct amod compound compound compound cc conj compound nsubj amod
+root det advmod amod amod punct advmod advmod parataxis case nmod
+root det acl advmod amod obj advmod nsubj acl
+nsubj root amod cc nsubj det conj xcomp obj acl obj
+advmod root mark conj nsubj amod case nmod compound punct nsubj case nmod advmod dep advmod advmod punct
+nsubj:pass flat punct case obl det amod compound det punct nsubj:pass compound det advmod cc conj advmod punct nsubj:pass det advmod root obj flat
+nsubj:pass flat punct case obl det amod compound det punct nsubj:pass compound det advmod cc conj advmod punct nsubj:pass det advmod root obj flat
+case obl case nmod compound compound advmod root det obj
+root compound compound det nsubj amod punct
+nsubj flat nummod nsubj det root amod
+root compound nsubj amod case nmod cc advmod advmod amod obj det
+nsubj root case obl nmod punct nsubj advmod advcl obj case nummod punct nummod obl punct advmod dep advmod advmod compound compound punct
+advmod root case xcomp case obl flat flat mark case obl amod mark advmod advmod advcl
+advmod amod root det obj flat punct
+advmod advmod det root mark case nmod compound advmod advmod amod punct mark advmod amod punct advmod advmod amod punct
+root advmod advmod obj compound compound det det advmod amod punct
+nsubj amod root obj punct case xcomp obl det cc conj amod punct parataxis advmod amod punct conj compound amod
+nsubj amod root obj punct case xcomp obl det cc conj amod punct parataxis advmod amod punct conj compound amod
+nsubj flat nsubj advmod root nummod punct obj det advmod amod amod
+advmod advmod root obj punct amod advmod amod xcomp obj punct
+advmod advmod root obj punct amod advmod amod xcomp obj punct
+root amod amod flat
+nsubj root obj advmod amod case nmod nsubj advmod amod
+nsubj root obj advmod amod case nmod nsubj advmod amod
+nsubj amod amod punct nsubj root obj compound amod advmod amod punct
+nsubj amod amod punct nsubj root obj compound amod advmod amod punct
+nsubj det root det advmod advmod amod obj punct
+mark root compound compound advmod amod case nmod
+mark root compound compound advmod amod case nmod
+root acl compound
+root obj case nmod flat flat flat punct advmod dep obj punct mark nsubj:pass amod flat punct mark amod amod advmod advcl punct
+nsubj compound compound flat compound nummod case xcomp advmod root obj amod
+advmod advcl amod punct nsubj root advmod amod obj compound det punct
+nsubj amod root advmod xcomp xcomp obj
+mark root compound nsubj amod punct advmod dep obj compound punct advmod case advcl compound advmod acl
+mark root compound nsubj amod punct advmod dep obj compound punct advmod case advcl compound advmod acl
+nsubj nsubj acl obj cc conj amod advmod root obj det compound case case obl cc conj det compound compound punct
+nsubj nsubj acl obj cc conj amod advmod root obj det compound case case obl cc conj det compound compound punct
+nsubj root case obl det
+nsubj root obj nummod compound nsubj amod cc conj punct cc nsubj conj advmod amod case nmod compound punct fixed nsubj:pass acl case obl compound
+nsubj root obj nummod compound nsubj amod cc conj punct cc nsubj conj advmod amod case nmod compound punct fixed nsubj:pass acl case obl compound
+advmod root det compound compound det advmod compound compound compound det advmod acl obj
+advmod root det compound compound det advmod compound compound compound det advmod acl obj
+root flat advmod amod advmod case nmod amod cc advmod conj punct
+nsubj:pass compound det advmod root
+obj nsubj advcl case obl det nsubj det nsubj acl obj advmod root xcomp case case obl
+nsubj root obj flat nummod flat punct case obl det advmod advcl obj compound punct
+advmod root obj case obl det punct parataxis case obl det compound punct conj compound punct
+advmod root obj case obl det punct parataxis case obl det compound punct conj compound punct
+advmod root obj case obl det punct parataxis case obl det compound punct conj compound punct
+nsubj root advmod punct obj amod advmod punct mark advcl compound compound advmod amod punct fixed
+nsubj root advmod punct obj amod advmod punct mark advcl compound compound advmod amod punct fixed
+nummod nsubj compound mark nsubj det advmod csubj case obl compound compound punct nsubj det cc compound conj compound cc nummod conj punct root obj compound cc conj obj compound
+nsubj flat root obj nsubj amod cc conj case nummod advmod advmod advcl compound punct det compound flat punct
+nsubj flat root obj nsubj amod cc conj case nummod advmod advmod advcl compound punct det compound flat punct
+advmod root obj compound amod mark advcl obj advmod amod
+mark nsubj amod det amod mark nsubj advmod root case obl
+mark nsubj amod det amod mark nsubj advmod root case obl
+root det compound compound case nmod compound compound
+root det compound compound case nmod compound compound
+nsubj fixed obj advmod nsubj acl case obl flat det cop root compound
+advmod root advmod advmod obj compound
+nsubj det advmod root advmod amod case obl case nmod amod punct conj advmod punct amod advmod advmod punct advmod obl compound amod acl amod amod punct cc nsubj advmod amod compound compound compound amod xcomp det obj
+root flat flat compound case nmod amod nummod compound punct
+nsubj obj flat root obj punct nsubj det amod punct conj amod mark mark advcl obj punct nsubj:pass amod punct
+nsubj obj flat root obj punct nsubj det amod punct conj amod mark mark advcl obj punct nsubj:pass amod punct
+nsubj obj flat root obj punct nsubj det amod punct conj amod mark mark advcl obj punct nsubj:pass amod punct
+nsubj flat flat nummod flat flat case nmod compound compound nummod root obj compound det advmod amod punct
+amod advmod root punct case nmod compound amod
+root compound flat advmod amod cc advmod conj nummod obj punct compound
+nsubj flat nsubj acl obj root obj amod compound cop advcl compound compound compound compound cc conj compound flat punct
+nsubj flat flat nsubj root punct mark nsubj compound compound compound compound compound det conj
+advmod amod nsubj flat flat punct advmod root punct nsubj advmod amod punct
+nsubj flat root case det obl acl obj punct
+nsubj nsubj compound punct nsubj root case obl compound case obl nummod compound amod punct advmod advmod parataxis punct cc advmod conj det compound compound
+advmod root advmod nsubj amod amod amod
+nsubj compound amod compound punct conj punct compound det compound det advmod amod case nmod amod compound punct nsubj nsubj root obj punct
+mark root obj compound advmod compound compound compound mark mark case nmod compound advmod advcl
+mark root obj compound advmod compound compound compound mark mark case nmod compound advmod advcl
+nsubj compound det root advmod advmod conj punct
+root compound det amod advmod conj case nmod nsubj amod acl obj
+advcl obj compound punct nsubj nsubj nummod nmod acl obj root obj compound punct
+nsubj compound compound det advmod root advmod advmod amod
+advmod nsubj advmod root xcomp obj compound punct advmod amod advmod amod punct
+nsubj obj punct compound nummod root advmod mark advcl det compound det amod punct conj det amod punct
+nsubj obj punct compound nummod root advmod mark advcl det compound det amod punct conj det amod punct
+root nsubj amod punct mark nsubj flat amod advmod punct
+root nsubj amod punct mark nsubj flat amod advmod punct
+root det acl compound compound amod advmod amod case nmod amod punct
+nsubj compound punct conj punct case nmod compound nsubj:pass acl advmod root obj nsubj acl obj acl flat det punct
+mark root obj advmod advcl obj advmod punct nsubj advmod amod cc conj punct
+nsubj advmod root obj obj nsubj acl mark case det obl case nmod punct
+root compound compound amod case nmod compound cc conj amod punct
+nsubj root xcomp det obj punct nsubj:pass compound compound det advmod dep punct case obl compound acl punct
+nummod obl root obj compound nummod compound punct case det advcl compound amod advmod compound compound punct
+root flat det obj compound punct parataxis amod obj punct det advmod nmod nummod punct mark advmod acl obj compound advmod punct
+root nummod compound flat flat amod compound compound punct
+root advmod case obl compound det amod punct mark advcl case nmod amod
+root advmod case obl compound det amod punct mark advcl case nmod amod
+nsubj root obj compound compound amod nsubj:pass advmod acl nummod advmod obl compound case nummod nmod punct compound
+amod root compound det amod compound compound compound compound case nummod compound case conj compound det punct case nmod nummod compound punct mark mark nsubj det parataxis obj punct
+amod root compound det amod compound compound compound compound case nummod compound case conj compound det punct case nmod nummod compound punct mark mark nsubj det parataxis obj punct
+root compound compound punct mark advcl compound compound compound punct advmod amod obj compound
+root compound compound punct mark advcl compound compound compound punct advmod amod obj compound
+root compound compound punct mark advcl compound compound compound punct advmod amod obj compound
+root compound amod advmod compound advmod nummod nmod advmod
+root cc conj amod amod compound compound punct parataxis det flat flat
+advcl obj compound compound nsubj acl amod root case xcomp advmod xcomp mark nsubj advmod advcl case nmod amod
+advcl obj compound compound nsubj acl amod root case xcomp advmod xcomp mark nsubj advmod advcl case nmod amod
+nsubj root obj amod advmod amod xcomp obj
+nsubj root obj amod advmod amod xcomp obj
+advmod det nsubj acl obj advmod advmod root advmod punct
+nsubj det compound nummod compound root cc conj obj punct
+nsubj root advmod amod case nmod case det nmod
+nsubj root advmod amod case nmod case det nmod
+nsubj compound det root advmod amod cc advmod conj obj compound conj advmod case obl compound
+nsubj nmod nmod advmod root compound advmod advmod amod case nmod
+nsubj nmod nmod advmod root compound advmod advmod amod case nmod
+nsubj root nsubj advmod advcl xcomp obj compound case obl nsubj amod
+root flat nummod punct advmod compound flat flat
+root compound compound det compound compound amod mark nsubj det advmod amod
+nsubj:pass flat nummod nummod advmod amod root advmod punct advmod advcl advmod amod punct nsubj:pass det amod xcomp case obl amod
+advmod root det amod punct parataxis det amod punct nsubj advmod amod punct nsubj compound advmod dep punct advcl case obl nsubj amod punct
+advmod root det amod punct parataxis det amod punct nsubj advmod amod punct nsubj compound advmod dep punct advcl case obl nsubj amod punct
+advmod root det amod punct parataxis det amod punct nsubj advmod amod punct nsubj compound advmod dep punct advcl case obl nsubj amod punct
+nsubj root case obl compound det advmod amod cc advcl det amod cc advmod punct advmod amod
+nsubj root obj compound case nummod punct compound case advmod nummod compound punct advmod dep advmod punct cc conj punct
+mark nsubj:pass amod punct root xcomp obj advmod amod punct advmod nsubj det advmod amod punct advmod amod punct mark advcl xcomp case obl acl punct
+mark nsubj:pass amod punct root xcomp obj advmod amod punct advmod nsubj det advmod amod punct advmod amod punct mark advcl xcomp case obl acl punct
+advmod root amod fixed obj compound
+nsubj amod cop det fixed root flat flat
+nsubj root obj compound nsubj advmod amod
+nsubj flat flat flat compound nummod punct nsubj amod case nmod compound nsubj amod cc conj punct nsubj det root nummod compound obj punct
+nsubj flat flat flat compound nummod punct nsubj amod case nmod compound nsubj amod cc conj punct nsubj det root nummod compound obj punct
+det nsubj nsubj:pass advmod acl advmod case obl cop case root amod compound compound compound acl advmod amod
+det nsubj nsubj:pass advmod acl advmod case obl cop case root amod compound compound compound acl advmod amod
+nsubj advmod root case nmod
+amod nsubj:pass det punct appos advmod mark nsubj:pass flat advmod root advmod punct xcomp obj flat nmod flat
+nsubj compound compound compound nsubj amod punct advmod advmod root punct
+nsubj nsubj advmod advmod acl obj case nmod punct appos cc conj punct root det amod punct amod flat
+nsubj root advmod amod xcomp case det obl case nmod compound nsubj amod obj punct
+nsubj mark nsubj root det amod mark advmod conj obj det amod
+obj nsubj advmod root case obl det advcl det nsubj advmod amod cc conj fixed
+root obj compound advmod advmod advcl obj punct mark advcl nsubj amod cc conj punct cc advmod conj obj punct obj flat
+mark nsubj compound nsubj acl fixed obj compound det root punct
+advmod amod punct case obl compound punct conj cc conj compound nsubj acl nummod obj punct nsubj root advmod obj amod punct
+advmod amod punct case obl compound punct conj cc conj compound nsubj acl nummod obj punct nsubj root advmod obj amod punct
+root acl amod amod compound flat
+nsubj:pass flat amod root amod case obl cc conj case xcomp obj punct
+advmod nsubj advmod root obj case nummod punct nsubj det amod punct nsubj compound advmod advmod dep amod nummod obl punct
+nsubj advmod root mark conj obj
+nsubj advmod root mark conj obj
+advmod advcl obj case nmod flat punct advmod compound punct nsubj advmod root punct
+advmod root obj punct nsubj det amod advmod punct mark nsubj advmod advcl xcomp case case case punct
+advmod root obj punct nsubj det amod advmod punct mark nsubj advmod advcl xcomp case case case punct
+advmod root obj compound flat advmod compound flat mark nsubj det amod advcl punct
+case obl compound cc conj punct nsubj flat flat root det obj nsubj acl obj cc conj punct
+nsubj case nmod root case obl compound compound compound punct dep nsubj advmod amod
+nsubj det nsubj root case det nmod
+nsubj:pass compound advmod compound cc conj nsubj amod root obj nsubj amod punct advcl obj amod cc conj amod punct
+nsubj:pass compound advmod compound cc conj nsubj amod root obj nsubj amod punct advcl obj amod cc conj amod punct
+nsubj:pass compound advmod compound cc conj nsubj amod root obj nsubj amod punct advcl obj amod cc conj amod punct
+root compound compound flat flat compound compound flat flat advmod amod advmod nummod appos punct compound case nmod nummod punct nummod compound punct compound punct
+nsubj compound det amod compound compound det nsubj amod advmod root xcomp obj amod mark advmod conj case obl
+nsubj:pass compound compound amod mark advmod amod root obj det amod punct
+nsubj:pass flat compound compound amod mark advmod amod root obj det amod punct
+nsubj root obj flat flat advmod advmod obj amod case conj nsubj advmod acl obj compound
+root compound flat nsubj case nmod mark advcl obj amod cc conj advmod conj case nmod punct nsubj advmod advcl obj punct
+nsubj flat amod compound compound cc conj advmod root obj compound acl case amod cc conj case obl case obl nummod compound compound compound cc advmod advmod advmod conj obj compound flat punct
+root det compound amod case advmod case nmod amod nsubj amod compound det amod acl punct nsubj det amod punct conj obj cc conj amod case acl obj
+nsubj root obj punct obl compound nsubj flat dep obj nsubj amod case nmod cc conj punct nsubj advmod advmod dep advmod conj
+nsubj root obj advmod advmod amod punct case obl advmod advcl nummod obj punct compound
+mark obl compound advmod advmod root punct nsubj:pass obl amod compound compound punct cc nsubj:pass advmod conj case nummod obl case nmod punct nsubj:pass case advmod punct
+advmod root case obl compound compound compound cc conj flat
+case obl compound punct nsubj acl obj flat flat flat advmod amod root punct
+nsubj amod compound advmod root
+nsubj amod compound advmod root
+nsubj root obj det case nmod amod amod advmod punct
+case obl case nmod compound compound det punct case obl det advmod root det nsubj advmod amod case nmod punct
+nsubj nummod det root flat flat compound compound amod punct
+nsubj advmod root case nummod compound obl case nummod obl punct appos punct nsubj dep det advmod punct dep
+advcl obj flat flat compound flat flat punct advmod advmod root obj nsubj amod amod obj compound det compound compound
+amod mark nsubj compound det root xcomp obj
+advmod nsubj root case obl compound compound det punct appos det amod
+nsubj:pass flat root amod mark advmod advcl punct advmod amod
+nsubj case acl obj flat root advmod advmod punct nsubj amod amod advcl amod case obl
+nsubj case acl obj flat root advmod advmod punct nsubj amod amod advcl amod case obl
+nsubj nsubj compound advmod root case nmod flat
+nsubj nsubj compound advmod root case nmod flat
+case amod nsubj advmod root case nmod amod cc advmod conj amod case det advcl advmod advmod amod cc conj obj advmod amod xcomp obj xcomp obj compound case det advmod amod compound compound case nmod compound xcomp obj advmod amod cc conj case nmod amod advmod compound advmod amod
+case amod nsubj advmod root case nmod amod cc advmod conj amod case det advcl advmod advmod amod cc conj obj advmod amod xcomp obj xcomp obj compound case det advmod amod compound compound case nmod compound xcomp obj advmod amod cc conj case nmod amod advmod compound advmod amod
+case amod nsubj advmod root case nmod amod cc advmod conj amod case det advcl advmod advmod amod cc conj obj advmod amod xcomp obj xcomp obj compound case det advmod amod compound compound case nmod compound xcomp obj advmod amod cc conj case nmod amod advmod compound advmod amod
+case amod nsubj advmod root case nmod amod cc advmod conj amod case det advcl advmod advmod amod cc conj obj advmod amod xcomp obj xcomp obj compound case det advmod amod compound compound case nmod compound xcomp obj advmod amod cc conj case nmod amod advmod compound advmod amod
+amod nmod nsubj compound compound compound compound det punct nsubj compound acl obj punct advmod root amod punct
+nsubj:pass flat case nmod det nsubj:pass compound root obj flat punct advmod appos nummod compound amod amod punct punct
+nsubj:pass amod compound root obj advmod obj nsubj amod amod
+nsubj:pass amod compound root obj advmod obj nsubj amod amod
+nsubj flat nsubj root obj det
+case obl det compound compound det advmod amod amod advmod root obj compound case nmod mark advmod case xcomp obj nsubj acl
+nsubj root xcomp obj nummod punct advmod nsubj compound nummod advmod advmod advcl
+root advmod xcomp obj det case ccomp obj case obl compound compound nsubj amod
+nsubj root obj flat flat nummod punct advmod advcl obj advcl obj amod amod nummod compound compound
+nsubj flat compound compound advmod root punct cc nsubj:pass det conj punct
+nsubj flat compound compound advmod root punct cc nsubj:pass det conj punct
+nsubj compound flat amod cop root punct det nsubj:pass amod acl punct
+nsubj flat flat root obj nsubj acl cc conj nsubj amod case nmod amod
+nsubj flat flat root obj nsubj acl cc conj nsubj amod case nmod amod
+mark nsubj advcl det obj compound compound punct nsubj:pass advmod root advmod amod case xcomp case obl advmod det punct
+mark mark case obl punct root obj advmod amod punct advmod case obl amod punct det nsubj amod conj obj det punct
+advmod advmod nummod obl nsubj root obj flat punct case obl amod nsubj amod punct nsubj:pass det dep amod compound punct
+nsubj det compound compound nummod punct root flat amod punct dep det advmod nsubj acl amod punct advmod amod punct
+root compound amod cc mark amod compound nsubj amod punct
+root compound amod cc mark amod compound nsubj amod punct
+nsubj root flat punct dep advmod punct conj compound punct conj compound punct conj amod punct
+nsubj root flat punct dep advmod punct conj compound punct conj compound punct conj amod punct
+nsubj root flat punct dep advmod punct conj compound punct conj compound punct conj amod punct
+nsubj root flat punct dep advmod punct conj compound punct conj compound punct conj amod punct
+mark nsubj:pass advmod root case obl case obl cc advcl obj compound punct
+nsubj compound flat flat root compound amod cc advmod punct amod advmod amod compound punct
+nsubj flat amod compound compound cc conj root advmod obj
+nsubj flat amod compound compound cc conj root advmod obj
+advmod nsubj root obj compound punct amod case nmod det punct
+nsubj flat flat amod compound compound cc conj det root amod cc conj compound det advmod mark nsubj advcl obj compound flat
+nsubj flat flat amod compound compound cc conj det root amod cc conj compound det advmod mark nsubj advcl obj compound flat
+nsubj flat flat amod compound compound cc conj det root amod cc conj compound det advmod mark nsubj advcl obj compound flat
+mark advcl compound punct nsubj advmod root amod case xcomp amod obl compound amod punct
+advmod advmod root advmod mark advcl compound det amod fixed obj flat flat punct det amod
+advmod advmod root advmod mark advcl compound det amod fixed obj flat flat punct det amod
+advmod advmod det nsubj root obj punct
+nsubj flat flat advmod root case obl compound det punct appos amod punct conj nsubj amod punct amod punct
+nsubj flat flat advmod root case obl compound det punct appos amod punct conj nsubj amod punct amod punct
+advmod obl det advmod root obj punct mark advcl obj compound compound compound det compound det compound punct cc advmod conj
+advmod nsubj det root obj punct punct appos flat flat punct punct
+nsubj flat flat flat root mark advmod advcl obj compound acl fixed amod
+mark nsubj advmod root obj flat flat punct nsubj:pass det advmod advmod parataxis cc conj case nmod
+nsubj:pass flat root amod xcomp obj compound acl punct cc nsubj conj obj case nmod compound punct dep
+nsubj:pass flat root amod xcomp obj compound acl punct cc nsubj conj obj case nmod compound punct dep
+mark nsubj root obj compound compound nsubj advcl advmod amod obj compound punct det amod flat punct cc advmod advmod conj obj advmod punct
+nsubj:pass compound compound advmod amod root punct amod obl det cc advmod conj obj det
+nsubj:pass compound compound advmod amod root punct amod obl det cc advmod conj obj det
+nsubj advmod case root fixed amod cc obl advmod amod
+case root compound amod amod compound
+advmod advmod advmod flat punct root xcomp obj acl flat punct nsubj det dep advmod punct nsubj det dep advmod punct
+advmod advmod advmod flat punct root xcomp obj acl flat punct nsubj det dep advmod punct nsubj det dep advmod punct
+amod nsubj compound compound compound compound compound flat case nmod compound det nummod compound advmod det root
+nsubj advmod root obj case obl compound mark advcl det advmod amod punct
+nsubj det flat root flat nummod flat obl nummod case nmod compound det advmod advcl cc conj compound advmod amod punct
+nsubj det flat root flat nummod flat obl nummod case nmod compound det advmod advcl cc conj compound advmod amod punct
+root flat amod cc conj
+nsubj:pass root case obl flat flat flat flat flat amod obj punct
+nsubj:pass root case obl flat flat flat flat flat amod obj punct
+nsubj compound flat root punct mark nsubj:pass advcl case obl
+nsubj root obj compound nummod compound compound punct dep compound amod flat punct mark case nmod amod punct mark advcl det amod punct
+advmod advmod root obj advmod punct nsubj det dep case obl compound compound punct nsubj det advmod dep advmod punct nsubj advmod amod cc conj punct nsubj det advmod advmod parataxis cc conj punct
+advmod advmod root obj advmod punct nsubj det dep case obl compound compound punct nsubj det advmod dep advmod punct nsubj advmod amod cc conj punct nsubj det advmod advmod parataxis cc conj punct
+nsubj flat root obj obj compound punct det amod punct
+nsubj compound det root xcomp advmod amod case nmod
+advmod root nsubj advmod acl obj compound flat punct
+amod mark advcl punct advmod amod punct nsubj:pass amod advcl punct advmod nsubj compound root fixed obj punct advmod advmod advmod amod dep obj compound amod punct
+amod mark advcl punct advmod amod punct nsubj:pass amod advcl punct advmod nsubj compound root fixed obj punct advmod advmod advmod amod dep obj compound amod punct
+nsubj flat flat compound root obj amod compound amod
+nsubj flat flat compound root obj amod compound amod
+nsubj flat flat compound root obj amod compound amod
+case obl nummod nsubj root obj punct nsubj det nsubj advcl obj det obl advcl case obl amod compound nsubj amod cc advmod conj mark nsubj:pass acl obj amod punct det advmod amod
+case obl nummod nsubj root obj punct nsubj det nsubj advcl obj det obl advcl case obl amod compound nsubj amod cc advmod conj mark nsubj:pass acl obj amod punct det advmod amod
+nsubj flat root advmod amod case nmod amod punct
+nsubj flat compound compound flat punct det root advmod punct flat punct
+nsubj:pass nsubj:pass amod root case obl det punct conj cc conj amod punct conj amod cc conj amod compound compound cc conj nsubj amod punct nsubj advcl amod punct nsubj advmod obj flat punct compound
+nsubj:pass nsubj:pass amod root case obl det punct conj cc conj amod punct conj amod cc conj amod compound compound cc conj nsubj amod punct nsubj advcl amod punct nsubj advmod obj flat punct
+nsubj:pass nsubj:pass amod root case obl det punct conj cc conj amod punct conj amod cc conj amod compound compound cc conj nsubj amod punct nsubj advcl amod punct nsubj advmod obj flat punct
+nsubj:pass nsubj:pass amod root case obl det punct conj cc conj amod punct conj amod cc conj amod compound compound cc conj nsubj amod punct nsubj advcl amod punct nsubj advmod obj flat punct
+nsubj:pass nsubj:pass amod root case obl det punct conj cc conj amod punct conj amod cc conj amod compound compound cc conj nsubj amod punct nsubj advcl amod punct nsubj advmod obj flat punct
+nsubj cc conj compound root obj
+nsubj cc conj compound root obj
+mark root obj compound compound compound advmod amod
+nsubj cc conj det flat case nmod compound det root cc advmod conj flat punct
+root flat compound compound compound compound amod nsubj advmod amod
+mark case xcomp root mark mark nsubj det amod advcl amod xcomp
+advmod obl advmod nsubj flat det nsubj root case obl amod punct mark case obl det det advmod advmod nsubj advcl obj case obl det punct
+nsubj root punct case det nsubj acl obj advmod amod cc conj nsubj amod
+mark root obj advmod advmod amod advmod case nsubj det amod
+nsubj:pass flat nsubj amod amod obj punct mark nsubj:pass compound compound mark case nmod amod amod root obj case obl nsubj amod case nmod amod
+nsubj:pass flat nsubj amod amod obj punct mark nsubj:pass compound compound mark case nmod amod amod root obj case obl nsubj amod case nmod amod
+root flat compound nsubj advmod amod case ccomp amod
+nsubj advmod root obj punct det fixed obj advmod nsubj acl case obl det cop dep det punct
+nsubj nummod advmod root obj compound amod nsubj acl obj det amod cc case obl acl amod punct
+nsubj:pass advmod root case xcomp case obl nsubj amod flat
+nsubj nummod advmod advmod root advmod nummod
+nsubj:pass flat root advmod amod cc conj conj obj case obl advmod punct parataxis det obj cc conj compound cc advmod det case xcomp amod punct
+nsubj:pass flat compound root amod punct case obl amod compound punct
+nsubj:pass flat compound root amod punct case obl amod compound punct
+obl det nsubj det root obj advmod mark advmod advcl mark nsubj:pass compound punct det advcl obj amod punct advmod amod case nmod det punct mark nsubj amod cc conj amod punct advmod nmod compound
+nmod nsubj nsubj advmod root case ccomp obj flat flat punct mark case obl nsubj advmod amod punct advcl nsubj xcomp obj det punct
+mark nsubj advmod root obj mark advmod advcl obj compound punct
+nsubj flat root mark advmod advcl obj punct appos compound det amod punct
+root obj flat nummod punct appos det advmod amod
+root det compound det advmod amod punct advmod conj compound compound punct conj advmod cc conj punct conj advmod amod punct amod conj punct nsubj:pass acl amod punct conj xcomp obj amod punct conj amod punct advmod amod punct
+root det compound det advmod amod punct advmod conj compound compound punct conj advmod cc conj punct conj advmod amod punct amod conj punct nsubj:pass acl amod punct conj xcomp obj amod punct conj amod punct advmod amod punct
+root det compound det advmod amod punct advmod conj compound compound punct conj advmod cc conj punct conj advmod amod punct amod conj punct nsubj:pass acl amod punct conj xcomp obj amod punct conj amod punct advmod amod punct
+root det compound det advmod amod punct advmod conj compound compound punct conj advmod cc conj punct conj advmod amod punct amod conj punct nsubj:pass acl amod punct conj xcomp obj amod punct conj amod punct advmod amod punct
+root det compound det advmod amod punct advmod conj compound compound punct conj advmod cc conj punct conj advmod amod punct amod conj punct nsubj:pass acl amod punct conj xcomp obj amod punct conj amod punct advmod amod punct
+root det compound det advmod amod punct advmod conj compound compound punct conj advmod cc conj punct conj advmod amod punct amod conj punct nsubj:pass acl amod punct conj xcomp obj amod punct conj amod punct advmod amod punct
+root det mark advcl det advmod amod acl punct
+root nummod flat advmod advmod obj punct parataxis det amod case nmod
+root obj flat advcl amod cc conj punct flat flat
+case nsubj compound mark advcl det obj punct mark root obj nsubj:pass advmod advcl obj det punct
+nsubj root obj compound nummod compound compound compound det advmod nummod nmod det nummod fixed cc conj nsubj acl obj det punct
+advmod advmod nsubj punct conj compound det advmod root punct
+nsubj fixed obj nsubj csubj case obl cop root compound compound det
+det root compound compound amod case nmod punct
+case nummod obl advmod root obj flat advmod acl
+mark nsubj compound compound amod amod advmod punct nsubj root obj compound cc advmod compound conj obj acl case obl det mark advmod advmod advmod advcl obj compound punct
+advmod root obj xcomp obj
+nsubj det case nmod root compound compound compound det advmod advmod advmod det nsubj case nmod parataxis obj det
+nsubj flat nummod flat punct appos compound det amod advmod case nmod nummod advmod root punct
+advmod advmod nsubj root obj compound det mark advcl det amod punct
+advmod advmod nsubj root obj compound det mark advcl det amod punct
+nsubj compound compound amod det amod root obj
+nsubj root obj flat compound det cop advcl obj nsubj acl case obl case obl det nsubj advmod amod amod cc conj case nmod det compound det acl
+nsubj root obj flat compound det cop advcl obj nsubj acl case obl case obl det nsubj advmod amod amod cc conj case nmod det mark nsubj det advmod acl
+root advmod advmod obj nummod compound punct amod cc conj amod
+nsubj compound compound amod punct appos nummod flat case nmod punct fixed compound advmod root obj compound punct mark obl compound acl advmod
+nsubj compound compound amod punct appos nummod flat case nmod punct fixed compound advmod root obj compound punct mark obl compound acl advmod
+nsubj compound compound amod punct appos nummod flat case nmod punct fixed compound advmod root obj compound punct mark nsubj compound advmod advcl advmod
+nsubj compound det root obj compound advmod amod cc conj mark advcl det obj amod punct
+nsubj compound det root obj compound advmod amod cc conj mark advcl det obj amod punct
+nsubj compound det root obj compound advmod amod cc conj mark advcl det obj amod punct
+nsubj flat nsubj advmod amod acl obj cc conj punct root advmod amod cc conj advmod conj case nmod compound amod punct
+nsubj flat nsubj advmod amod acl obj cc conj punct root advmod amod cc conj advmod conj case nmod compound amod punct
+root punct compound advmod amod advmod
+case obl case nmod compound compound case nmod advmod nsubj flat root case obl det
+case nmod nsubj:pass acl case obl nsubj amod case nmod advmod advmod root nmod nmod advmod obj det
+case nmod nsubj:pass acl case obl compound compound nsubj amod case nmod advmod advmod root nmod nmod advmod obj det
+root amod obl flat punct flat compound compound
+root amod punct mark parataxis compound flat compound punct
+root amod punct mark parataxis compound flat compound punct
+nsubj compound compound det root obj det compound advmod xcomp obj det compound compound compound
+nsubj compound compound det root obj det nsubj advmod xcomp obj det compound punct
+nsubj compound compound det root obj det nsubj advmod xcomp obj det compound punct
+advmod nsubj advmod nsubj flat root obj advmod advmod punct advmod nsubj amod punct
+nsubj flat compound det root case nmod compound amod compound det punct
+root det compound amod compound punct advmod nummod appos punct punct conj compound punct appos punct det acl obj punct punct
+root det compound amod compound punct advmod nummod appos punct punct conj compound punct appos punct det acl obj punct punct
+nsubj:pass flat flat flat advmod advmod root obj flat flat case obl nsubj advmod amod cc conj
+amod nsubj:pass flat flat punct nummod advmod amod root case obl nmod cc conj
+case det advmod advmod root cc advmod conj det amod cc conj amod case nmod acl case nmod punct dep det compound amod punct
+root compound flat amod advmod amod punct conj cc conj case obl nsubj:pass acl amod
+root compound flat amod advmod amod punct conj cc conj case obl nsubj:pass acl amod
+appos punct nsubj compound amod cc amod punct case nmod advmod advmod root punct
+mark nsubj root case obl compound compound compound det amod mark amod nsubj cc case nmod det advmod advcl
+mark nsubj root case obl compound compound compound det amod mark amod nsubj cc case nmod det advmod advcl
+root flat advmod advmod amod
+nsubj:pass det nsubj:pass flat advmod root case obl case nmod
+case nmod nsubj root case nmod compound nsubj amod advmod
+root det advmod nummod punct compound nsubj amod amod amod amod amod
+root advmod obj compound amod compound amod compound amod punct
+root advmod obj compound amod compound amod compound amod punct
+root advmod obj compound amod compound amod compound amod punct
+root flat case nmod compound compound compound nsubj amod
+root flat case nmod compound compound compound nsubj amod
+nsubj root obj flat nummod punct amod obl advmod nsubj advcl case obl flat punct dep nsubj advmod advmod parataxis advmod
+nsubj advmod root obj flat amod obl nummod punct nsubj:pass amod dep punct
+nsubj advmod root obj flat amod obl nummod punct amod case nmod det punct
+nsubj flat root case obl nummod compound advcl case obl nsubj amod
+nsubj flat root case obl nummod compound advcl case obl nsubj amod
+nsubj advmod root case conj det nsubj compound compound nsubj advmod advcl case nummod obl acl amod case nmod amod case nmod case punct dep obj advmod fixed amod amod
+nsubj compound det advmod root obj flat mark amod case nmod flat amod det nsubj advmod advmod acl obj compound amod advmod
+nsubj compound compound flat flat flat nummod nummod case nmod punct root cc conj
+mark mark advmod amod advmod root obj
+mark nsubj compound advmod advcl det nsubj det advmod root obj compound mark nsubj advcl cc advmod conj det advmod amod
+mark nsubj compound advmod advcl det nsubj det advmod root obj compound mark nsubj advcl cc advmod conj det advmod amod
+mark nsubj compound advmod advcl det nsubj det advmod root obj compound mark nsubj advcl cc advmod conj det advmod amod
+nsubj root obj mark amod advcl obj case obl nsubj nmod det amod
+nsubj root obj mark amod advcl obj case obl nsubj nmod det amod
+advmod root amod case det acl
+nsubj cop root nsubj amod case nmod compound punct conj compound compound punct conj nsubj amod cc conj parataxis case obl nsubj:pass advmod det acl
+nsubj cop root nsubj amod case nmod compound punct conj compound compound punct conj nsubj amod cc conj parataxis case obl nsubj:pass advmod det acl
+nsubj cop root nsubj amod case nmod compound punct conj compound compound punct conj nsubj amod cc conj parataxis case obl nsubj:pass advmod det acl
+root det acl advmod amod case nmod nsubj acl obj compound amod flat
+mark nsubj root obj punct advcl det amod amod obj det
+mark advmod root cc advmod advcl case nmod flat flat flat
+mark root cc conj amod compound compound punct
+mark root advmod amod cc advmod conj obj punct
+nsubj flat flat amod cop root obj flat flat punct flat nsubj advmod acl obj flat punct flat punct
+nsubj flat case nmod compound compound det amod advmod punct nsubj advmod amod root xcomp advmod obj punct compound det punct advmod nsubj flat
+nsubj flat case nmod compound compound det amod advmod punct nsubj advmod amod root xcomp advmod obj punct compound det punct advmod nsubj flat
+nsubj amod det advmod root obj amod punct fixed
+root flat advmod amod case nmod advmod amod cc conj
+nsubj root amod punct dep flat flat case nmod nsubj parataxis advmod amod punct nsubj advmod amod flat punct det advmod advmod dep punct
+nsubj root amod punct dep flat flat case nmod nsubj parataxis advmod amod punct nsubj advmod amod flat punct det advmod advmod dep punct
+nsubj root amod punct dep flat flat case nmod nsubj parataxis advmod amod punct nsubj advmod amod flat punct det advmod advmod dep punct
+nsubj flat flat case nmod advmod root advmod det obj
+nsubj root case obl mark advcl compound cc conj flat amod advmod amod advmod punct
+root compound compound advmod amod
+nsubj advmod root obj advmod xcomp obj compound punct amod punct
+nsubj amod root obj punct advcl amod advmod punct dep advmod advmod dep punct mark advmod conj obj
+nsubj amod root obj punct advcl amod advmod punct dep advmod advmod dep punct mark advmod conj obj
+nsubj amod root obj punct advcl amod advmod punct dep advmod advmod dep punct mark advmod conj obj
+nsubj amod root obj punct advcl amod advmod punct dep advmod advmod dep punct mark advmod conj obj
+nsubj:pass compound compound compound flat root advmod amod cc conj
+nsubj compound compound det advmod root case obl amod
+advmod advmod advcl obj punct advmod obl root nsubj obj cc conj det advmod amod punct
+nsubj root case nummod mark advcl nummod obj punct appos det advmod amod
+nsubj:pass compound compound flat flat root amod
+advmod root flat flat flat punct appos punct
+nsubj compound punct nummod amod advmod advmod root punct mark advcl amod det cc conj amod advmod advmod punct
+nsubj compound punct nummod amod advmod advmod root punct mark advcl advmod amod det cc conj amod advmod advmod punct
+nsubj compound punct nummod amod advmod advmod root punct mark advcl advmod amod det cc conj amod advmod advmod punct
+case obl root obj amod cc advmod advmod advmod amod conj obj punct dep compound advmod cc conj advmod amod amod punct
+case obl root obj amod cc advmod advmod advmod amod conj obj punct dep compound advmod cc conj advmod amod amod punct
+nsubj root obj flat nummod compound nummod punct nsubj advcl amod punct
+advmod advmod xcomp obj punct nsubj det advmod root
+root compound flat amod compound advmod amod punct dep compound nummod case nummod obl dep nummod nummod compound punct nsubj:pass compound punct
+nsubj flat cc conj compound det compound det advmod root
+nsubj flat cc conj compound det compound det advmod root
+nsubj root obj flat flat flat flat flat compound punct advmod amod cc conj punct advmod nsubj punct det compound punct nsubj compound det advmod advmod amod obj acl
+nsubj compound det advmod amod root xcomp obj advmod obl compound nsubj acl
+nsubj compound det advmod amod root xcomp obj advmod obl compound nsubj acl
+case nmod amod compound flat compound compound amod advmod advmod root xcomp obj flat compound nsubj advmod amod case nmod
+case nmod amod compound flat compound compound amod advmod advmod root xcomp obj flat compound nsubj advmod amod case nmod
+advmod nsubj root obj xcomp fixed fixed obj
+mark advmod nsubj advmod root obj flat compound compound compound case nmod nsubj advmod amod xcomp obj det punct conj advmod amod punct conj advmod amod cc conj case nummod punct nsubj advmod amod punct nsubj advmod advmod acl case obl det punct mark advcl compound advmod amod advmod punct
+mark advmod nsubj advmod root obj flat compound compound compound case nmod nsubj advmod amod xcomp obj det punct conj advmod amod punct conj advmod amod cc conj case nummod punct nsubj advmod amod punct nsubj advmod advmod acl case obl det punct mark advcl compound advmod amod advmod punct
+mark advmod nsubj advmod root obj flat compound compound compound case nmod nsubj advmod amod xcomp obj det punct conj advmod amod punct conj advmod amod cc conj case nummod punct nsubj advmod amod punct nsubj advmod advmod acl case obl det punct mark advcl compound advmod amod advmod punct
+mark advmod nsubj advmod root obj flat compound compound compound case nmod nsubj advmod amod xcomp obj det punct conj advmod amod punct conj advmod amod cc conj case nummod punct nsubj advmod amod punct nsubj advmod advmod acl case obl det punct mark advcl compound advmod amod advmod punct
+mark advmod nsubj advmod root obj flat compound compound compound case nmod nsubj advmod amod xcomp obj det punct conj advmod amod punct conj advmod amod cc conj case nummod punct nsubj advmod amod punct nsubj advmod advmod acl case obl det punct mark advcl compound advmod amod advmod punct
+advmod root obj mark nsubj advcl obj nsubj advmod amod
+nsubj root obj case obl amod advmod amod punct
+nsubj flat flat flat advmod root obj case case obl amod
+nsubj flat root amod advmod punct dep flat compound advmod amod
+nsubj flat root amod advmod punct dep flat compound advmod amod
+det advcl amod compound flat flat flat nmod nummod nsubj advmod amod root obj case xcomp obj case obl amod cc conj punct conj cc conj punct
+nsubj flat advmod root case nmod advmod amod obj advmod amod amod xcomp
+nsubj:pass advmod amod root obj
+nsubj:pass compound det amod root case case advmod
+case xcomp obj compound punct root nsubj amod compound advcl case obl punct
+case xcomp obj compound punct root nsubj amod compound advcl case obl punct
+nsubj case nmod compound compound advmod root amod cc advmod conj punct nsubj advmod advmod advmod conj obj det amod punct
+mark case advcl xcomp punct amod root obj nummod punct
+advmod nsubj:pass compound compound amod punct nsubj:pass compound advmod det root advmod xcomp cc xcomp obj compound punct nsubj:pass advmod acl amod
+nsubj:pass compound compound compound advmod root obj advcl advmod amod cc conj amod obj
+root advmod amod case nmod
+advmod root amod punct
+nsubj advmod csubj case obl compound cop root compound compound punct
+root compound compound compound punct appos flat flat amod
+root compound compound compound punct appos flat flat amod
+nsubj flat flat punct root xcomp det obj compound
+nsubj flat advmod root punct advmod amod
+nsubj root xcomp case obl punct mark nsubj cc conj advmod amod punct cc conj punct nsubj det amod advcl obj case obl amod
+nsubj root xcomp case obl punct mark nsubj cc conj advmod amod punct cc conj punct nsubj det amod advcl obj case obl amod
+nsubj root xcomp case obl punct mark nsubj cc conj advmod amod punct cc conj punct nsubj det amod advcl obj case obl amod
+nsubj flat nummod compound nummod compound det compound advmod root cc cc advmod advmod conj case obl
+advmod root compound compound punct amod nmod advmod punct case parataxis advmod compound det punct
+nsubj flat flat flat flat punct flat punct advmod root obj mark advcl amod punct
+nsubj compound compound nsubj advmod amod case nmod cop root amod case nmod det punct
+det nsubj root obj flat advmod amod punct advmod nummod obl cc advmod amod punct nsubj amod punct nsubj det dep obj punct
+det nsubj root obj flat advmod amod punct advmod nummod obl cc advmod amod punct nsubj amod punct nsubj det dep obj punct
+nsubj nummod compound compound det root cc advmod conj obj punct
+advcl obj compound punct nsubj root nummod nummod
+nsubj:pass advmod advmod advmod root case amod punct
+nsubj det advmod root obj compound punct advmod conj obj
+nsubj punct flat flat case nmod amod nummod punct amod compound advmod root punct
+nsubj flat nummod flat nummod nsubj nsubj root obj advmod advmod advmod amod
+root obj det compound advmod amod advcl obj flat punct
+nsubj advmod root case nmod compound nsubj:pass amod acl obj flat
+nsubj punct flat root obj case nummod compound obl punct dep obj nsubj advmod amod punct
+nsubj flat compound cop root det amod cc advmod conj obj compound
+nsubj flat compound cop root det amod cc advmod conj obj amod punct
+root compound amod cc acl amod
+advmod nsubj flat advmod root obj det advmod
+nsubj flat acl amod obj det root obj amod cc conj
+advmod advmod root obj compound punct det advcl obj nsubj amod punct mark advmod dep case obl case nmod nsubj amod obj punct nsubj flat advmod dep acl amod advmod advmod fixed
+advmod advmod root obj compound punct det advcl obj nsubj amod punct mark advmod dep case obl case nmod nsubj amod obj punct nsubj flat advmod dep acl amod advmod advmod fixed
+case xcomp obj amod flat det advmod root advmod obj amod case nmod det amod punct
+nsubj flat root obj nsubj acl nummod punct case nmod advmod advcl punct nsubj advmod amod punct compound flat punct flat punct advmod advmod advcl obj
+root flat case nmod flat compound nummod punct advmod dep nsubj advmod punct flat punct
+root amod cc advmod conj obj
+nsubj det flat root cc amod conj punct
+mark nsubj compound root advmod obj flat cc conj amod punct
+mark nsubj compound root advmod obj flat cc conj amod punct
+nsubj det nsubj advmod root obj compound advmod flat advmod compound
+nsubj det root obj compound acl xcomp obj nsubj amod cc advmod conj obj advmod case obl compound punct dep compound punct
+root flat advmod punct parataxis compound det advmod amod
+nsubj punct amod advmod punct nsubj compound advmod advmod root obj compound amod compound punct mark advcl nsubj:pass advmod acl advmod obj xcomp amod punct nsubj compound amod cc conj obj xcomp fixed obj case xcomp case obl amod punct advmod amod
+nsubj punct amod advmod punct nsubj compound advmod advmod root obj compound amod compound punct mark advcl nsubj:pass advmod acl advmod obj xcomp amod punct nsubj compound amod cc conj obj xcomp fixed obj case xcomp case obl amod punct advmod amod
+nsubj compound root obj punct flat punct flat case obl flat punct flat
+nsubj compound root obj punct flat punct flat case obl flat punct flat
+nsubj flat nummod root obj advmod punct
+nsubj root punct nsubj:pass amod dep amod advmod advmod amod punct advmod advmod dep obj compound compound punct
+nsubj root punct nsubj:pass amod dep amod advmod advmod amod punct advmod advmod dep obj compound compound punct
+nsubj flat root compound amod amod mark advcl case obl compound
+case nmod det nsubj advmod root advmod punct advcl advmod obj punct case obl det
+nsubj flat det root obj advmod case nmod case xcomp obj cc det det fixed nsubj:pass conj case det obl det compound
+mark advmod nsubj root obj det advmod amod case nmod punct fixed
+case obl obl nsubj root amod case obl compound det
+case obl amod punct nsubj nummod nummod advmod root obj advmod punct nsubj cc conj advmod dep mark advmod advcl obj punct
+nsubj det advmod root obj cc nsubj nummod punct mark advmod advcl case obl compound advmod amod cc conj punct
+obl compound root case obl compound flat flat punct parataxis compound flat punct flat flat punct det appos det advmod amod advmod punct nsubj:pass compound flat dep obj compound
+root det advmod amod case nmod compound compound
+nsubj compound compound punct nsubj root punct nsubj compound xcomp
+nsubj compound compound punct nsubj root punct nsubj compound xcomp
+nsubj compound compound punct nsubj root punct nsubj compound xcomp
+nsubj flat advmod advmod advmod root
+root amod compound compound compound
+mark nsubj compound compound nsubj advcl cc mark nsubj det advmod advcl advmod root obj
+mark nsubj compound compound nsubj advcl cc mark nsubj det advmod advcl advmod root obj
+nsubj compound det root det amod punct nsubj advmod case nmod punct
+nsubj compound det root det amod punct nsubj advmod case nmod punct
+root case amod compound compound compound flat nsubj acl amod
+root advmod case nmod mark case nmod compound advmod amod
+root det acl nsubj acl det amod punct conj punct
+advmod advmod advmod nsubj compound compound det root obj flat compound advmod nsubj acl case obl amod
+nsubj compound amod compound compound nsubj advmod amod punct nsubj advmod advmod root
+nsubj compound amod compound compound nsubj advmod amod punct nsubj advmod advmod root
+nsubj:pass flat root obl det punct nsubj det advcl obj compound cc conj obj compound det advmod advcl punct
+root amod compound cc conj advmod amod advmod punct nsubj det amod advmod dep obj
+root amod compound cc conj advmod amod advmod punct nsubj det amod advmod dep obj
+nsubj flat flat flat advmod root compound nummod compound advmod advmod acl punct
+nsubj flat compound amod det root obj xcomp xcomp advmod amod
+nsubj:pass obl nummod root case nummod obl amod compound punct fixed punct nsubj advmod advmod advcl punct
+det nsubj flat nummod root amod nsubj acl flat punct nsubj dep obj det punct amod cc conj compound det mark advmod conj obj punct det punct
+det nsubj flat nummod root amod nsubj acl flat punct nsubj dep obj det punct amod cc conj compound det mark advmod conj obj punct det punct
+det nsubj flat nummod root amod nsubj acl flat punct nsubj dep obj det punct amod cc conj compound det mark advmod conj obj punct det punct
+advmod nsubj advmod root obj punct mark advcl case nmod amod det punct advmod nsubj advmod acl punct cc conj compound det advmod amod punct
+advmod nsubj advmod root obj punct mark advcl case nmod amod det punct advmod nsubj advmod acl punct cc conj compound det advmod amod punct
+root flat flat advmod amod obj compound det punct
+nsubj root advmod obj punct nsubj dep advmod obj compound nsubj acl
+nsubj compound cc conj det root xcomp case obl amod
+nsubj compound det root mark mark conj amod
+nsubj root obj compound compound advmod advmod amod punct
+nsubj:pass flat root obj compound amod compound det
+nsubj root obj nummod punct case obl advmod amod ccomp obj mark case obl compound det amod punct fixed advmod amod punct
+nsubj root obj nummod punct case obl advmod amod ccomp obj mark case obl compound det amod punct fixed advmod amod punct
+root advmod amod punct cc advmod advmod conj obj case nmod punct advmod parataxis obj case nmod case nmod nmod punct advcl obj punct
+root advmod amod punct cc advmod advmod conj obj case nmod punct advmod parataxis obj case nmod case nmod nmod punct advcl obj punct
+mark obj nsubj root case obj compound nummod advmod amod cc advmod conj
+nsubj flat det root amod cc advmod conj mark advcl obj nummod cc amod advmod conj case xcomp cc mark advmod nsubj:pass compound nsubj:pass acl xcomp amod case obl det punct
+nsubj flat det root amod cc advmod conj mark advcl obj nummod cc amod advmod conj case xcomp cc mark advmod nsubj:pass compound nsubj:pass acl xcomp amod case obl det punct
+root compound compound compound advmod amod
+nsubj compound det punct compound nummod root compound compound compound compound det amod mark advcl amod punct case compound flat punct
+root flat punct appos amod nsubj acl amod obj flat
+advcl obj compound compound cc nsubj compound compound compound conj obj flat flat flat root obj case nmod cc conj compound det punct
+advcl obj compound compound cc nsubj compound compound compound conj obj flat flat flat root obj case nmod cc conj compound det punct
+nsubj advmod root flat cc conj obj nsubj advmod amod case nmod compound det punct
+nsubj compound compound det advmod root
+nsubj:pass mark root obj det advmod acl amod punct mark case nmod compound det punct nsubj nsubj:pass acl advmod amod punct
+nsubj:pass mark root obj det advmod acl amod punct mark case nmod compound det punct nsubj nsubj:pass acl advmod amod punct
+advmod advmod root obj compound amod advmod advcl obj compound compound compound
+advmod mark det det nsubj compound det advmod root case obl compound compound punct
+nsubj flat det punct root compound compound det advmod amod punct
+nsubj:pass det root amod case obl cc conj nsubj advmod amod punct conj compound nummod
+nsubj:pass det root amod case obl cc conj nsubj advmod amod punct conj compound nummod
+advmod amod obl punct nsubj compound root nummod punct case obl det mark nsubj case nmod nummod nmod punct advmod parataxis cc advmod punct
+advmod root det flat flat advmod punct advmod advmod amod compound amod punct appos flat flat flat punct appos flat punct
+advmod punct nsubj compound compound nummod nsubj advmod nummod nmod advmod root obj punct advmod amod det
+nsubj compound advmod root mark conj obj punct mark advcl obj compound compound amod nsubj advmod advcl obj punct nsubj flat dep case obl det punct
+nsubj advmod root obj mark advcl obj cc conj compound nsubj amod cc conj
+nsubj advmod root obj mark advcl obj cc conj compound nsubj amod cc conj
+nsubj case nmod compound compound det amod root advmod mark advcl compound compound advmod advcl
+nsubj case nmod compound compound det amod root advmod mark advcl compound compound advmod advcl
+nsubj root obj mark advmod advcl compound compound det advmod amod amod punct
+root flat nummod flat nsubj amod case nmod
+nsubj case nmod compound det nsubj:pass acl obj case obl amod advmod root obj
+mark nsubj advmod nsubj det root amod mark advcl amod punct
+mark nsubj advmod nsubj det root amod mark advcl amod punct
+nsubj:pass compound flat advmod amod root punct amod punct advcl case nmod advmod mark amod conj det punct acl obj flat
+nsubj:pass compound flat advmod amod root punct amod punct advcl case nmod advmod mark amod conj det punct acl obj flat
+nsubj root advmod advmod obj advmod case case nmod case nmod compound advmod nsubj det advcl amod case obl punct cc advmod conj amod
+nsubj compound root amod advmod punct case obl compound det advcl amod punct
+case obl compound advmod amod punct root obj flat flat flat amod punct
+case obl compound advmod amod punct root obj flat flat flat amod punct
+nsubj advmod root case nmod compound advmod compound case nmod compound mark advcl mark advmod advcl amod
+root advmod obj flat case nmod det punct det dep amod cc conj punct conj amod punct cc advmod conj amod punct
+root advmod obj flat case nmod det punct det dep amod cc conj punct conj amod punct cc advmod conj amod punct
+root advmod obj flat case nmod det punct det dep amod cc conj punct conj amod punct cc advmod conj amod punct
+case obl nummod punct nsubj root obj case nmod compound flat flat punct appos punct advmod nmod punct advmod dep punct dep
+root compound compound flat compound
+root obj compound amod advmod punct nsubj amod cc nsubj conj xcomp case obl advmod nummod compound punct compound advmod amod cc conj compound amod amod cc conj amod
+root obj compound amod advmod punct nsubj amod cc nsubj conj xcomp case obl advmod nummod compound punct compound advmod amod cc conj compound amod amod cc conj amod
+root obj compound amod advmod punct nsubj amod cc nsubj conj xcomp case obl advmod nummod compound punct compound advmod amod cc conj compound amod amod cc conj amod
+root obj compound case compound advmod amod
+mark mark nsubj amod punct case nmod nsubj amod acl case obl advmod nsubj nsubj amod punct nsubj cop root amod case nmod cc advmod conj amod det punct
+mark mark nsubj amod punct case nmod nsubj amod acl case obl advmod nsubj nsubj amod punct nsubj cop root amod case nmod cc advmod conj amod det punct
+nsubj nsubj advmod root punct mark nsubj advcl case obl punct nsubj amod case nmod case nmod nummod compound punct dep case obl amod punct nsubj det parataxis obj compound advmod advmod amod punct
+nsubj nsubj advmod root punct mark nsubj advcl case obl punct nsubj amod case nmod case nmod nummod compound punct dep case obl amod punct nsubj det parataxis obj compound advmod advmod amod punct
+nsubj amod advmod root amod obj amod case obl
+case det advmod root obj compound amod compound nsubj acl det punct amod punct
+nsubj:pass amod case xcomp root case obl
+root flat compound det advmod amod punct advmod advmod advcl obj det mark amod advcl punct
+root flat compound det advmod amod punct advmod advmod advcl obj det mark amod advcl punct
+nsubj root obj advmod cc conj nummod obj punct parataxis advmod advcl advmod fixed det obj punct
+advmod root obj flat cc conj obj det nummod case nummod
+nsubj nummod root cc conj compound punct amod dep obj compound punct appos punct amod punct
+nsubj flat case nmod flat flat flat punct root amod punct dep cc conj compound amod cc conj nsubj acl amod punct
+nsubj nsubj root obj compound punct nsubj advcl obj compound det compound amod
+root amod advmod mark conj xcomp mark advcl det amod cc conj
+root amod advmod mark conj xcomp mark advcl det amod cc conj
+nsubj flat flat flat advmod root advmod punct
+case obl compound root punct obj punct flat nummod obj case obl nummod compound nsubj advmod amod
+root amod compound compound compound
+nsubj compound advmod amod advmod root obj amod fixed nmod
+nsubj flat amod nmod nummod compound amod punct nsubj amod advmod root punct conj compound punct conj compound amod mark advcl obj compound punct
+nsubj flat amod nmod nummod compound amod punct nsubj amod advmod root punct conj compound punct conj compound amod mark advcl obj compound punct
+nsubj flat amod nmod nummod compound amod punct nsubj amod advmod root punct conj compound punct conj compound amod mark advcl obj compound punct
+case nmod acl nummod punct nummod obj advmod root nsubj advmod amod punct advmod appos nsubj advmod
+root advmod amod obj flat flat punct det appos flat nummod case conj compound mark advcl case obl compound compound det punct
+root advmod amod obj flat flat punct det appos flat nummod case conj compound mark advcl case obl compound compound det punct
+nsubj obj nsubj acl case nummod det root compound nsubj amod cc conj compound nsubj amod punct
+nsubj obj nsubj acl case nummod det root compound nsubj amod cc conj compound nsubj amod punct
+nsubj root advmod advmod xcomp obj mark advcl det amod punct amod appos punct punct
+case obl compound advmod amod nsubj:pass compound advmod root case obl punct
+mark case case nmod punct nsubj cc conj flat root amod punct
+mark case case nmod punct nsubj cc conj flat root amod punct
+mark case case nmod punct nsubj cc conj flat root amod punct
+case obl det root obj compound advmod advmod acl obj advcl amod punct amod compound nmod flat flat punct nsubj compound compound compound advcl amod punct
+mark nsubj compound amod advmod root case obl flat flat flat punct
+nsubj root obj compound advmod amod punct conj advmod amod punct parataxis compound compound advmod amod punct mark det nsubj:pass advcl obj case nmod mark advmod advmod amod punct
+nsubj root obj compound advmod amod punct conj advmod amod punct parataxis compound compound advmod amod punct mark det nsubj:pass advcl obj case nmod mark advmod advmod amod punct
+advmod advmod root obj nsubj amod punct mark nummod punct nummod nsubj advmod dep obj obj compound mark nsubj compound advcl obj obj advmod punct
+mark mark obj nsubj advcl mark nsubj:pass compound advcl punct appos compound punct punct nsubj:pass compound root advmod amod punct obl
+root cc conj compound advmod amod mark advcl amod punct advmod xcomp obj amod advcl punct
+root cc conj compound advmod amod mark advcl amod punct advmod xcomp obj amod advcl punct
+root cc conj compound advmod amod mark advcl amod punct advmod xcomp obj amod advcl punct
+nsubj compound compound det advmod root punct
+root advmod obj det det advmod amod nsubj amod cc conj det advmod amod
+root advmod obj det det advmod amod nsubj amod cc conj det advmod amod
+nsubj compound case nmod amod amod punct conj amod punct case obl advmod root case obl compound det punct conj amod cc advmod amod punct
+nsubj compound case nmod amod amod punct conj amod punct case obl advmod root case obl compound det punct conj amod cc advmod amod punct
+nsubj compound case nmod amod amod punct conj amod punct case obl advmod root case obl compound det punct conj amod cc advmod amod punct
+nsubj:pass det nsubj:pass compound advmod root advmod amod advmod advmod nummod obl punct compound cc conj case nummod obl nummod compound advmod advmod amod punct
+root compound amod punct appos compound det compound det amod
+root compound amod punct appos compound det compound det amod
+advmod advmod nsubj nsubj:pass acl obl det det root obj det compound amod
+nsubj advmod root obj obj nsubj acl mark obl case nmod compound compound nsubj amod punct
+nsubj compound advmod advmod root obj compound cc conj case nummod nmod punct
+nsubj nummod flat flat root case nmod amod cc conj punct advmod advmod compound det punct
+advmod advcl amod mark det advmod root obj amod case obl
+case obl amod root obj punct nsubj cc advmod amod det mark advcl compound amod advmod amod nsubj amod punct
+case obl amod root obj punct nsubj cc advmod amod det mark advcl compound amod advmod amod nsubj amod punct
+nsubj root obj compound det advmod case amod
+nsubj amod flat root obj compound case nmod nsubj amod advmod conj
+nsubj flat flat root obj compound advmod amod punct nsubj advmod dep punct advcl obj nummod punct nummod punct
+nsubj flat flat root obj compound advmod amod punct nsubj advmod dep punct advcl obj nummod punct nummod punct
+nsubj root xcomp obj nsubj:pass flat advmod advcl case obl compound det amod punct
+mark case nmod nsubj advmod advmod root case nmod punct det punct
+nsubj flat compound amod advmod root obj compound nsubj advmod amod case xcomp mark nsubj advmod advcl obj compound advmod amod punct
+nsubj flat compound amod advmod root obj compound nsubj advmod amod case xcomp mark nsubj advmod advcl obj compound advmod amod punct
+advmod root compound compound amod advmod flat punct det advmod dep fixed case obl advmod mark advmod advcl mark nsubj:pass advcl case case nmod
+nsubj flat cop root nsubj amod case nmod nmod punct mark det amod advcl obj punct nsubj compound compound compound det advmod dep cc advmod conj punct
+root acl obj amod punct mark amod obj cc conj amod punct
+root acl obj amod punct mark amod amod cc conj amod punct
+root acl obj amod punct mark amod obj cc conj amod punct
+root amod case nmod mark advcl compound acl obj cc conj
+root amod case nmod mark advcl compound acl obj cc conj
+nsubj flat punct flat nummod compound det advmod advmod root case nmod flat punct conj mark amod
+advmod nsubj root case obl flat punct mark case xcomp nsubj:pass det nsubj:pass det advmod advcl cc conj punct mark mark nsubj advmod advcl case case obl cc conj amod obl det advmod amod punct
+root compound compound compound compound amod
+nsubj flat advmod root case obl compound amod punct
+nsubj flat advmod root case obl punct conj amod punct
+mark nsubj advmod root punct advcl compound advmod punct
+nsubj:pass flat flat root advmod amod
+nsubj root obj advmod nummod compound advmod obj compound amod compound det advmod advmod amod
+nsubj compound compound det root punct
+advmod det advcl flat flat compound det amod punct nsubj:pass compound compound root advmod advmod fixed mark advmod parataxis punct nsubj amod punct flat advmod punct
+root compound advmod amod obj cc conj det punct conj compound det acl cc advmod conj obj
+root compound advmod amod obj cc conj det punct conj compound det acl cc advmod conj obj
+nsubj nummod root obj compound amod case nmod det case nmod compound cc conj nsubj amod mark advmod conj case nmod mark advcl case obl punct advmod conj compound advmod compound advmod amod case xcomp case det nmod punct
+nsubj nummod root obj compound amod case nmod det case nmod compound cc conj nsubj amod mark advmod conj case nmod mark advcl case obl punct advmod conj compound advmod compound advmod amod case xcomp case det nmod punct
+nsubj root xcomp case xcomp mark advcl obj compound det advmod acl
+advmod advmod root obj compound compound nsubj amod nmod
+nsubj:pass compound flat compound flat nummod flat flat det root advmod punct
+nsubj compound compound det advmod root punct
+nsubj root advmod amod mark nsubj det amod obj
+nsubj root advmod amod mark nsubj det amod obj
+root flat compound nsubj advmod amod cc conj amod punct
+advmod nummod obl nsubj root obj flat punct advmod amod advcl
+advmod nsubj compound compound nsubj advmod root punct advcl amod punct advmod dep advmod punct mark nsubj advcl obj det nsubj advmod advmod advcl compound compound obj nsubj acl punct
+nsubj flat det root obj compound nsubj amod
+case obl det nsubj compound compound advmod root nsubj acl punct
+case nsubj nsubj det advmod acl obj punct root compound compound advmod amod case nmod punct conj nsubj amod cc conj nsubj amod mark advcl advmod amod case det obl punct
+nsubj det root amod amod advmod case obl acl
+nsubj root obj flat flat nummod det case obl amod case conj obj compound punct conj punct
+nsubj root obj flat advmod amod cc conj amod punct case obl advmod nsubj acl nsubj amod
+nsubj:pass compound compound compound flat flat flat flat punct root obj amod compound det mark advmod advcl punct obj det advmod amod
+nsubj advmod root obj flat case nmod punct compound
+nsubj compound det advmod root xcomp obj mark advcl compound det nsubj amod
+nsubj advmod advmod root mark amod
+root nmod compound det nsubj:pass acl obj compound compound amod compound compound cc conj case ccomp case xcomp obj amod punct
+root nmod compound det nsubj:pass acl obj compound compound amod compound compound cc conj case ccomp case xcomp obj amod punct
+case obl nsubj advmod amod compound compound case nmod root amod
+case obl nsubj advmod amod compound compound case nmod root amod
+root nmod compound det nsubj:pass acl obj compound compound amod compound compound cc conj case ccomp case xcomp obj amod punct

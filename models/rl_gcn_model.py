@@ -293,7 +293,8 @@ class RLGCN(nn.Module):
         
         self.nt_xent_criterion = NTXentLoss(opt.device, opt.batch_size, 1.0, True)
         
-        model_name = "bert-base-uncased"
+        #model_name = "bert-base-uncased"
+        model_name = "indobenchmark/indobert-base-p2"
         self.bert_model = BertModel.from_pretrained(model_name, output_hidden_states=True, return_dict=False)
         
         self.text_embed_dropout = nn.Dropout(0.3) #nn.Dropout(0.3)
